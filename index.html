@@ -25,6 +25,7 @@
             --cat-startup: #8b5cf6;
             --cat-it: #06b6d4;
             --cat-business: #f43f5e;
+            --city-color: #d946ef;
         }
 
         * {
@@ -52,7 +53,7 @@
 
         header {
             text-align: center;
-            margin-bottom: 3rem;
+            margin-bottom: 2rem;
             padding: 2rem 0;
         }
 
@@ -81,12 +82,19 @@
             border: 1px solid rgba(16, 185, 129, 0.2);
         }
 
+        .controls-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
         .filters {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
             gap: 1rem;
-            margin-bottom: 3rem;
         }
 
         .filter-btn {
@@ -112,6 +120,36 @@
             border-color: var(--accent);
             color: white;
             box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
+        }
+
+        .city-select {
+            background: var(--card-bg);
+            border: 1px solid var(--accent);
+            color: var(--text-primary);
+            padding: 0.6rem 1.2rem;
+            border-radius: 30px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            outline: none;
+            backdrop-filter: blur(5px);
+            appearance: none;
+            padding-right: 2.5rem;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2360a5fa' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 1rem center;
+            background-size: 1em;
+            box-shadow: 0 0 10px rgba(59, 130, 246, 0.2);
+            transition: all 0.2s ease;
+        }
+        
+        .city-select:hover {
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
+        }
+
+        .city-select option {
+            background: var(--bg-color);
+            color: var(--text-primary);
         }
 
         .grid {
@@ -142,12 +180,15 @@
         .card-header {
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
             margin-bottom: 1rem;
+            flex-wrap: wrap;
+            gap: 0.5rem;
         }
 
         .badges {
             display: flex;
+            flex-wrap: wrap;
             gap: 0.5rem;
             align-items: center;
         }
@@ -160,6 +201,16 @@
             font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
+        }
+        
+        .location-badge {
+            background: rgba(217, 70, 239, 0.15);
+            color: var(--city-color);
+            padding: 0.2rem 0.6rem;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            border: 1px solid rgba(217, 70, 239, 0.3);
         }
 
         .cat-badge {
@@ -181,6 +232,7 @@
         .date {
             color: var(--text-secondary);
             font-size: 0.8rem;
+            margin-left: auto;
         }
 
         .title {
@@ -240,10 +292,6 @@
             animation: pulse 1.5s infinite;
         }
 
-        .hidden {
-            display: none !important;
-        }
-
         @media (max-width: 768px) {
             .grid {
                 grid-template-columns: 1fr;
@@ -265,14 +313,40 @@
             <div id="last-updated" class="last-updated" style="display: none;"></div>
         </header>
 
-        <div class="filters" id="filters">
-            <button class="filter-btn active" data-filter="all">All News</button>
-            <button class="filter-btn" data-filter="Funding">Funding</button>
-            <button class="filter-btn" data-filter="Layoffs">Layoffs</button>
-            <button class="filter-btn" data-filter="Recruitment">Recruitment</button>
-            <button class="filter-btn" data-filter="Startup">Startup</button>
-            <button class="filter-btn" data-filter="IT Industry">IT Industry</button>
-            <button class="filter-btn" data-filter="Business">Business</button>
+        <div class="controls-container">
+            <div class="filters" id="filters">
+                <button class="filter-btn active" data-filter="all">All Categories</button>
+                <button class="filter-btn" data-filter="Funding">Funding</button>
+                <button class="filter-btn" data-filter="Layoffs">Layoffs</button>
+                <button class="filter-btn" data-filter="Recruitment">Recruitment</button>
+                <button class="filter-btn" data-filter="Startup">Startup</button>
+                <button class="filter-btn" data-filter="IT Industry">IT Industry</button>
+                <button class="filter-btn" data-filter="Business">Business</button>
+            </div>
+            
+            <select id="cityFilter" class="city-select">
+                <option value="all">📍 All Cities (National)</option>
+                <option value="Bengaluru">📍 Bengaluru</option>
+                <option value="Hyderabad">📍 Hyderabad</option>
+                <option value="Pune">📍 Pune</option>
+                <option value="Chennai">📍 Chennai</option>
+                <option value="Mumbai">📍 Mumbai</option>
+                <option value="Delhi NCR">📍 Delhi NCR</option>
+                <option value="Ahmedabad">📍 Ahmedabad</option>
+                <option value="Kolkata">📍 Kolkata</option>
+                <option value="Gurugram">📍 Gurugram</option>
+                <option value="Noida">📍 Noida</option>
+                <option value="Chandigarh">📍 Chandigarh</option>
+                <option value="Jaipur">📍 Jaipur</option>
+                <option value="Visakhapatnam">📍 Visakhapatnam</option>
+                <option value="Indore">📍 Indore</option>
+                <option value="Coimbatore">📍 Coimbatore</option>
+                <option value="Bhubaneswar">📍 Bhubaneswar</option>
+                <option value="Lucknow">📍 Lucknow</option>
+                <option value="Thiruvananthapuram">📍 Thiruvananthapuram</option>
+                <option value="Kochi">📍 Kochi</option>
+                <option value="Nashik">📍 Nashik</option>
+            </select>
         </div>
 
         <div id="news-grid" class="grid">
@@ -283,6 +357,7 @@
     <script>
         let allArticles = [];
         let currentFilter = 'all';
+        let currentCity = 'all';
 
         // Set up filter buttons
         document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -294,16 +369,31 @@
             });
         });
 
+        // Set up city dropdown
+        document.getElementById('cityFilter').addEventListener('change', (e) => {
+            currentCity = e.target.value;
+            renderGrid();
+        });
+
         function renderGrid() {
             const grid = document.getElementById('news-grid');
             grid.innerHTML = '';
             
-            const filtered = currentFilter === 'all' 
-                ? allArticles 
-                : allArticles.filter(a => a.category === currentFilter);
+            let filtered = allArticles;
+            
+            // Apply category filter
+            if (currentFilter !== 'all') {
+                filtered = filtered.filter(a => a.category === currentFilter);
+            }
+            
+            // Apply city filter
+            if (currentCity !== 'all') {
+                // To support both older format (no city field) and new format
+                filtered = filtered.filter(a => (a.city || 'National') === currentCity);
+            }
                 
             if (filtered.length === 0) {
-                grid.innerHTML = `<div class="loading">No articles found for category: ${currentFilter}</div>`;
+                grid.innerHTML = `<div class="loading">No articles found matching your criteria.</div>`;
                 return;
             }
 
@@ -318,12 +408,18 @@
 
                 // Make safe css class
                 const safeClass = article.category.toLowerCase().replace(' ', '-');
+                
+                // Get city tag
+                const cityTag = (article.city && article.city !== 'National') 
+                    ? `<span class="location-badge">📍 ${article.city}</span>` 
+                    : '';
 
                 const card = document.createElement('div');
                 card.className = 'card';
                 card.innerHTML = `
                     <div class="card-header">
                         <div class="badges">
+                            ${cityTag}
                             <span class="cat-badge ${safeClass}">${article.category}</span>
                             <span class="site-badge">${article.site}</span>
                         </div>

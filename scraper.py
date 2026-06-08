@@ -25,13 +25,58 @@ RSS_FEEDS = {
     "iCreate": "https://icreate.org.in/feed/",
     "Face2News": "https://face2news.com/feed/",
     "OCAC": "https://ocac.in/en/rss.xml",
-    "IT Mission Kerala": "https://itmission.kerala.gov.in/rss.xml"
+    "IT Mission Kerala": "https://itmission.kerala.gov.in/rss.xml",
+    "Google News Bengaluru": "https://news.google.com/rss/search?q=Bengaluru+Startup+OR+Tech+OR+IT",
+    "Google News Hyderabad": "https://news.google.com/rss/search?q=Hyderabad+Startup+OR+Tech+OR+IT",
+    "Google News Pune": "https://news.google.com/rss/search?q=Pune+Startup+OR+Tech+OR+IT",
+    "Google News Chennai": "https://news.google.com/rss/search?q=Chennai+Startup+OR+Tech+OR+IT",
+    "Google News Mumbai": "https://news.google.com/rss/search?q=Mumbai+Startup+OR+Tech+OR+IT",
+    "Google News Delhi": "https://news.google.com/rss/search?q=Delhi+Startup+OR+Tech+OR+IT",
+    "Google News Ahmedabad": "https://news.google.com/rss/search?q=Ahmedabad+Startup+OR+Tech+OR+IT",
+    "Google News Kolkata": "https://news.google.com/rss/search?q=Kolkata+Startup+OR+Tech+OR+IT",
+    "Google News Gurugram": "https://news.google.com/rss/search?q=Gurugram+Startup+OR+Tech+OR+IT",
+    "Google News Noida": "https://news.google.com/rss/search?q=Noida+Startup+OR+Tech+OR+IT",
+    "Google News Chandigarh": "https://news.google.com/rss/search?q=Chandigarh+Startup+OR+Tech+OR+IT",
+    "Google News Jaipur": "https://news.google.com/rss/search?q=Jaipur+Startup+OR+Tech+OR+IT",
+    "Google News Visakhapatnam": "https://news.google.com/rss/search?q=Visakhapatnam+Startup+OR+Tech+OR+IT",
+    "Google News Indore": "https://news.google.com/rss/search?q=Indore+Startup+OR+Tech+OR+IT",
+    "Google News Coimbatore": "https://news.google.com/rss/search?q=Coimbatore+Startup+OR+Tech+OR+IT",
+    "Google News Bhubaneswar": "https://news.google.com/rss/search?q=Bhubaneswar+Startup+OR+Tech+OR+IT",
+    "Google News Lucknow": "https://news.google.com/rss/search?q=Lucknow+Startup+OR+Tech+OR+IT",
+    "Google News Thiruvananthapuram": "https://news.google.com/rss/search?q=Thiruvananthapuram+Startup+OR+Tech+OR+IT",
+    "Google News Kochi": "https://news.google.com/rss/search?q=Kochi+Startup+OR+Tech+OR+IT",
+    "Google News Nashik": "https://news.google.com/rss/search?q=Nashik+Startup+OR+Tech+OR+IT"
 }
 
 NEWS_FILE = "news.json"
 MAX_ARTICLES = 500
 
 # Keyword matching for auto-categorization
+
+# City matching for auto-categorization
+CITIES = {
+    "Bengaluru": ["bengaluru", "bangalore"],
+    "Hyderabad": ["hyderabad", "cyberabad"],
+    "Pune": ["pune"],
+    "Chennai": ["chennai"],
+    "Mumbai": ["mumbai"],
+    "Delhi NCR": ["delhi", "ncr", "new delhi"],
+    "Ahmedabad": ["ahmedabad"],
+    "Kolkata": ["kolkata", "calcutta"],
+    "Gurugram": ["gurugram", "gurgaon"],
+    "Noida": ["noida"],
+    "Chandigarh": ["chandigarh"],
+    "Jaipur": ["jaipur"],
+    "Visakhapatnam": ["visakhapatnam", "vizag"],
+    "Indore": ["indore"],
+    "Coimbatore": ["coimbatore"],
+    "Bhubaneswar": ["bhubaneswar"],
+    "Lucknow": ["lucknow"],
+    "Thiruvananthapuram": ["thiruvananthapuram", "trivandrum"],
+    "Kochi": ["kochi", "cochin"],
+    "Nashik": ["nashik", "nasik"]
+}
+
 CATEGORIES = {
     "Funding": ["fund", "raised", "million", "billion", "seed", "series a", "series b", "series c", "investment", "capital", "valuation"],
     "Layoffs": ["layoff", "fired", "job cut", "let go", "downsize", "restructur", "pink slip", "sack"],
@@ -40,6 +85,15 @@ CATEGORIES = {
     "IT Industry": ["software", "tech", "saas", "cybersecurity", "ai ", "artificial intelligence", "data center", "cloud"],
     "Business": ["revenue", "profit", "acquisition", "merger", "shares", "ipo", "market", "corporate", "economy", "nclt"]
 }
+
+
+def categorize_city(title, summary):
+    text = (title + " " + summary).lower()
+    for city_name, keywords in CITIES.items():
+        for kw in keywords:
+            if kw in text:
+                return city_name
+    return "National"
 
 def categorize_article(title, summary):
     """Scan title and summary to find the best matching category."""
@@ -111,13 +165,15 @@ def fetch_latest_news():
                         published = entry.get('published', '')
                         date_obj = parse_date(published)
                         
+                        city = categorize_city(title, summary)
                         new_articles.append({
                             "site": site_name,
                             "title": title,
                             "link": link,
                             "published": published,
                             "timestamp": date_obj.timestamp(),
-                            "category": category
+                            "category": category,
+                            "city": city
                         })
         except Exception as e:
             print(f"  -> [ERROR] Failed to fetch {site_name}: {e}")
