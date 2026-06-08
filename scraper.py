@@ -24,7 +24,7 @@ RSS_FEEDS = {
 }
 
 NEWS_FILE = "news.json"
-MAX_ARTICLES = 150
+MAX_ARTICLES = 500
 
 # Keyword matching for auto-categorization
 CATEGORIES = {
@@ -123,7 +123,7 @@ def fetch_latest_news():
     with open(SEEN_FILE, "w") as f:
         json.dump(list(seen_links), f)
         
-    # Combine new and existing, keep max 150
+    # Combine new and existing, keeping max limit
     all_articles = new_articles + existing_articles
     all_articles.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
     
