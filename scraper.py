@@ -5,14 +5,15 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 
 RSS_FEEDS = {
-    "Entrackr": "https://entrackr.com/rss",
-    "Indian Startup News": "https://indianstartupnews.com/rss",
-    "TICE News": "https://www.tice.news/rss",
-    "Business Today": "https://www.businesstoday.in/feed/",
-    "People Matters": "https://www.peoplematters.in/feed.rss",
+    "Entrackr": "https://entrackr.com/feed/",
+    "Indian Startup News": "https://indianstartupnews.com/feed/rss2",
+    "TICE News": "https://www.ticenews.com/feed",
+    "Business Today": "https://www.businesstoday.in/rssfeeds/?id=225346",
+    "People Matters": "https://www.peoplematters.in/rss",
     "NASSCOM": "https://nasscom.in/rss.xml",
     "Inc42": "https://inc42.com/feed/",
-    "HackerRank Blog": "https://www.hackerrank.com/blog/feed/"
+    "HackerRank Blog": "https://www.hackerrank.com/blog/feed/",
+    "HR Economic Times": "https://hr.economictimes.indiatimes.com/rss/topstories"
 }
 
 NEWS_FILE = "news.json"
