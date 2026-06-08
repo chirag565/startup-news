@@ -20,7 +20,12 @@ RSS_FEEDS = {
     "DQ India": "https://www.dqindia.com/rss",
     "Express Computer": "https://www.expresscomputer.in/feed/",
     "CIO India": "https://www.cio.com/in/feed/",
-    "Layoffs.fyi": "https://layoffs.fyi/feed/"
+    "Layoffs.fyi": "https://layoffs.fyi/feed/",
+    "Punekar News": "https://www.punekarnews.in/category/business/feed/",
+    "iCreate": "https://icreate.org.in/feed/",
+    "Face2News": "https://face2news.com/feed/",
+    "OCAC": "https://ocac.in/en/rss.xml",
+    "IT Mission Kerala": "https://itmission.kerala.gov.in/rss.xml"
 }
 
 NEWS_FILE = "news.json"

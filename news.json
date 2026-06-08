@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-08 19:38:41",
+    "last_updated": "2026-06-08 19:50:09",
     "articles": [
         {
             "site": "Express Computer",
@@ -136,6 +136,14 @@
             "published": "Mon, 08 Jun 2026 17:14:46 +0530",
             "timestamp": 1780919086.0,
             "category": "Funding"
+        },
+        {
+            "site": "Face2News",
+            "title": "AUSWIDE GLOBAL CONDUCTS HYGIENE KIT DISTRIBUTION DRIVE UNDER AUSWIDE GREENMILE INITIATIVE",
+            "link": "https://face2news.com/auswide-global-conducts-hygiene-kit-distribution-drive-under-auswide-greenmile-initiative/",
+            "published": "Mon, 08 Jun 2026 11:33:16 +0000",
+            "timestamp": 1780918396.0,
+            "category": "Business"
         },
         {
             "site": "Express Computer",
@@ -858,6 +866,14 @@
             "category": "Funding"
         },
         {
+            "site": "Punekar News",
+            "title": "Tata Technologies Launches InnoVent-27 AI Hackathon; Engineering Students Can Win \u20b94.5 Lakh and Job Opportunities",
+            "link": "https://www.punekarnews.in/tata-technologies-launches-innovent-27-ai-hackathon-engineering-students-can-win-%e2%82%b94-5-lakh-and-job-opportunities/",
+            "published": "Fri, 05 Jun 2026 12:28:26 +0000",
+            "timestamp": 1780662506.0,
+            "category": "IT Industry"
+        },
+        {
             "site": "Inc42",
             "title": "Cybersecurity Startup Innefu Labs Raises $30 Mn From Panthera Growth Partners",
             "link": "https://inc42.com/buzz/cybersecurity-startup-innefu-labs-raises-30-mn-from-panthera-growth-partners/",
@@ -1074,6 +1090,14 @@
             "category": "Funding"
         },
         {
+            "site": "Punekar News",
+            "title": "Amazon Deal, Record Leasing and Mega Logistics Parks: Welspun One Targets 10 Million Sq Ft Expansion Across India",
+            "link": "https://www.punekarnews.in/amazon-deal-record-leasing-and-mega-logistics-parks-welspun-one-targets-10-million-sq-ft-expansion-across-india/",
+            "published": "Thu, 04 Jun 2026 15:24:11 +0000",
+            "timestamp": 1780586651.0,
+            "category": "Funding"
+        },
+        {
             "site": "DQ India",
             "title": "Cognizant launches India-focused 'Ace Team' to strengthen AI engineering capabilities",
             "link": "https://www.dqindia.com/business-technologies/cognizant-launches-ace-team-program-to-build-next-generation-ai-engineers-image-prompt-12002271",
@@ -1200,6 +1224,62 @@
             "published": "Thu, 04 Jun 2026 10:57:12 +0530",
             "timestamp": 1780550832.0,
             "category": "Funding"
+        },
+        {
+            "site": "Punekar News",
+            "title": "ICMAI Pune Chapter elects CMA Rahul Chincholkar as chairman for 2026-27",
+            "link": "https://www.punekarnews.in/icmai-pune-chapter-elects-cma-rahul-chincholkar-as-chairman-for-2026-27/",
+            "published": "Sun, 31 May 2026 15:53:30 +0000",
+            "timestamp": 1780242810.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "Punekar News",
+            "title": "Equity Mutual Funds vs Debt Mutual Funds",
+            "link": "https://www.punekarnews.in/equity-mutual-funds-vs-debt-mutual-funds/",
+            "published": "Fri, 29 May 2026 02:00:31 +0000",
+            "timestamp": 1780020031.0,
+            "category": "Funding"
+        },
+        {
+            "site": "OCAC",
+            "title": "Technology",
+            "link": "https://ocac.in/en/node/10",
+            "published": "Tue, 13 Jun 2023 06:46:47 +0000",
+            "timestamp": 1686638807.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "IT Mission Kerala",
+            "title": "Remote Code Execution Vulnerability in Apache Java logging library Log4j (Severity: High)",
+            "link": "https://itmission.kerala.gov.in/node/749",
+            "published": "Wed, 15 Dec 2021 08:27:31 +0000",
+            "timestamp": 1639556851.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "IT Mission Kerala",
+            "title": "Alert: Multiple Vulnerabilities in Mozilla Products",
+            "link": "https://itmission.kerala.gov.in/node/702",
+            "published": "Mon, 13 Sep 2021 07:34:43 +0000",
+            "timestamp": 1631518483.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "IT Mission Kerala",
+            "title": "Alert: Multiple Vulnerabilities in Foxit PDF Reader and Foxit PDF Editor",
+            "link": "https://itmission.kerala.gov.in/node/701",
+            "published": "Mon, 13 Sep 2021 07:33:29 +0000",
+            "timestamp": 1631518409.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "IT Mission Kerala",
+            "title": "Phishing mail (Bitcoin blackmail scam)",
+            "link": "https://itmission.kerala.gov.in/node/697",
+            "published": "Mon, 13 Sep 2021 07:27:50 +0000",
+            "timestamp": 1631518070.0,
+            "category": "IT Industry"
         }
     ]
 }
