@@ -1,8 +1,12 @@
 import feedparser
 import json
 import os
+import socket
 from datetime import datetime
 from email.utils import parsedate_to_datetime
+
+# Prevent infinite hangs if a server is unresponsive
+socket.setdefaulttimeout(15)
 
 RSS_FEEDS = {
     "Entrackr": "https://entrackr.com/feed/",
