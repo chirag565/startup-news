@@ -49,7 +49,7 @@ RSS_FEEDS = {
 }
 
 NEWS_FILE = "news.json"
-MAX_ARTICLES = 500
+MAX_ARTICLES = 2000
 
 # Keyword matching for auto-categorization
 

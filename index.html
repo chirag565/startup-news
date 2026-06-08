@@ -352,12 +352,17 @@
         <div id="news-grid" class="grid">
             <div class="loading"><span>Fetching latest categorized news...</span></div>
         </div>
+        
+        <div id="load-more-container" style="text-align: center; margin-top: 3rem; display: none;">
+            <button id="load-more-btn" class="filter-btn active" style="padding: 0.8rem 2rem; font-size: 1.1rem;">Load More Articles ↓</button>
+        </div>
     </div>
 
     <script>
         let allArticles = [];
         let currentFilter = 'all';
         let currentCity = 'all';
+        let visibleCount = 50;
 
         // Set up filter buttons
         document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -365,6 +370,7 @@
                 document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
                 e.target.classList.add('active');
                 currentFilter = e.target.getAttribute('data-filter');
+                visibleCount = 50;
                 renderGrid();
             });
         });
@@ -372,6 +378,13 @@
         // Set up city dropdown
         document.getElementById('cityFilter').addEventListener('change', (e) => {
             currentCity = e.target.value;
+            visibleCount = 50;
+            renderGrid();
+        });
+
+
+        document.getElementById('load-more-btn').addEventListener('click', () => {
+            visibleCount += 50;
             renderGrid();
         });
 
@@ -394,10 +407,19 @@
                 
             if (filtered.length === 0) {
                 grid.innerHTML = `<div class="loading">No articles found matching your criteria.</div>`;
+                document.getElementById('load-more-container').style.display = 'none';
                 return;
             }
 
-            filtered.forEach(article => {
+            const toRender = filtered.slice(0, visibleCount);
+            
+            if (filtered.length > visibleCount) {
+                document.getElementById('load-more-container').style.display = 'block';
+            } else {
+                document.getElementById('load-more-container').style.display = 'none';
+            }
+
+            toRender.forEach(article => {
                 let dateStr = article.published;
                 try {
                     const d = new Date(article.published);
