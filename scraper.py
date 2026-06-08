@@ -91,6 +91,13 @@ CATEGORIES = {
 }
 
 
+
+def is_english(text):
+    import re
+    if re.search(r'[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af]', text):
+        return False
+    return True
+
 def categorize_city(title, summary):
     text = (title + " " + summary).lower()
     for city_name, keywords in CITIES.items():
@@ -120,9 +127,12 @@ def load_news():
             return []
     return []
 
+from datetime import datetime, timedelta
+
 def save_news(articles):
+    ist_time = datetime.now() + timedelta(hours=5, minutes=30)
     data = {
-        "last_updated": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        "last_updated": ist_time.strftime('%Y-%m-%d %H:%M:%S IST'),
         "articles": articles[:MAX_ARTICLES]
     }
     with open(NEWS_FILE, "w", encoding="utf-8") as f:
@@ -163,6 +173,10 @@ def fetch_latest_news():
                     
                     title = entry.get('title', 'No Title')
                     summary = entry.get('summary', '')
+                    
+                    if not is_english(title + summary):
+                        continue
+                        
                     category = categorize_article(title, summary)
                     
                     # SAFETY BYPASS: Google News searches are already strictly filtered by Google's backend.
@@ -193,8 +207,11 @@ def fetch_latest_news():
     with open(SEEN_FILE, "w") as f:
         json.dump(list(seen_links), f)
         
+    # Re-filter existing articles just in case
+    filtered_existing = [a for a in existing_articles if is_english(a.get('title', '') + a.get('summary', ''))]
+    
     # Combine new and existing, keeping max limit
-    all_articles = new_articles + existing_articles
+    all_articles = new_articles + filtered_existing
     all_articles.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
     
     save_news(all_articles)
