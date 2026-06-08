@@ -26,26 +26,26 @@ RSS_FEEDS = {
     "Face2News": "https://face2news.com/feed/",
     "OCAC": "https://ocac.in/en/rss.xml",
     "IT Mission Kerala": "https://itmission.kerala.gov.in/rss.xml",
-    "Google News Bengaluru": "https://news.google.com/rss/search?q=Bengaluru+Startup+OR+Tech+OR+IT",
-    "Google News Hyderabad": "https://news.google.com/rss/search?q=Hyderabad+Startup+OR+Tech+OR+IT",
-    "Google News Pune": "https://news.google.com/rss/search?q=Pune+Startup+OR+Tech+OR+IT",
-    "Google News Chennai": "https://news.google.com/rss/search?q=Chennai+Startup+OR+Tech+OR+IT",
-    "Google News Mumbai": "https://news.google.com/rss/search?q=Mumbai+Startup+OR+Tech+OR+IT",
-    "Google News Delhi": "https://news.google.com/rss/search?q=Delhi+Startup+OR+Tech+OR+IT",
-    "Google News Ahmedabad": "https://news.google.com/rss/search?q=Ahmedabad+Startup+OR+Tech+OR+IT",
-    "Google News Kolkata": "https://news.google.com/rss/search?q=Kolkata+Startup+OR+Tech+OR+IT",
-    "Google News Gurugram": "https://news.google.com/rss/search?q=Gurugram+Startup+OR+Tech+OR+IT",
-    "Google News Noida": "https://news.google.com/rss/search?q=Noida+Startup+OR+Tech+OR+IT",
-    "Google News Chandigarh": "https://news.google.com/rss/search?q=Chandigarh+Startup+OR+Tech+OR+IT",
-    "Google News Jaipur": "https://news.google.com/rss/search?q=Jaipur+Startup+OR+Tech+OR+IT",
-    "Google News Visakhapatnam": "https://news.google.com/rss/search?q=Visakhapatnam+Startup+OR+Tech+OR+IT",
-    "Google News Indore": "https://news.google.com/rss/search?q=Indore+Startup+OR+Tech+OR+IT",
-    "Google News Coimbatore": "https://news.google.com/rss/search?q=Coimbatore+Startup+OR+Tech+OR+IT",
-    "Google News Bhubaneswar": "https://news.google.com/rss/search?q=Bhubaneswar+Startup+OR+Tech+OR+IT",
-    "Google News Lucknow": "https://news.google.com/rss/search?q=Lucknow+Startup+OR+Tech+OR+IT",
-    "Google News Thiruvananthapuram": "https://news.google.com/rss/search?q=Thiruvananthapuram+Startup+OR+Tech+OR+IT",
-    "Google News Kochi": "https://news.google.com/rss/search?q=Kochi+Startup+OR+Tech+OR+IT",
-    "Google News Nashik": "https://news.google.com/rss/search?q=Nashik+Startup+OR+Tech+OR+IT"
+    "Google News Bengaluru": "https://news.google.com/rss/search?q=Bengaluru+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Hyderabad": "https://news.google.com/rss/search?q=Hyderabad+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Pune": "https://news.google.com/rss/search?q=Pune+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Chennai": "https://news.google.com/rss/search?q=Chennai+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Mumbai": "https://news.google.com/rss/search?q=Mumbai+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Delhi": "https://news.google.com/rss/search?q=Delhi+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Ahmedabad": "https://news.google.com/rss/search?q=Ahmedabad+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Kolkata": "https://news.google.com/rss/search?q=Kolkata+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Gurugram": "https://news.google.com/rss/search?q=Gurugram+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Noida": "https://news.google.com/rss/search?q=Noida+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Chandigarh": "https://news.google.com/rss/search?q=Chandigarh+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Jaipur": "https://news.google.com/rss/search?q=Jaipur+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Visakhapatnam": "https://news.google.com/rss/search?q=Visakhapatnam+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Indore": "https://news.google.com/rss/search?q=Indore+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Coimbatore": "https://news.google.com/rss/search?q=Coimbatore+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Bhubaneswar": "https://news.google.com/rss/search?q=Bhubaneswar+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Lucknow": "https://news.google.com/rss/search?q=Lucknow+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Thiruvananthapuram": "https://news.google.com/rss/search?q=Thiruvananthapuram+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Kochi": "https://news.google.com/rss/search?q=Kochi+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)",
+    "Google News Nashik": "https://news.google.com/rss/search?q=Nashik+AND+(Startup+OR+Tech+OR+IT+OR+Business+OR+Funding)"
 }
 
 NEWS_FILE = "news.json"
@@ -161,6 +161,11 @@ def fetch_latest_news():
                     summary = entry.get('summary', '')
                     category = categorize_article(title, summary)
                     
+                    # SAFETY BYPASS: Google News searches are already strictly filtered by Google's backend.
+                    # If our python script misses a keyword, don't throw it away! Default to Business.
+                    if not category and "Google News" in site_name:
+                        category = "Business"
+                        
                     if category: # Only save if it matches our strict categories
                         published = entry.get('published', '')
                         date_obj = parse_date(published)
