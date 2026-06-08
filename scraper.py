@@ -130,7 +130,7 @@ def load_news():
 from datetime import datetime, timedelta
 
 def save_news(articles):
-    ist_time = datetime.now() + timedelta(hours=5, minutes=30)
+    ist_time = datetime.utcnow() + timedelta(hours=5, minutes=30)
     data = {
         "last_updated": ist_time.strftime('%Y-%m-%d %H:%M:%S IST'),
         "articles": articles[:MAX_ARTICLES]
