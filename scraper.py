@@ -13,7 +13,9 @@ RSS_FEEDS = {
     "NASSCOM": "https://nasscom.in/rss.xml",
     "Inc42": "https://inc42.com/feed/",
     "HackerRank Blog": "https://www.hackerrank.com/blog/feed/",
-    "HR Economic Times": "https://hr.economictimes.indiatimes.com/rss/topstories"
+    "HR Economic Times": "https://hr.economictimes.indiatimes.com/rss/topstories",
+    "HackerEarth Blog": "https://www.hackerearth.com/blog/feed/",
+    "Mettl": "https://mettl.com/feed/"
 }
 
 NEWS_FILE = "news.json"
