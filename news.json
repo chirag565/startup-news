@@ -1,6 +1,46 @@
 {
-    "last_updated": "2026-06-08 19:18:49",
+    "last_updated": "2026-06-08 19:38:41",
     "articles": [
+        {
+            "site": "Express Computer",
+            "title": "Why Indian Venture Capital finally got serious about diligence",
+            "link": "https://www.expresscomputer.in/guest-blogs/why-indian-venture-capital-finally-got-serious-about-diligence/135792/",
+            "published": "Mon, 08 Jun 2026 14:04:02 +0000",
+            "timestamp": 1780927442.0,
+            "category": "Funding"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Why AI literacy is becoming essential for healthcare professionals",
+            "link": "https://www.expresscomputer.in/guest-blogs/why-ai-literacy-is-becoming-essential-for-healthcare-professionals/135790/",
+            "published": "Mon, 08 Jun 2026 13:58:29 +0000",
+            "timestamp": 1780927109.0,
+            "category": "Startup"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Why RBI\u2019s DLA Directory could become India\u2019s most important trust signal in Fintech",
+            "link": "https://www.expresscomputer.in/guest-blogs/why-rbis-dla-directory-could-become-indias-most-important-trust-signal-in-fintech/135787/",
+            "published": "Mon, 08 Jun 2026 13:54:01 +0000",
+            "timestamp": 1780926841.0,
+            "category": "Startup"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Why static market research models are evolving into decision intelligence systems",
+            "link": "https://www.expresscomputer.in/guest-blogs/why-static-market-research-models-are-evolving-into-decision-intelligence-systems/135782/",
+            "published": "Mon, 08 Jun 2026 13:35:45 +0000",
+            "timestamp": 1780925745.0,
+            "category": "Startup"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Cognyte expands India operations to accelerate AI-driven investigative analytics",
+            "link": "https://www.expresscomputer.in/news/cognyte-expands-india-operations-to-accelerate-ai-driven-investigative-analytics/135775/",
+            "published": "Mon, 08 Jun 2026 13:16:20 +0000",
+            "timestamp": 1780924580.0,
+            "category": "Recruitment"
+        },
         {
             "site": "Inc42",
             "title": "Aye Finance To Raise $15 Mn In Debt Funding",
@@ -18,12 +58,60 @@
             "category": "Funding"
         },
         {
+            "site": "Express Computer",
+            "title": "HCLTech launches AI Innovation Zone in collaboration with Google Cloud",
+            "link": "https://www.expresscomputer.in/news/hcltech-launches-ai-innovation-zone-in-collaboration-with-google-cloud/135772/",
+            "published": "Mon, 08 Jun 2026 13:04:57 +0000",
+            "timestamp": 1780923897.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "Express Computer",
+            "title": "In gram Micro India collaborates with Google Cloud to expand AI-driven cloud solutions in the country",
+            "link": "https://www.expresscomputer.in/news/in-gram-micro-india-collaborates-with-google-cloud-to-expand-ai-driven-cloud-solutions-in-the-country/135770/",
+            "published": "Mon, 08 Jun 2026 13:02:39 +0000",
+            "timestamp": 1780923759.0,
+            "category": "Startup"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Only 7% of organisations are truly AI-ready, finds global C-suite study",
+            "link": "https://www.expresscomputer.in/news/only-7-of-organisations-are-truly-ai-ready-finds-global-c-suite-study/135766/",
+            "published": "Mon, 08 Jun 2026 13:00:39 +0000",
+            "timestamp": 1780923639.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "DQ India",
+            "title": "Beyond Chatbots: How AI Is Rewiring Customer Experience Through Prediction, Personalization, and Trust",
+            "link": "https://www.dqindia.com/interview/gaurav-anand-tata-communications-ai-customer-experience-interview-12014794",
+            "published": "Mon, 08 Jun 2026 18:30:03 +0530",
+            "timestamp": 1780923603.0,
+            "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "No vendor is immune from being targeted",
+            "link": "https://www.dqindia.com/interview/zombie-apis-and-ghostly-ai-failures-12014640",
+            "published": "Mon, 08 Jun 2026 18:03:59 +0530",
+            "timestamp": 1780922039.0,
+            "category": "IT Industry"
+        },
+        {
             "site": "Entrackr",
             "title": "GPS Renewables raises Rs 635 Cr in Series C round",
             "link": "https://entrackr.com/snippets/gps-renewables-raises-rs-635-cr-in-series-c-round-12014596",
             "published": "Mon, 08 Jun 2026 17:41:33 +0530",
             "timestamp": 1780920693.0,
             "category": "Funding"
+        },
+        {
+            "site": "CIO India",
+            "title": "CIOs are being held accountable for AI they don\u2019t fully control, IBM study finds",
+            "link": "https://www.cio.com/article/4182288/cios-are-being-held-accountable-for-ai-they-dont-fully-control-ibm-study-finds.html",
+            "published": "Mon, 08 Jun 2026 12:05:13 +0000",
+            "timestamp": 1780920313.0,
+            "category": "Recruitment"
         },
         {
             "site": "Entrackr",
@@ -34,12 +122,28 @@
             "category": "Funding"
         },
         {
+            "site": "CIO India",
+            "title": "Linux Foundation targets AI\u2019s cost-management problem with Tokenomics Foundation",
+            "link": "https://www.cio.com/article/4182274/linux-foundation-targets-ais-cost-management-problem-with-tokenomics-foundation.html",
+            "published": "Mon, 08 Jun 2026 11:46:48 +0000",
+            "timestamp": 1780919208.0,
+            "category": "Funding"
+        },
+        {
             "site": "Indian Startup News",
             "title": "Edtech startup Klassroom moves closer to IPO after receiving BSE SME in-principle approval",
             "link": "https://indianstartupnews.com/news/edtech-startup-klassroom-moves-closer-to-ipo-after-receiving-bse-sme-in-principle-approval-12014157",
             "published": "Mon, 08 Jun 2026 17:14:46 +0530",
             "timestamp": 1780919086.0,
             "category": "Funding"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Savex and Everpure partner to modernise enterprise data infrastructure in India",
+            "link": "https://www.expresscomputer.in/news/savex-and-everpure-partner-to-modernise-enterprise-data-infrastructure-in-india/135760/",
+            "published": "Mon, 08 Jun 2026 11:30:24 +0000",
+            "timestamp": 1780918224.0,
+            "category": "IT Industry"
         },
         {
             "site": "TICE News",
@@ -55,6 +159,14 @@
             "link": "https://indianstartupnews.com/news/incuspaze-acquires-ikeva-eyes-nearly-rs-100-crore-revenue-boost-ahead-of-ipo-plans-12012880",
             "published": "Mon, 08 Jun 2026 16:36:29 +0530",
             "timestamp": 1780916789.0,
+            "category": "Funding"
+        },
+        {
+            "site": "CIO India",
+            "title": "The power grid runs on decades-old devices \u2014 and attackers know it",
+            "link": "https://www.cio.com/article/4181860/the-power-grid-runs-on-decades-old-devices-and-attackers-know-it.html",
+            "published": "Mon, 08 Jun 2026 11:00:00 +0000",
+            "timestamp": 1780916400.0,
             "category": "Funding"
         },
         {
@@ -98,12 +210,44 @@
             "category": "Startup"
         },
         {
+            "site": "CIO India",
+            "title": "The 12 most strategically important IT initiatives today",
+            "link": "https://www.cio.com/article/4178298/the-12-most-strategically-important-it-initiatives-today.html",
+            "published": "Mon, 08 Jun 2026 10:01:00 +0000",
+            "timestamp": 1780912860.0,
+            "category": "Funding"
+        },
+        {
+            "site": "CIO India",
+            "title": "Data lakehouses now a backbone for enterprise analytics and AI",
+            "link": "https://www.cio.com/article/402574/data-lakehouses-give-enterprises-analytics-edge.html",
+            "published": "Mon, 08 Jun 2026 10:00:00 +0000",
+            "timestamp": 1780912800.0,
+            "category": "Funding"
+        },
+        {
+            "site": "CIO India",
+            "title": "AI is breaking the economic logic of the public cloud",
+            "link": "https://www.cio.com/article/4181854/ai-is-breaking-the-economic-logic-of-the-public-cloud.html",
+            "published": "Mon, 08 Jun 2026 10:00:00 +0000",
+            "timestamp": 1780912800.0,
+            "category": "Funding"
+        },
+        {
             "site": "YourStory",
             "title": "Startup news and updates: Daily roundup (June 8, 2026)",
             "link": "https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-8-2026",
             "published": "Mon, 08 Jun 2026 09:58:07 GMT",
             "timestamp": 1780912687.0,
             "category": "Startup"
+        },
+        {
+            "site": "DQ India",
+            "title": "When supply chains break, decisions cannot wait: Kinaxis CEO Razat Gaurav",
+            "link": "https://www.dqindia.com/interview/when-supply-chains-break-decisions-cannot-wait-kinaxis-ceo-razat-gaurav-12013739",
+            "published": "Mon, 08 Jun 2026 15:20:34 +0530",
+            "timestamp": 1780912234.0,
+            "category": "Funding"
         },
         {
             "site": "TICE News",
@@ -122,12 +266,44 @@
             "category": "Funding"
         },
         {
+            "site": "DQ India",
+            "title": "Cloud, Big Data, Private AI, Quantum \u2013 In a Guitarist\u2019s Legato",
+            "link": "https://www.dqindia.com/interview/ai-safety-quantums-threats-and-ai-brake-fails-12005033",
+            "published": "Mon, 08 Jun 2026 15:02:34 +0530",
+            "timestamp": 1780911154.0,
+            "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "Data Centres and AI: New Ash Trays for Climate Smoke?",
+            "link": "https://www.dqindia.com/features/data-centres-ai-and-climate-impact-the-see-saw-continues-12005237",
+            "published": "Mon, 08 Jun 2026 15:01:45 +0530",
+            "timestamp": 1780911105.0,
+            "category": "Funding"
+        },
+        {
             "site": "TICE News",
             "title": "Mumukshu game at GSSF: How GSSF levels the playing field for gamers, storytellers across global south",
             "link": "https://www.tice.news/tice-partnership-programme/mumukshu-game-at-gssf-how-gssf-levels-the-playing-field-for-gamers-storytellers-across-global-south-12013553",
             "published": "Mon, 08 Jun 2026 14:50:21 +0530",
             "timestamp": 1780910421.0,
             "category": "Recruitment"
+        },
+        {
+            "site": "CIO India",
+            "title": "Stop blaming your ERP vendor",
+            "link": "https://www.cio.com/article/4181808/stop-blaming-your-erp-vendor.html",
+            "published": "Mon, 08 Jun 2026 09:00:00 +0000",
+            "timestamp": 1780909200.0,
+            "category": "Funding"
+        },
+        {
+            "site": "CIO India",
+            "title": "Claves para decidir inversiones en TI sin perder el rumbo",
+            "link": "https://www.cio.com/article/4182165/claves-para-decidir-inversiones-en-ti-sin-perder-el-rumbo.html",
+            "published": "Mon, 08 Jun 2026 08:50:41 +0000",
+            "timestamp": 1780908641.0,
+            "category": "Funding"
         },
         {
             "site": "YourStory",
@@ -144,6 +320,30 @@
             "published": "Mon, 08 Jun 2026 13:34:44 +0530",
             "timestamp": 1780905884.0,
             "category": "Funding"
+        },
+        {
+            "site": "CIO India",
+            "title": "AI \uc131\uacfc \uc9c0\ud45c \uac16\ucd98 \uae30\uc5c5 47%\ubfd0\u2026\uae00\ub85c\ubc8c IT \ub9ac\ub354, ROI \uc785\uc99d \uc704\ud55c \uc870\uc9c1 \uac1c\ud3b8 \ubcf8\uaca9\ud654",
+            "link": "https://www.cio.com/article/4182099/ai-%ec%84%b1%ea%b3%bc-%ec%a7%80%ed%91%9c-%ea%b0%96%ec%b6%98-%ea%b8%b0%ec%97%85-47%eb%bf%90%ea%b8%80%eb%a1%9c%eb%b2%8c-it-%eb%a6%ac%eb%8d%94-roi-%ec%9e%85%ec%a6%9d-%ec%9c%84%ed%95%9c.html",
+            "published": "Mon, 08 Jun 2026 07:48:14 +0000",
+            "timestamp": 1780904894.0,
+            "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "SEMI reports global semiconductor equipment billings increased 14% YoY in Q1-2026",
+            "link": "https://www.dqindia.com/esdm/semi-reports-global-semiconductor-equipment-billings-increased-14-yoy-in-q1-2026-12011401",
+            "published": "Mon, 08 Jun 2026 12:30:37 +0530",
+            "timestamp": 1780902037.0,
+            "category": "Funding"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Beyond hyperscale: How Vultr is rewiring AI infrastructure with sovereignty, cost efficiency, and platform engineering",
+            "link": "https://www.expresscomputer.in/news/beyond-hyperscale-how-vultr-is-rewiring-ai-infrastructure-with-sovereignty-cost-efficiency-and-platform-engineering/135756/",
+            "published": "Mon, 08 Jun 2026 06:51:37 +0000",
+            "timestamp": 1780901497.0,
+            "category": "IT Industry"
         },
         {
             "site": "Inc42",
@@ -170,6 +370,22 @@
             "category": "Startup"
         },
         {
+            "site": "DQ India",
+            "title": "Siemens powers next phase of industrial AI with Intelligence Center X",
+            "link": "https://www.dqindia.com/esdm/siemens-powers-next-phase-of-industrial-ai-with-intelligence-center-x-12004607",
+            "published": "Mon, 08 Jun 2026 11:11:37 +0530",
+            "timestamp": 1780897297.0,
+            "category": "Recruitment"
+        },
+        {
+            "site": "DQ India",
+            "title": "European Commission officially presents European Chips Act 2.0",
+            "link": "https://www.dqindia.com/esdm/european-commission-officially-presents-european-chips-act-20-12011386",
+            "published": "Mon, 08 Jun 2026 11:11:37 +0530",
+            "timestamp": 1780897297.0,
+            "category": "Funding"
+        },
+        {
             "site": "Entrackr",
             "title": "Managed workspace provider Incuspaze acquires iKeva",
             "link": "https://entrackr.com/snippets/managed-workspace-provider-incuspaze-acquires-ikeva-12012753",
@@ -183,6 +399,14 @@
             "link": "https://entrackr.com/news/immuneel-therapeutics-raises-over-rs-100-cr-in-series-b-12012724",
             "published": "Mon, 08 Jun 2026 10:46:20 +0530",
             "timestamp": 1780895780.0,
+            "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "AI data center expansion to drive combined monthly capacity of EML and CW-DFB LDs to 50.7 million units in 2026",
+            "link": "https://www.dqindia.com/esdm/ai-data-center-expansion-to-drive-combined-monthly-capacity-of-eml-and-cw-dfb-lds-to-507-million-units-in-2026-12004420",
+            "published": "Mon, 08 Jun 2026 10:10:37 +0530",
+            "timestamp": 1780893637.0,
             "category": "Funding"
         },
         {
@@ -202,12 +426,36 @@
             "category": "Funding"
         },
         {
+            "site": "DQ India",
+            "title": "European Commission presents Chips Act 2.0 at SEMI Europe Policy Forum to accelerate semiconductor innovation and investment",
+            "link": "https://www.dqindia.com/esdm/european-commission-presents-chips-act-20-at-semi-europe-policy-forum-to-accelerate-semiconductor-innovation-and-investment-12011374",
+            "published": "Mon, 08 Jun 2026 09:30:37 +0530",
+            "timestamp": 1780891237.0,
+            "category": "Funding"
+        },
+        {
             "site": "Inc42",
             "title": "Thank You, Partners, For Making Inc42 AI Summit 2026 A Grand Success",
             "link": "https://inc42.com/buzz/thank-you-partners-for-making-inc42-ai-summit-2026-a-grand-success/",
             "published": "Mon, 08 Jun 2026 03:41:13 +0000",
             "timestamp": 1780890073.0,
             "category": "IT Industry"
+        },
+        {
+            "site": "CIO India",
+            "title": "\uae43\ud5c8\ube0c\ub9c8\uc800 \uc0ac\uc6a9\ub7c9 \uae30\ubc18 \uccad\uad6c \uc2dc\ub300\ub85c\u2026\ucf54\ud30c\uc77c\ub7ff \uae30\ub2a5 \ud655\uc7a5 \ub098\uc11c",
+            "link": "https://www.cio.com/article/4182082/%ea%b9%83%ed%97%88%eb%b8%8c%eb%a7%88%ec%a0%80-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b8%b0%eb%b0%98-%ec%b2%ad%ea%b5%ac-%ec%8b%9c%eb%8c%80%eb%a1%9c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ec%8b%a0.html",
+            "published": "Mon, 08 Jun 2026 03:36:44 +0000",
+            "timestamp": 1780889804.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "CIO India",
+            "title": "\ud558\ub8e8\ub97c \ubc8c\uc5c8\ub2e4, \ubc29\ud5a5\uc744 \uc783\uc5c8\ub2e4\u2026 AI \uc2dc\ub300 \uc9c1\uc7a5\uc778\uc758 \ud63c\ub780",
+            "link": "https://www.cio.com/article/4182079/%ed%95%98%eb%a3%a8%eb%a5%bc-%eb%b2%8c%ec%97%88%eb%8b%a4-%eb%b0%a9%ed%96%a5%ec%9d%84-%ec%9e%83%ec%97%88%eb%8b%a4-ai-%ec%8b%9c%eb%8c%80-%ec%a7%81%ec%9e%a5%ec%9d%b8%ec%9d%98-%ed%98%bc%eb%9e%80.html",
+            "published": "Mon, 08 Jun 2026 03:25:19 +0000",
+            "timestamp": 1780889119.0,
+            "category": "Recruitment"
         },
         {
             "site": "HR Economic Times",
@@ -223,6 +471,14 @@
             "link": "https://inc42.com/buzz/films-get-the-ai-treatment-wagh-bakris-slow-brew-more/",
             "published": "Mon, 08 Jun 2026 02:30:32 +0000",
             "timestamp": 1780885832.0,
+            "category": "IT Industry"
+        },
+        {
+            "site": "CIO India",
+            "title": "\u201c\uc564\ud2b8\ub85c\ud53d AI \uc11c\ube44\uc2a4, \uc9c0\ub098\uce58\uac8c \ube44\uc2f8\u201d MS AI \uc218\uc7a5 \ube44\ud310",
+            "link": "https://www.cio.com/article/4182075/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%a7%80%eb%82%98%ec%b9%98%ea%b2%8c-%eb%b9%84%ec%8b%b8-ms-ai-%ec%88%98%ec%9e%a5-%eb%b9%84%ed%8c%90.html",
+            "published": "Mon, 08 Jun 2026 02:27:28 +0000",
+            "timestamp": 1780885648.0,
             "category": "IT Industry"
         },
         {
@@ -250,6 +506,14 @@
             "category": "Startup"
         },
         {
+            "site": "CIO India",
+            "title": "IT\u7d44\u7e54\u304c\u4eca\u3059\u3050\u53d6\u308a\u7d44\u3080\u3079\u304d\u300c\u5f8c\u6094\u3057\u306a\u3044\u300d3\u3064\u306eAI\u65bd\u7b56",
+            "link": "https://www.cio.com/article/4181979/it%e7%b5%84%e7%b9%94%e3%81%8c%e4%bb%8a%e3%81%99%e3%81%90%e5%8f%96%e3%82%8a%e7%b5%84%e3%82%80%e3%81%b9%e3%81%8d%e3%80%8c%e5%be%8c%e6%82%94%e3%81%97%e3%81%aa%e3%81%84%e3%80%8d3%e3%81%a4%e3%81%aeai.html",
+            "published": "Sun, 07 Jun 2026 23:45:00 +0000",
+            "timestamp": 1780875900.0,
+            "category": "IT Industry"
+        },
+        {
             "site": "HR Economic Times",
             "title": "Eastman Impex bets on local talent, women workforce, internal promotions",
             "link": "https://hr.economictimes.indiatimes.com/news/industry/eastman-impex-bets-on-local-talent-women-workforce-and-internal-promotions-as-it-eyes-rs-1200-crore-revenue-by-2029/131573669",
@@ -272,6 +536,14 @@
             "published": "Sun, 07 Jun 2026 19:59:05 +0530",
             "timestamp": 1780842545.0,
             "category": "Layoffs"
+        },
+        {
+            "site": "DQ India",
+            "title": "India's semiconductor sector eyes $205 billion valuation by 2034",
+            "link": "https://www.dqindia.com/esdm/indias-semiconductor-sector-eyes-205-billion-valuation-by-2034-12011357",
+            "published": "Sun, 07 Jun 2026 18:29:47 +0530",
+            "timestamp": 1780837187.0,
+            "category": "Funding"
         },
         {
             "site": "Inc42",
@@ -311,6 +583,14 @@
             "link": "https://yourstory.com/2026/06/investor-appetite-rebounds-after-a-dull-week",
             "published": "Sun, 07 Jun 2026 02:00:00 GMT",
             "timestamp": 1780797600.0,
+            "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "'AI readiness, not adoption, will define India's enterprise AI success'",
+            "link": "https://www.dqindia.com/data-and-ai/india-ai-execution-challenge-enterprise-prioritization-governance-readiness-avaali-soultions-12009653",
+            "published": "Sun, 07 Jun 2026 01:46:41 +0530",
+            "timestamp": 1780777001.0,
             "category": "Funding"
         },
         {
@@ -450,6 +730,30 @@
             "category": "Recruitment"
         },
         {
+            "site": "CIO India",
+            "title": "Trust Needs Verification: X-VPN Completed Independent No-Logs Audit",
+            "link": "https://www.cio.com/article/4181831/trust-needs-verification-x-vpn-completed-independent-no-logs-audit.html",
+            "published": "Fri, 05 Jun 2026 17:06:33 +0000",
+            "timestamp": 1780679193.0,
+            "category": "Business"
+        },
+        {
+            "site": "CIO India",
+            "title": "Tech industry cut 38,242 jobs in May, worst since 2024",
+            "link": "https://www.cio.com/article/4181317/tech-industry-cut-38242-jobs-in-may-worst-since-2024-2.html",
+            "published": "Fri, 05 Jun 2026 16:59:12 +0000",
+            "timestamp": 1780678752.0,
+            "category": "Layoffs"
+        },
+        {
+            "site": "CIO India",
+            "title": "Anthropic\u2019s AI services are too expensive, says Microsoft AI head",
+            "link": "https://www.cio.com/article/4181777/anthropics-ai-services-are-too-expensive-says-microsoft-ai-head.html",
+            "published": "Fri, 05 Jun 2026 16:10:32 +0000",
+            "timestamp": 1780675832.0,
+            "category": "IT Industry"
+        },
+        {
             "site": "HR Economic Times",
             "title": "Google lays off employees in Cloud division",
             "link": "https://hr.economictimes.indiatimes.com/news/workplace-4-0/talent-management/googles-cloud-division-layoffs-impact-on-threat-intelligence-and-mandiant-teams/131535464",
@@ -490,6 +794,14 @@
             "category": "Funding"
         },
         {
+            "site": "CIO India",
+            "title": "Multi-cloud doesn\u2019t need another tool.\nIt needs an operating model.",
+            "link": "https://www.cio.com/article/4181763/multi-cloud-doesnt-need-another-tool.html",
+            "published": "Fri, 05 Jun 2026 13:50:36 +0000",
+            "timestamp": 1780667436.0,
+            "category": "IT Industry"
+        },
+        {
             "site": "Indian Startup News",
             "title": "'Back to building': Together Fund\u2019s Manav Garg joins AI startup Emergent as executive Chairman",
             "link": "https://indianstartupnews.com/news/back-to-building-together-funds-manav-garg-joins-ai-startup-emergent-as-executive-chairman-12005214",
@@ -504,6 +816,14 @@
             "published": "Fri, 05 Jun 2026 18:25:03 +0530",
             "timestamp": 1780664103.0,
             "category": "Recruitment"
+        },
+        {
+            "site": "CIO India",
+            "title": "Anthropic suggests slowing AI research until we can align it with human goals",
+            "link": "https://www.cio.com/article/4181747/anthropic-suggests-slowing-ai-research-until-we-can-align-it-with-human-goals-2.html",
+            "published": "Fri, 05 Jun 2026 12:55:00 +0000",
+            "timestamp": 1780664100.0,
+            "category": "Funding"
         },
         {
             "site": "TICE News",
@@ -554,6 +874,14 @@
             "category": "Startup"
         },
         {
+            "site": "CIO India",
+            "title": "NIS2/DORA sin fricci\u00f3n: del cumplimiento exigido a la resiliencia operativa real",
+            "link": "https://www.cio.com/article/4181699/nis2-dora-sin-friccion-del-cumplimiento-exigido-a-la-resiliencia-operativa-real.html",
+            "published": "Fri, 05 Jun 2026 11:48:58 +0000",
+            "timestamp": 1780660138.0,
+            "category": "Funding"
+        },
+        {
             "site": "Inc42",
             "title": "RENEE Cosmetics\u2019 Revenue Crosses \u20b9400 Cr Mark In FY26, Loss Down 46% YoY",
             "link": "https://inc42.com/buzz/renee-cosmetics-revenue-crosses-%e2%82%b9400-cr-mark-in-fy26-loss-down-46-yoy/",
@@ -594,6 +922,14 @@
             "category": "Funding"
         },
         {
+            "site": "CIO India",
+            "title": "Cooling down the heat: Why liquid cooling is now mission-critical for AI datacenters",
+            "link": "https://www.cio.com/article/4181663/cooling-down-the-heat-why-liquid-cooling-is-now-mission-critical-for-ai-datacenters.html",
+            "published": "Fri, 05 Jun 2026 10:39:49 +0000",
+            "timestamp": 1780655989.0,
+            "category": "Startup"
+        },
+        {
             "site": "Indian Startup News",
             "title": "Bombay Shaving Company founder Shantanu Deshpande to share growth strategies at Amazon Ads Prime Day Summit in New Delhi",
             "link": "https://indianstartupnews.com/news/bombay-shaving-company-founder-shantanu-deshpande-to-share-growth-strategies-at-amazon-ads-prime-day-summit-in-new-delhi-12004622",
@@ -626,12 +962,28 @@
             "category": "Recruitment"
         },
         {
+            "site": "DQ India",
+            "title": "Banks and regulators strengthen defences against AI-powered cyber threats",
+            "link": "https://www.dqindia.com/data-and-ai/banks-regulators-ai-powered-financial-cyber-threats-12003969",
+            "published": "Fri, 05 Jun 2026 12:46:16 +0530",
+            "timestamp": 1780643776.0,
+            "category": "Funding"
+        },
+        {
             "site": "Entrackr",
             "title": "Panthera Growth Partners leads $30 Mn Series B round in Innefu Labs",
             "link": "https://entrackr.com/news/panthera-growth-partners-leads-30-mn-series-b-round-in-innefu-labs-12003658",
             "published": "Fri, 05 Jun 2026 11:27:37 +0530",
             "timestamp": 1780639057.0,
             "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "Purdue, GCCS partner to scale the future of silicon carbide",
+            "link": "https://www.dqindia.com/esdm/purdue-gccs-partner-to-scale-the-future-of-silicon-carbide-11900053",
+            "published": "Fri, 05 Jun 2026 11:12:37 +0530",
+            "timestamp": 1780638157.0,
+            "category": "Recruitment"
         },
         {
             "site": "Indian Startup News",
@@ -658,6 +1010,14 @@
             "category": "Funding"
         },
         {
+            "site": "DQ India",
+            "title": "Micron powers AI Everywhere at COMPUTEX 2026",
+            "link": "https://www.dqindia.com/esdm/micron-powers-ai-everywhere-at-computex-2026-11900127",
+            "published": "Fri, 05 Jun 2026 10:10:37 +0530",
+            "timestamp": 1780634437.0,
+            "category": "Funding"
+        },
+        {
             "site": "TICE News",
             "title": "Meet the Startups Building India's Tokenisation Economy Before It Goes Mainstream",
             "link": "https://www.tice.news/business-finance-economy-and-corporate-news/ai-deeptech/meet-the-startups-building-indias-tokenisation-economy-before-it-goes-mainstream-12002793",
@@ -672,6 +1032,14 @@
             "published": "Fri, 05 Jun 2026 09:43:59 +0530",
             "timestamp": 1780632839.0,
             "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "Infineon joins NVIDIA\u2019s MGX AI Factory ecosystem to transform power delivery architecture for next-gen AI server racks",
+            "link": "https://www.dqindia.com/esdm/infineon-joins-nvidias-mgx-ai-factory-ecosystem-to-transform-power-delivery-architecture-for-next-gen-ai-server-racks-11900082",
+            "published": "Fri, 05 Jun 2026 09:31:37 +0530",
+            "timestamp": 1780632097.0,
+            "category": "Startup"
         },
         {
             "site": "Entrackr",
@@ -706,6 +1074,14 @@
             "category": "Funding"
         },
         {
+            "site": "DQ India",
+            "title": "Cognizant launches India-focused 'Ace Team' to strengthen AI engineering capabilities",
+            "link": "https://www.dqindia.com/business-technologies/cognizant-launches-ace-team-program-to-build-next-generation-ai-engineers-image-prompt-12002271",
+            "published": "Thu, 04 Jun 2026 20:07:36 +0530",
+            "timestamp": 1780583856.0,
+            "category": "Funding"
+        },
+        {
             "site": "Indian Startup News",
             "title": "Pine Labs-owned Setu co-founder Nikhil Kumar steps down; says, 'It is hard to put into words'",
             "link": "https://indianstartupnews.com/news/pine-labs-owned-setu-co-founder-nikhil-kumar-steps-down-says-it-is-hard-to-put-into-words-12001109",
@@ -720,6 +1096,14 @@
             "published": "Thu, 04 Jun 2026 18:21:15 +0530",
             "timestamp": 1780577475.0,
             "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "Microsoft Build 2026 Day 2: From Cloud Copilots to Desktop Data Centers",
+            "link": "https://www.dqindia.com/events/microsoft-build-2026-day-2-key-takeaways-12001426",
+            "published": "Thu, 04 Jun 2026 17:25:05 +0530",
+            "timestamp": 1780574105.0,
+            "category": "Recruitment"
         },
         {
             "site": "Indian Startup News",
@@ -778,11 +1162,27 @@
             "category": "Recruitment"
         },
         {
+            "site": "DQ India",
+            "title": "AI\u2019s next enterprise test: moving from pilot hype to production discipline",
+            "link": "https://www.dqindia.com/interview/ais-next-enterprise-test-moving-from-pilot-hype-to-production-discipline-12000008",
+            "published": "Thu, 04 Jun 2026 12:12:28 +0530",
+            "timestamp": 1780555348.0,
+            "category": "Funding"
+        },
+        {
             "site": "Entrackr",
             "title": "PhysicsWallah rolls back lending plans, shifts student financing to NBFC partners",
             "link": "https://entrackr.com/news/physicswallah-rolls-back-lending-plans-shifts-student-financing-to-nbfc-partners-11999932",
             "published": "Thu, 04 Jun 2026 11:27:53 +0530",
             "timestamp": 1780552673.0,
+            "category": "Funding"
+        },
+        {
+            "site": "DQ India",
+            "title": "Japan-US NAND Alliance steps up investment as Kioxia\u2013SanDisk capex reportedly rises 40% YoY",
+            "link": "https://www.dqindia.com/esdm/japan-us-nand-alliance-steps-up-investment-as-kioxiasandisk-capex-reportedly-rises-40-yoy-11900030",
+            "published": "Thu, 04 Jun 2026 11:11:37 +0530",
+            "timestamp": 1780551697.0,
             "category": "Funding"
         },
         {
@@ -799,406 +1199,6 @@
             "link": "https://entrackr.com/news/softbank-offloads-lenskart-shares-worth-rs-2873-cr-in-block-deal-11999810",
             "published": "Thu, 04 Jun 2026 10:57:12 +0530",
             "timestamp": 1780550832.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Video generation startup TrueFan AI raises $10 Mn in Series A round",
-            "link": "https://entrackr.com/news/video-generation-startup-truefan-ai-raises-10-mn-in-series-a-round-11999795",
-            "published": "Thu, 04 Jun 2026 10:52:07 +0530",
-            "timestamp": 1780550527.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Kuku files confidential DRHP for Rs 3,500 Cr IPO, eyes Rs 15,000 Cr valuation",
-            "link": "https://entrackr.com/news/kuku-fm-files-confidential-drhp-for-rs-3500-cr-ipo-report-11999676",
-            "published": "Thu, 04 Jun 2026 10:12:30 +0530",
-            "timestamp": 1780548150.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Sony Innovation Fund leads $7 Mn round in fintech startup WeRize",
-            "link": "https://entrackr.com/news/sony-innovation-fund-leads-7-mn-round-in-fintech-startup-werize-11999594",
-            "published": "Thu, 04 Jun 2026 09:52:23 +0530",
-            "timestamp": 1780546943.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "PixelSky invests Rs 40\u201345 Cr in GPS Renewables: Report",
-            "link": "https://entrackr.com/snippets/pixelsky-invests-rs-4045-cr-in-gps-renewables-report-11999537",
-            "published": "Thu, 04 Jun 2026 09:19:28 +0530",
-            "timestamp": 1780544968.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Former Flipkart executive\u2019s startup FirstClub raises $55 Mn led by Peak XV and Sofina",
-            "link": "https://entrackr.com/news/former-flipkart-executives-startup-firstclub-raises-55-mn-led-by-peak-xv-and-sofina-11999444",
-            "published": "Thu, 04 Jun 2026 08:44:19 +0530",
-            "timestamp": 1780542859.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "ideaForge gets board nod to raise up to Rs 500 Cr through QIP",
-            "link": "https://entrackr.com/news/ideaforge-gets-board-nod-to-raise-rs-500-cr-through-qip-11985895",
-            "published": "Thu, 04 Jun 2026 00:09:10 +0530",
-            "timestamp": 1780511950.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Amazon, Meesho, Swiggy, Zepto and Eternal join hands to launch Digital Commerce Coalition in India",
-            "link": "https://indianstartupnews.com/news/amazon-meesho-swiggy-zepto-and-eternal-join-hands-to-launch-digital-commerce-coalition-in-india-11898921",
-            "published": "Wed, 03 Jun 2026 22:02:35 +0530",
-            "timestamp": 1780504355.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Zuvees raises Rs 15 crore from IvyCap Ventures to fuel global expansion and AI personalisation",
-            "link": "https://indianstartupnews.com/funding/zuvees-raises-rs-15-crore-from-ivycap-ventures-to-fuel-global-expansion-and-ai-personalisation-11902977",
-            "published": "Wed, 03 Jun 2026 21:50:56 +0530",
-            "timestamp": 1780503656.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Akash Dongre steps down from PhonePe-owned Indus Appstore; says, 'Some goodbyes are hard to write'",
-            "link": "https://indianstartupnews.com/news/akash-dongre-steps-down-from-phonepe-owned-indus-appstore-says-some-goodbyes-are-hard-to-write-11903303",
-            "published": "Wed, 03 Jun 2026 21:47:43 +0530",
-            "timestamp": 1780503463.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "As India looks for its own Palantir, FuturixAI Is positioning for the opportunity",
-            "link": "https://indianstartupnews.com/As-India-looks-for-its-own-Palantir-FuturixAI-Is-positioning-for-the-opportunity",
-            "published": "Wed, 03 Jun 2026 19:58:31 +0530",
-            "timestamp": 1780496911.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "V3 Ventures leads $3 Mn Series A round in perfumery brand Fraganote",
-            "link": "https://entrackr.com/snippets/v3-ventures-leads-3-mn-series-a-round-in-perfumery-brand-fraganote-11905033",
-            "published": "Wed, 03 Jun 2026 19:37:54 +0530",
-            "timestamp": 1780495674.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Protein snack brand Phab raises $4 Mn in pre-Series A round",
-            "link": "https://entrackr.com/snippets/protein-snack-brand-phab-raises-4-mn-in-pre-series-a-round-11904455",
-            "published": "Wed, 03 Jun 2026 19:02:45 +0530",
-            "timestamp": 1780493565.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Indian govt-backed ONDC raises Rs 220 crore from Zoho, Uber, Paytm and BSE Technologies",
-            "link": "https://indianstartupnews.com/funding/indian-govt-backed-ondc-raises-rs-220-crore-from-zoho-uber-paytm-and-bse-technologies-11900870",
-            "published": "Wed, 03 Jun 2026 18:55:24 +0530",
-            "timestamp": 1780493124.0,
-            "category": "Funding"
-        },
-        {
-            "site": "TICE News",
-            "title": "OYO Parent PRISM Clears Major IPO Hurdle as SEBI Approves Public Listing Plan",
-            "link": "https://www.tice.news/tice-trending/oyo-parent-prism-clears-major-ipo-hurdle-as-sebi-approves-public-listing-plan-11904192",
-            "published": "Wed, 03 Jun 2026 17:40:13 +0530",
-            "timestamp": 1780488613.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "\u2018Road to Dalal Street\u2019: Ritesh Agarwal-led OYO moves closer to Rs 6,650 crore IPO after SEBI approval",
-            "link": "https://indianstartupnews.com/news/road-to-dalal-street-ritesh-agarwal-led-oyo-moves-closer-to-rs-6650-crore-ipo-after-sebi-approval-11902501",
-            "published": "Wed, 03 Jun 2026 16:30:15 +0530",
-            "timestamp": 1780484415.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Vanguard marks down Ola Consumer's valuation to $70 Mn",
-            "link": "https://entrackr.com/news/vanguard-marks-down-olas-valuation-to-70-mn-11903535",
-            "published": "Wed, 03 Jun 2026 15:16:59 +0530",
-            "timestamp": 1780480019.0,
-            "category": "Funding"
-        },
-        {
-            "site": "TICE News",
-            "title": "Pfizer, FITT IIT Delhi Back 20 Healthcare Startups in India\u2019s First IP-Focused Innovation Programme",
-            "link": "https://www.tice.news/tice-dispatch/pfizer-fitt-iit-delhi-back-20-healthcare-startups-in-indias-first-ip-focused-innovation-programme-11903370",
-            "published": "Wed, 03 Jun 2026 15:01:54 +0530",
-            "timestamp": 1780479114.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Bengaluru's homebuyer advisory platform Propsoch raises $2 million to scale its presence",
-            "link": "https://indianstartupnews.com/funding/bengalurus-homebuyer-advisory-platform-propsoch-raises-2-million-to-scale-its-presence-11903330",
-            "published": "Wed, 03 Jun 2026 14:35:43 +0530",
-            "timestamp": 1780477543.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "WestBridge and Prosus own 56% stake in Rapido after latest $240 Mn funding round",
-            "link": "https://entrackr.com/decoding/westbridge-and-prosus-own-56-stake-in-rapido-after-latest-240-mn-funding-round-11902875",
-            "published": "Wed, 03 Jun 2026 12:57:16 +0530",
-            "timestamp": 1780471636.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "PhonePe-owned Indus Appstore co-founder Akash Dongre steps down",
-            "link": "https://entrackr.com/news/phonepe-owned-indus-appstore-co-founder-akash-dongre-steps-down-11902863",
-            "published": "Wed, 03 Jun 2026 12:55:33 +0530",
-            "timestamp": 1780471533.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "\u2018Thank you Somalia\u2019: Notion finally moves to notion.com, and there's a Grateful Dead story behind it",
-            "link": "https://indianstartupnews.com/news/thank-you-somalia-notion-finally-moves-to-notioncom-and-theres-a-grateful-dead-story-behind-it-11902594",
-            "published": "Wed, 03 Jun 2026 12:48:23 +0530",
-            "timestamp": 1780471103.0,
-            "category": "Startup"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Gifting platform Zuvees raises Rs 15 Cr in ongoing Series A from IvyCap Ventures",
-            "link": "https://entrackr.com/snippets/gifting-platform-zuvees-raises-rs-15-cr-in-ongoing-series-a-from-ivycap-ventures-11902699",
-            "published": "Wed, 03 Jun 2026 12:11:34 +0530",
-            "timestamp": 1780468894.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Homebuyer advisory platform Propsoch raises $2 Mn in seed round",
-            "link": "https://entrackr.com/snippets/homebuyer-advisory-platform-propsoch-raises-2-mn-in-seed-round-11902619",
-            "published": "Wed, 03 Jun 2026 11:51:03 +0530",
-            "timestamp": 1780467663.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Exclusive: BharatPe\u2019s CPO Rohan Khara steps down",
-            "link": "https://entrackr.com/exclusive/exclusive-bharatpes-cpo-rohan-khara-steps-down-11902491",
-            "published": "Wed, 03 Jun 2026 11:15:29 +0530",
-            "timestamp": 1780465529.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "ACKO strengthens leadership across Auto, Health, and Services",
-            "link": "https://entrackr.com/snippets/acko-strengthens-leadership-across-auto-health-and-services-11901696",
-            "published": "Wed, 03 Jun 2026 10:30:37 +0530",
-            "timestamp": 1780462837.0,
-            "category": "Recruitment"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Agilitas Sports raises Rs 225 Cr from Nexus Venture Partners and Rainmatter",
-            "link": "https://entrackr.com/news/agilitas-sports-raises-rs-225-cr-from-nexus-venture-partners-and-rainmatter-11902304",
-            "published": "Wed, 03 Jun 2026 10:10:54 +0530",
-            "timestamp": 1780461654.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "ONDC to raise Rs 430 Cr from SBI, Zoho, Uber,  Paytm, Amul and others",
-            "link": "https://entrackr.com/news/ondc-to-raise-rs-430-cr-from-sbi-zoho-uber-paytm-amul-and-others-11901708",
-            "published": "Tue, 02 Jun 2026 22:46:46 +0530",
-            "timestamp": 1780420606.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Shilpa Shetty Kundra invests in kids lifestyle brand Rosada; says, \u2018I am backing this with full conviction\u2019",
-            "link": "https://indianstartupnews.com/funding/shilpa-shetty-kundra-invests-in-kids-lifestyle-brand-rosada-says-i-am-backing-this-with-full-conviction-11900135",
-            "published": "Tue, 02 Jun 2026 22:08:32 +0530",
-            "timestamp": 1780418312.0,
-            "category": "Funding"
-        },
-        {
-            "site": "TICE News",
-            "title": "GeM Strengthens Innovation and Startup Participation Through Strategic Partnerships",
-            "link": "https://www.tice.news/tice-trending/gem-strengthens-innovation-and-startup-participation-through-strategic-partnerships-11903132",
-            "published": "Tue, 02 Jun 2026 21:03:09 +0530",
-            "timestamp": 1780414389.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "BEENEXT leads Rs 30 Cr pre-seed round in edtech startup ProLearn",
-            "link": "https://entrackr.com/snippets/beenext-leads-rs-30-cr-pre-seed-round-in-edtech-startup-prolearn-11901039",
-            "published": "Tue, 02 Jun 2026 19:09:06 +0530",
-            "timestamp": 1780407546.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "\u2018Burned out with the Indian system': Bengaluru\u2019s founder moves to Dubai after his startup got acquired",
-            "link": "https://indianstartupnews.com/news/burned-out-with-the-indian-system-bengalurus-founder-moves-to-dubai-after-his-startup-got-acquired-11902438",
-            "published": "Tue, 02 Jun 2026 19:00:30 +0530",
-            "timestamp": 1780407030.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "BharatPe launches BharatPe Flex credit-on-UPI service with YES BANK, offers 45-day interest-free period",
-            "link": "https://indianstartupnews.com/news/bharatpe-launches-bharatpe-flex-credit-on-upi-service-with-yes-bank-offers-45-day-interest-free-period-11900623",
-            "published": "Tue, 02 Jun 2026 18:49:43 +0530",
-            "timestamp": 1780406383.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "OYO parent PRISM receives SEBI approval for IPO",
-            "link": "https://entrackr.com/news/oyo-parent-prism-receives-sebi-approval-for-ipo-11900579",
-            "published": "Tue, 02 Jun 2026 17:27:11 +0530",
-            "timestamp": 1780401431.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Exclusive: D2C fashion brand Zouk to raise fresh funds in pre-Series C round",
-            "link": "https://entrackr.com/exclusive/exclusive-d2c-fashion-brand-zouk-to-raise-fresh-funds-in-pre-series-c-round-11900550",
-            "published": "Tue, 02 Jun 2026 17:14:38 +0530",
-            "timestamp": 1780400678.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Rovia raises $1 million to help professionals transfer, manage, and grow their wealth across borders",
-            "link": "https://indianstartupnews.com/funding/rovia-raises-1-million-to-help-professionals-transfer-manage-and-grow-their-wealth-across-borders-11900189",
-            "published": "Tue, 02 Jun 2026 16:42:31 +0530",
-            "timestamp": 1780398751.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Decoding Scapia\u2019s Series C: valuation jumps 3X, General Catalyst acquires 9.2% stake",
-            "link": "https://entrackr.com/decoding/decoding-scapias-series-c-valuation-jumps-3x-general-catalyst-acquires-92-stake-11900055",
-            "published": "Tue, 02 Jun 2026 15:33:22 +0530",
-            "timestamp": 1780394602.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Plum announces Rs 15 crore ESOP buyback for current and former employees",
-            "link": "https://indianstartupnews.com/news/plum-announces-rs-15-crore-esop-buyback-for-current-and-former-employees-11899759",
-            "published": "Tue, 02 Jun 2026 15:25:25 +0530",
-            "timestamp": 1780394125.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Ola Electric launches QIP to raise funds after tough year, plans debt reduction and battery business expansion",
-            "link": "https://indianstartupnews.com/news/ola-electric-launches-qip-raise-funds-after-tough-year-plans-debt-reduction-and-battery-business-expansion-11899171",
-            "published": "Tue, 02 Jun 2026 14:25:25 +0530",
-            "timestamp": 1780390525.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Odisha-based Aquapulse raises Rs 45 crore in funding to scale shrimp export platform",
-            "link": "https://indianstartupnews.com/funding/odisha-based-aquapulse-raises-rs-45-crore-in-funding-to-scale-shrimp-export-platform-11899309",
-            "published": "Tue, 02 Jun 2026 14:09:28 +0530",
-            "timestamp": 1780389568.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Plum Insurance launches Rs 15 Cr ESOP buyback for current and former employees",
-            "link": "https://entrackr.com/news/plum-insurance-launches-rs-15-cr-esop-buyback-for-current-and-former-employees-11899378",
-            "published": "Tue, 02 Jun 2026 13:26:16 +0530",
-            "timestamp": 1780386976.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "KorinMi raises Rs 10 crore from Lotus Herbals Innovation Fund to expand Korean skincare clinics",
-            "link": "https://indianstartupnews.com/funding/korinmi-raises-rs-10-crore-from-lotus-herbals-innovation-fund-to-expand-korean-skincare-clinics-11897276",
-            "published": "Tue, 02 Jun 2026 13:10:41 +0530",
-            "timestamp": 1780386041.0,
-            "category": "Funding"
-        },
-        {
-            "site": "TICE News",
-            "title": "Can Blockchain Fix Cross-Border Payments? BIS-Led Project Agor\u00e1 Moves to Real-World Testing",
-            "link": "https://www.tice.news/business-finance-economy-and-corporate-news/ai-deeptech/can-blockchain-fix-cross-border-payments-bis-led-project-agor%C3%A1-moves-to-real-world-testing-11898998",
-            "published": "Tue, 02 Jun 2026 12:09:20 +0530",
-            "timestamp": 1780382360.0,
-            "category": "Funding"
-        },
-        {
-            "site": "TICE News",
-            "title": "Top Startup News Today: How India\u2019s Startup Ecosystem Is Quietly Entering Its Next Phase of Growth",
-            "link": "https://www.tice.news/tice-trending/top-startup-news-today-how-indias-startup-ecosystem-is-quietly-entering-its-next-phase-of-growth-11898951",
-            "published": "Tue, 02 Jun 2026 11:31:52 +0530",
-            "timestamp": 1780380112.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Aquapulse raises Rs 45 Cr from NABVENTURES and IAN Alpha Fund",
-            "link": "https://entrackr.com/snippets/aquapulse-raises-rs-45-cr-from-nabventures-and-ian-alpha-fund-11898912",
-            "published": "Tue, 02 Jun 2026 11:27:11 +0530",
-            "timestamp": 1780379831.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Amazon, Meesho, Eternal, Swiggy, Zepto launch Digital Commerce Coalition",
-            "link": "https://entrackr.com/news/amazon-meesho-eternal-swiggy-zepto-launch-digital-commerce-coalition-11898660",
-            "published": "Tue, 02 Jun 2026 10:41:03 +0530",
-            "timestamp": 1780377063.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Entrackr",
-            "title": "Skyroot's provisional FY26 financials show Rs 101 Cr revenue; projects Rs 13,205 Cr by FY32",
-            "link": "https://entrackr.com/fintrackr/skyroots-provisional-fy26-financials-show-rs-101-cr-revenue-projects-rs-13205-cr-by-fy32-11898512",
-            "published": "Tue, 02 Jun 2026 09:36:33 +0530",
-            "timestamp": 1780373193.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Kyro Capital launches Rs 100 crore pre-IPO fund to back growth-stage Indian companies",
-            "link": "https://indianstartupnews.com/news/kyro-capital-launches-rs-100-crore-pre-ipo-fund-to-back-growth-stage-indian-companies-11896703",
-            "published": "Mon, 01 Jun 2026 22:49:29 +0530",
-            "timestamp": 1780334369.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "'He showed me the way out of his office': Nazara founder recalls investor rejection during dot-com crisis",
-            "link": "https://indianstartupnews.com/news/he-showed-me-the-way-out-of-his-office-nazara-founder-recalls-investor-rejection-during-dot-com-crisis-11898770",
-            "published": "Mon, 01 Jun 2026 21:57:12 +0530",
-            "timestamp": 1780331232.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Cars24 commits $20 million to Cars24 Labs as IPO plans gather pace",
-            "link": "https://indianstartupnews.com/news/cars24-commits-20-million-to-cars24-labs-as-ipo-plans-gather-pace-11896876",
-            "published": "Mon, 01 Jun 2026 19:50:58 +0530",
-            "timestamp": 1780323658.0,
-            "category": "Funding"
-        },
-        {
-            "site": "Indian Startup News",
-            "title": "Scripbox acquires Bluechip Capital\u2019s MF business to expand wealth management footprint",
-            "link": "https://indianstartupnews.com/news/scripbox-acquires-bluechip-capitals-mf-business-to-expand-wealth-management-footprint-11895518",
-            "published": "Mon, 01 Jun 2026 18:27:08 +0530",
-            "timestamp": 1780318628.0,
             "category": "Funding"
         }
     ]

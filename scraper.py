@@ -16,7 +16,11 @@ RSS_FEEDS = {
     "HR Economic Times": "https://hr.economictimes.indiatimes.com/rss/topstories",
     "HackerEarth Blog": "https://www.hackerearth.com/blog/feed/",
     "Mettl": "https://mettl.com/feed/",
-    "YourStory": "https://yourstory.com/feed"
+    "YourStory": "https://yourstory.com/feed",
+    "DQ India": "https://www.dqindia.com/rss",
+    "Express Computer": "https://www.expresscomputer.in/feed/",
+    "CIO India": "https://www.cio.com/in/feed/",
+    "Layoffs.fyi": "https://layoffs.fyi/feed/"
 }
 
 NEWS_FILE = "news.json"
