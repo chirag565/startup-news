@@ -147,6 +147,42 @@
             box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
         }
 
+        .search-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto 2rem auto;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 1rem 1.5rem;
+            padding-left: 3rem;
+            background: rgba(30, 41, 59, 0.8);
+            border: 1px solid var(--accent);
+            border-radius: 50px;
+            color: var(--text-primary);
+            font-size: 1.1rem;
+            outline: none;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            box-shadow: 0 0 25px rgba(59, 130, 246, 0.5);
+            background: rgba(30, 41, 59, 0.95);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1.2rem;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+        }
+
         .city-select option {
             background: var(--bg-color);
             color: var(--text-primary);
@@ -313,6 +349,11 @@
             <div id="last-updated" class="last-updated" style="display: none;"></div>
         </header>
 
+        <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" class="search-input" placeholder="Search companies, founders, or keywords...">
+        </div>
+
         <div class="controls-container">
             <div class="filters" id="filters">
                 <button class="filter-btn active" data-filter="all">All Categories</button>
@@ -382,6 +423,11 @@
             renderGrid();
         });
 
+        // Set up search bar
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            visibleCount = 50; // reset visible count on new search
+            renderGrid();
+        });
 
         document.getElementById('load-more-btn').addEventListener('click', () => {
             visibleCount += 50;
@@ -403,6 +449,15 @@
             if (currentCity !== 'all') {
                 // To support both older format (no city field) and new format
                 filtered = filtered.filter(a => (a.city || 'National') === currentCity);
+            }
+            
+            // Apply text search filter
+            const searchQuery = document.getElementById('searchInput').value.toLowerCase().trim();
+            if (searchQuery) {
+                filtered = filtered.filter(a => 
+                    a.title.toLowerCase().includes(searchQuery) || 
+                    a.site.toLowerCase().includes(searchQuery)
+                );
             }
                 
             if (filtered.length === 0) {
