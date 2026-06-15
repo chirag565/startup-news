@@ -1,6 +1,168 @@
 {
-    "last_updated": "2026-06-15 21:54:31 IST",
+    "last_updated": "2026-06-16 04:54:03 IST",
     "articles": [
+        {
+            "site": "CIO India",
+            "title": "Salesforce buying agentic AI firm Fin for $3.6 billion",
+            "link": "https://www.cio.com/article/4185285/salesforce-buying-agentic-ai-firm-fin-for-3-6-billion.html",
+            "published": "Mon, 15 Jun 2026 22:41:11 +0000",
+            "timestamp": 1781563271.0,
+            "category": "Funding",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "CIO India",
+            "title": "Next CIO Awards announces inaugural US honorees recognizing the rising generation of IT leaders",
+            "link": "https://www.cio.com/article/4185217/next-cio-awards-announces-inaugural-us-honorees-recognizing-the-rising-generation-of-it-leaders.html",
+            "published": "Mon, 15 Jun 2026 20:07:25 +0000",
+            "timestamp": 1781554045.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Inc42",
+            "title": "Ex-Tech Mahindra Exec Rajashree R Joins Kalaari Capital",
+            "link": "https://inc42.com/buzz/ex-tech-mahindra-exec-rajashree-r-joins-kalaari-capital/",
+            "published": "Mon, 15 Jun 2026 20:00:26 +0000",
+            "timestamp": 1781553626.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "CIO India",
+            "title": "How to Use AI to Redact PII in Large Document Sets",
+            "link": "https://www.cio.com/article/4185269/how-to-use-ai-to-redact-pii-in-large-document-sets.html",
+            "published": "Mon, 15 Jun 2026 19:42:02 +0000",
+            "timestamp": 1781552522.0,
+            "category": "Startup",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "CIO India",
+            "title": "How to evaluate eSignature platforms in 2026: Security, simplicity, and ROI",
+            "link": "https://www.cio.com/article/4185265/how-to-evaluate-esignature-platforms-in-2026-security-simplicity-and-roi.html",
+            "published": "Mon, 15 Jun 2026 19:34:53 +0000",
+            "timestamp": 1781552093.0,
+            "category": "Funding",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "CIO India",
+            "title": "Securing the AI workflow: A guide to safe document automation and governance",
+            "link": "https://www.cio.com/article/4185258/securing-the-ai-workflow-a-guide-to-safe-document-automation-and-governance.html",
+            "published": "Mon, 15 Jun 2026 19:25:36 +0000",
+            "timestamp": 1781551536.0,
+            "category": "IT Industry",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "Express Computer",
+            "title": "STMicroelectronics launches AI-powered vibration sensor for industrial monitoring",
+            "link": "https://www.expresscomputer.in/artificial-intelligence-ai/stmicroelectronics-launches-ai-powered-vibration-sensor-for-industrial-monitoring/136013/",
+            "published": "Mon, 15 Jun 2026 17:41:20 +0000",
+            "timestamp": 1781545280.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Hero FinCorp collaborates with Salesforce to accelerate loan processing with Agentforce",
+            "link": "https://www.expresscomputer.in/news/hero-fincorp-collaborates-with-salesforce-to-accelerate-loan-processing-with-agentforce/136011/",
+            "published": "Mon, 15 Jun 2026 17:35:55 +0000",
+            "timestamp": 1781544955.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Siemens receives order from TCMS to deliver advanced metro propulsion technologies for Pune Metro",
+            "link": "https://www.expresscomputer.in/news/siemens-receives-order-from-tcms-to-deliver-advanced-metro-propulsion-technologies-for-pune-metro/136009/",
+            "published": "Mon, 15 Jun 2026 17:32:59 +0000",
+            "timestamp": 1781544779.0,
+            "category": "IT Industry",
+            "city": "Hyderabad"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Purplle taps New Relic to deliver exceptional digital CX to millions of monthly active users",
+            "link": "https://www.expresscomputer.in/news/purplle-taps-new-relic-to-deliver-exceptional-digital-cx-to-millions-of-monthly-active-users/136007/",
+            "published": "Mon, 15 Jun 2026 17:29:26 +0000",
+            "timestamp": 1781544566.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Netskope introduces NewEdge Management Plane in India to enable DPDPA compliance and data sovereignty to customers",
+            "link": "https://www.expresscomputer.in/news/netskope-introduces-newedge-management-plane-in-india-to-enable-dpdpa-compliance-and-data-sovereignty-to-customers-2/136005/",
+            "published": "Mon, 15 Jun 2026 17:24:37 +0000",
+            "timestamp": 1781544277.0,
+            "category": "IT Industry",
+            "city": "Mumbai"
+        },
+        {
+            "site": "DQ India",
+            "title": "Schneider Electric and Hon Hai Technology Group (Foxconn) to accelerate next-generation AI data centers",
+            "link": "https://www.dqindia.com/ind-40/schneider-electric-and-hon-hai-technology-group-foxconn-to-accelerate-next-generation-ai-data-centers-12042181",
+            "published": "Mon, 15 Jun 2026 22:45:37 +0530",
+            "timestamp": 1781543737.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Hitachi Vantara expands outcome-based service-level agreements and simplified consumption models through Hitachi EverFlex",
+            "link": "https://www.expresscomputer.in/news/hitachi-vantara-expands-outcome-based-service-level-agreements-and-simplified-consumption-models-through-hitachi-everflex/136003/",
+            "published": "Mon, 15 Jun 2026 17:13:57 +0000",
+            "timestamp": 1781543637.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Building trustworthy AI systems for real-time trading",
+            "link": "https://www.expresscomputer.in/guest-blogs/building-trustworthy-ai-systems-for-real-time-trading/136000/",
+            "published": "Mon, 15 Jun 2026 17:08:29 +0000",
+            "timestamp": 1781543309.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "LTM launches BlueVerse for iRun to outcreate managed services in the agentic AI era",
+            "link": "https://www.expresscomputer.in/news/ltm-launches-blueverse-for-irun-to-outcreate-managed-services-in-the-agentic-ai-era/135998/",
+            "published": "Mon, 15 Jun 2026 17:06:09 +0000",
+            "timestamp": 1781543169.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "Schneider Electric and Hon Hai Technology Group announce strategic collaboration to accelerate next-generation AI data centres",
+            "link": "https://www.expresscomputer.in/news/schneider-electric-and-hon-hai-technology-group-announce-strategic-collaboration-to-accelerate-next-generation-ai-data-centres/135996/",
+            "published": "Mon, 15 Jun 2026 17:00:35 +0000",
+            "timestamp": 1781542835.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "N-able opens Bengaluru office to accelerate security innovation and talent growth",
+            "link": "https://www.expresscomputer.in/news/n-able-opens-bengaluru-office-to-accelerate-security-innovation-and-talent-growth/135994/",
+            "published": "Mon, 15 Jun 2026 16:56:16 +0000",
+            "timestamp": 1781542576.0,
+            "category": "Funding",
+            "city": "Bengaluru"
+        },
+        {
+            "site": "Inc42",
+            "title": "Adani Group Partners With Jabil To Build AI Data Infrastructure",
+            "link": "https://inc42.com/buzz/adani-group-partners-with-jabil-to-build-ai-data-infrastructure/",
+            "published": "Mon, 15 Jun 2026 16:42:22 +0000",
+            "timestamp": 1781541742.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
         {
             "site": "Inc42",
             "title": "Zetwerk FY26 Revenue Jumps 24% YoY To \u20b915,900 Cr",
@@ -137,6 +299,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Lucknow",
+            "title": "IIM Lucknow and IRITM Lucknow Join Hands to Strengthen Excellence in the Indian Railways Ecosystem - businessnewsthisweek.com",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZXVya1lOS05LdE9IWHdscnRrOVA0R01ySzdxd1FMZUE3M1E2YjRMTk4xT0JzR0R0aVpkanpzTTdVQWxHZUdmV0E3ZGhjbTllVGp3MlN4WHRJQXZtNGJGdVowWUlXSVlEcDB0cFMzakFvX0dTanZweXF5VW9TdlBTMC1HelV6MklvbTVLT0NIdWotRDZzZnJURUdqelRxcFdxVG96QjM3ZHdTZXpxeHQwQkxhWTIxR3VhcFBRU1h3cTRjSXV6MmkxLTYyLVBhZUdwclA1WHA0Q05RZw?oc=5",
+            "published": "Mon, 15 Jun 2026 11:50:54 GMT",
+            "timestamp": 1781524254.0,
+            "category": "Business",
+            "city": "Lucknow"
+        },
+        {
             "site": "Google News Gurugram",
             "title": "Reeti Soota takes over as Cluster Marketing Manager for Crowne Plaza Today Gurugram and Holiday Inn Katra Vaishno Devi - BW Hotelier",
             "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTFA2dlUzakF5Vmsxck0xUDZPR3hJOU9YTExjMnpVQlk5RTVDdEsxYXZNVzQ0cWZIUXFNaU1PRko3SmlUMllzbHY2ZkFqcTE3UzdmT3dCX2RjRkhhWU13UGx5SEN6aVdaenJuRGJWQ0QyemVjVjF3bk4wd2E2VVdSa052MW5RNktBcHVMakZOMjVsTHh5T2tDUTBLQWUwaW8wV0E3TnNjSUdNb2g1Qkl3RHVPVXBVOVFCQ1duZURYVkI0dTdNbmhSdHpqODFIdlNKMlMzTE9HblFFSEQwajNyUENDNGZLbUw4ME80NENXdEwwUQ?oc=5",
@@ -144,6 +315,15 @@
             "timestamp": 1781522906.0,
             "category": "Business",
             "city": "Gurugram"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "Infrastructure and Integration: How Noida, Ghaziabad are driving next housing boom - India TV News",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2VJaWpaVDhWMk01NVZMMWRyRFJtR1RULXBsVzFwRE90YjI4ZkVOcUVhZFI5N21mQVg2UmNMNVkzQThRVjhpU2pmOFVzeS1VazlVbFBlZlNQejIxQ21wRjlYOHBKVEFTZ2VPMm5kUXVlOTZraGVUMjFGS3p5ZE9mMnZDRUkwcjBxS3pwSVdITmRlT2xKcGxlbUNZdmZPZEp3dkVCYnBWWm1vdVVncnUwWjdreHVzZFcwTDF5VlRQNnpoQjRkalphak9vMm41Rk5YeERpdGtqLTPSAd4BQVVfeXFMT3BuSHdQZDBQTkNUaFFfZDNzdkZpUUFYVmRfYUItaUluai1CYXFmcHdXS01xTmNITFBjV2hRckhvTGQ2VGtBbHBpcVVZMXR3SllTU0cxNm8xM1lxeFpEc2RyUTF3U0Vsazk3aEZBTXd6UUUtNjFUTWNrWXliRVBIY0dLakhMUmhiSG9PVVBMTmgwWVdxUEZ4Zy1ZbEw4YWx5aU15UTlCU1ltRUh2TVcxWExvNFFvZlZ3TlNVNnVMMUtzdXd1MzBtM1otb3FmN0tQSHFVYi1DZmE3c3ZHTEdR?oc=5",
+            "published": "Mon, 15 Jun 2026 11:10:46 GMT",
+            "timestamp": 1781521846.0,
+            "category": "Business",
+            "city": "Noida"
         },
         {
             "site": "YourStory",
@@ -891,6 +1071,15 @@
             "timestamp": 1781335449.0,
             "category": "IT Industry",
             "city": "Coimbatore"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "IIT Hyderabad Cutoff 2026 (Out): JEE Advanced Closing Ranks & Trends - Shiksha",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmtYQmluc1JpTmhlOW02LWlqdWppT2cyV2Y2cWF2dHBDc2ExOHdPN0JvbVlFWGg1LWVPZm1vWk9JV2NhWG5aV3BrRGVBbVlib3RuN3dueUhyaERUODFYQ1lOUWFLQ281QXNyT25zQWFnYzFSZkhnbU9jX0wxMUxscGVIWDY1eEJfU241YXF3b3owWUE?oc=5",
+            "published": "Sat, 13 Jun 2026 07:00:00 GMT",
+            "timestamp": 1781334000.0,
+            "category": "Business",
+            "city": "Hyderabad"
         },
         {
             "site": "Google News Delhi",
@@ -9617,6 +9806,15 @@
             "city": "Noida"
         },
         {
+            "site": "Google News Noida",
+            "title": "Buses Are Making Sudden Stops Wherever They Want And It's Ruining Your Expressway Experience - News18",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMUxSQVVNMkhIc1lickVfZW1QclVabDBYajVJTWRNbGZpZ2xyUVVUWEFTallsbV9SMUhKNFhqaDBod2k2VnRHa05RNFZrMjZ6QXVCcjdyQVpTSjNlXzVRT0d4dHpXYzlsLVVnSkFiMElCb0E2amNYSzBCa2N1NDVLeFBvQl9ZbmYyZEszY0syREtJUkdzcEFYQ3Q5dmx5ZzlFdG5Ba0ctQXBvdnhUck8wQVhXdmxyYnU4MzV5OTRJekQ0aGNBcDJ0c0l4dDFqRFpza20tcHgtTF9TX3ItckJN0gHkAUFVX3lxTE1nVDFiZTZpSlRIYTBldU1xckxBNmI4SmxjVHROaURLV25iOGdxWXFJbXdtZ2hWbGNuWTJQQWJTLVFTSW94TWxiSWMtMjRDYXdGVGowV3E2N2pYckJqMTEwcWRxYllfOVd4cHlFWkRTR0VTUEVSTUdTM0ozdzUxU2xlbTNXY2UycjFBTGlYWEt4XzZzVGVucDVCSnh3Sl9pRi1rYjdST0x3V2FOb09uRTVJVnRkaHE5LUxOVkg5UDYwMjNWYmJGbUNmaFVVdUVieHN3RnBSaDdSOG1xajRmTkREbmo2RQ?oc=5",
+            "published": "Tue, 12 May 2026 07:00:00 GMT",
+            "timestamp": 1778569200.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
             "site": "Google News Thiruvananthapuram",
             "title": "Special train between Thiruvananthapuram and Velankanni - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVBBdHhDUFVMakVrQVMwdm5jaGJPSXp4c3dJRnFCbFN6ZkltV0VmNS1sY1FNSnhvZTJGLVRiLWdMSTg5QUNtRVAzYU1raUU3U3NnclQ2VU1HRTBIb1ZnOFAxcHBHUE5PSURkNzBTTEFmbWttSE5xS09vNEJyaXRvdHR3WVBFR1Y2dGFRVHRieE4xY0FsU29Xb25mN0FuR1hTb3BkaWhqc1ZYS0ZNLTdnbUtKb09FLVcxRk1jQkJrbEtuWDY5cW1ZRUlB0gHPAUFVX3lxTFBxZHhSeWlxWXV0cXFJTGxhM01mSmlQUUk1RzhDZ2RzY0pjOWFINjRNeUdZdHZaMFVpTVBGRTBNRGgyV1lOLVB3NFNtay1rNk82LXNka1ZRd1JlT1ZJblAzTjA2OHVmUHlQRVFSSnppdTRKWENZYkNQdGFZaUhrZG9UVk1hb1JUMkxfNlpiMzVqYk5KQTJQZXFhajdiQUJxbU1LMkpwTEQtSGZvQXVlS2laUS1xM1ZhTU1weFhJdVczSTllMnRQR0RWeERjNWNESQ?oc=5",
@@ -10821,6 +11019,15 @@
             "timestamp": 1777532400.0,
             "category": "IT Industry",
             "city": "Lucknow"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "Gold Rate Today, April 29, 2026: Check 22K and 24K Gold Prices in Delhi, Mumbai, Chennai and Other Cities - LatestLY",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVDZ2U3M5czB6YnVWUER3c3QxaEI4S2MzUEppaFpMYVhTbGpnWldSakNSWjVhR1dHOXl6T3VoV0ItajRhanpHTVctM2VXWTVyLVkyNGhiV01zRGY4cnQ2Q2VFMzBYZl9MMEd2MWczbGx4eVlYVWhpV2JrRnpVa0l3ZTFhZzVGMGtoUzlHOEU3ZWo0LTRGNGZ6RFlEYjJmM2cxeEFKVFIwR0xjTGliM2EtR21UNGQ2VzVLdWtoNEVIQno2QkxNeFp6dTd6SzhPbXlLM2p4NjdxdmRwZHpySzZLOdIB5gFBVV95cUxQcnlpdTd6VjZrV1RmT2tuVGtUbENUT0gxS0pKMWZmU1VKdlh3VGJSLUZDQV9rTThoMmhxbnJQdmlBakZKMk5xNW5RLTJEcGNiOWY4dFBPN0FJczA4U0tKVThLVWMwYlFvdEV2dzNoV2xiYWY2MHRDNWNiMkNIM1BZZGZ6Ri11LXpxcElRRjBBWG84U3NWMktqMm5PQUFZYU9zM2Y5THJpZTJ1WmZrZHlSZC1sZ08tMjRubVl1dVI2VlFUVFp0Z3paVGpFUU9sQ1lacEphb3pMMERFcmhqME5VZEZOeTFKUQ?oc=5",
+            "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+            "timestamp": 1777446000.0,
+            "category": "IT Industry",
+            "city": "Chennai"
         },
         {
             "site": "Google News Mumbai",
@@ -12506,6 +12713,15 @@
             "city": "Mumbai"
         },
         {
+            "site": "Google News Lucknow",
+            "title": "There's a new pilates studio in Lucknow and it has Ritika Bhargava's name on it - Dailyhunt",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRlA1c1hpZlVBS3l0MjJMVzl6cjdEZmZBa1dpNzBIOF9kbmpSTDdFVjdpbU1rYWZPbVRxbGozeTlfOW9vQklhRlc3MGQtZnhiSWR2QXkzbDFnelgwX2J0WUphQ1BqYmNWY0JFN0hRLVNuWlhpak5QQXVzUS1kc2dTQ3haR0hPUFpaMTVYaXc1OTlhWHNpOURDcHA2djJBTkluMExKVlVFd3hrOFhWcVFia0FJMWxkdDM5aXZYbXFaUnFDYTVCSTVzT1hscmhCdE03WTRUVUxKVS1zenB3M2ZTMGlTZFBOeTV1Z3VIY2x5eEt1TzdORUE?oc=5",
+            "published": "Sat, 11 Apr 2026 19:01:16 GMT",
+            "timestamp": 1775934076.0,
+            "category": "Business",
+            "city": "Lucknow"
+        },
+        {
             "site": "Google News Bhubaneswar",
             "title": "Petrol and Diesel Prices Updated: Bhubaneswar Sees Slight Drop, Cuttack Records Increase - Kalinga TV",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeXpsU1hramRSWDd4RkpQTW5DOHZ6WlU2NmcxTEpWdm1kTGhTeWFQSldUNnZoQlhqd05rMEVRbTlDcTZXLTNRbjd4WU5CUDM3UmhLVWJmT29kazRadE9NVU55WUlZVFZSeTMyWEFQbmZndmwzYWZudFFoY1p5c21lczAwOFk0aDAtTDA0eWVxc1JjeEtTQlpROG84c09MZmpZMWh1a0luVkRUYjBmUjFaZXVNc1JpUXBSTmc?oc=5",
@@ -12929,6 +13145,15 @@
             "city": "Lucknow"
         },
         {
+            "site": "Google News Delhi",
+            "title": "Breaking News: Air India Launches Direct Delhi\u2013Halwara Flights, Revolutionizing Travel for Punjab\u2019s Passengers Starting 15 May! - Travel And Tour World",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWm4wVENiOHNnRzdfXzlwREtIYW1qbjdHRkt3ekFqa3BIVjNfTjFjYlVDT1BtcGcxVW1faGZoUGZHYTdTU1BtUlpWM19teTFHYm9tWU1MWmFFUFN2d0Z0WHdJM3NFY1FXa2dlajBUQ2tOdFJKamNBZG9EZWJkNGY2MFlTS0p2NVgzQU9UUUI2R0lJeHM4NHktQ3NRVklQbEpvaTZkOHFkQVJqVHNZZ0JEVkxkc1FVN1NhdzNRVEpTUFF0UXVoM3N5MFd2ZmRJOEtLd0NXaHJDbDBTaHhBelFkb1UtNlhqLS1qcXZEVUtfdEdYbzdZa0tyZWtGOGZUM0lwcmc?oc=5",
+            "published": "Thu, 02 Apr 2026 07:00:00 GMT",
+            "timestamp": 1775113200.0,
+            "category": "Business",
+            "city": "Delhi NCR"
+        },
+        {
             "site": "Google News Pune",
             "title": "Pune receives highest rainfall since 1896; 65 mm of rain pounds Shivajinagar - The Indian Express",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONURkcm81R3dkNjFKcWRUMmRQZmlkRzBDanRhNldRWjdlY1FfY19QRkhuRE16NFU3LTN4eVlsWXItNmpkMGJ1N1d4VDhwdkRzWUpjNXhJWDVwTWw2XzZhR1QtVHBnWUdtQkZMdm9WMDBHek5waGlZZmJFVkZ2RVZoQkZUVFB0YlRHS09PZnlVQ19VeUlHS2M3V29qTzVCSU16b3F3UjVRc3czM2xkcC0xWTB0a9IBugFBVV95cUxOT0xDNTdaQnhqX3l0VDlRcnBrREk4ZDVhWXBROGdxenFDd2Q5NEpkZ0MwQ3ludGtRLXBmYzZuZDIyMlF4WTNwaEh4QUNVeEhscmtzRko1bFNPQ2tDaThOVENrREVOd3BCR09qY1JEY1FFSEhHQU5oVzZMcFFYYi11LU9HSWRfWktvNXhuQU9Ha0ZGUGpuRXJxOE9RU05aV0diUE9DempSemNxZDBCc3B0N0NGMmdwX0I4anc?oc=5",
@@ -12981,6 +13206,15 @@
             "timestamp": 1775113200.0,
             "category": "Business",
             "city": "Nashik"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "#PerfectDiaries: Bridgerton\u2019s Charithra Chandran on her 24 hours in Mumbai and her favourite foodie recommendations. - theperfectmagazine.com",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdEVFM0JfcTVITS1FRkpGd3ZseGZ4eWExQ05BUjg5TGNTUzRrNDRqS3I3OTlEb3N2M1JkaWZ2OFhWOUxnNHJPeVlNNV9Bd2RXa1NVN1U2Wi01Ujh5dWNuem5ZVEV2TWdRNVRPRFNmS1NSbnV5UnN5ZGVmbTJ0S1VJU1lDeGxhbHlwbkJJc2hmSnpPM3BUVFc0MktUUXV6MXNZeHlBMGZ2aDFrQ2RUVlIzazFwak0xUlhSUFlfb1VqUVYwWi1yU2VrTU9DREZmcFNfUjdpVTZIdw?oc=5",
+            "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+            "timestamp": 1775026800.0,
+            "category": "IT Industry",
+            "city": "Mumbai"
         },
         {
             "site": "Google News Mumbai",
@@ -15306,6 +15540,15 @@
         },
         {
             "site": "Google News Delhi",
+            "title": "AI investments surge in India as tech leaders convene for Delhi summit - Fortune",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzBCTVh0ZUJ0VVhkOGRQdUsyTlYtYThlTmhmdy1ZOGw4dmtfUGplc0w4SGNmMlEteXRMX0I2U0lRLVduOXFOeGE3S2o5NkUzZ3A5NFdPSlJZZzlkekxtUGliRjBoblU5QlNvTXNOWnZmTzlKeU93dnVMYlpoMVdpdG1rOVlud0c1RGFWMjhMSzA1bmdrWkNVYUxIaXV3VGJ0SlZ4Nw?oc=5",
+            "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+            "timestamp": 1771315200.0,
+            "category": "Funding",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "Google News Delhi",
             "title": "Taiwanese Singer Whyte Enthralls Indian Audiences with Debut Performances in Delhi and Rajasthan - Asian Community News",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDZkenVDeGxqcmVXMG05NTl6VWFWdkl3bnkyeTMyemJuRnQ4eE9NVlJQYjdoVjVyRUNsYlU0dzRJd0tjVlVHblMzT3RwT0VXUGc3dHNwa196Y0xxY0tYaG5xYjB4Q0pFdmFYRXAxUjBLUWQtenRLUHQ3TURJcUtJMkFzSk11ZVZmM1BpYnRUY0UzTnJEM3RMbFo0Uzh0SWJ2MHotSDNyemNvS3lwUjl6TVNuVmp5a2x5U2pmSHp3V2ZmelU5Y1hVTUJoVlg?oc=5",
             "published": "Tue, 17 Feb 2026 08:00:00 GMT",
@@ -15854,6 +16097,15 @@
             "city": "Chennai"
         },
         {
+            "site": "Google News Chennai",
+            "title": "Business News | \u26a1Check Silver Rates in Delhi, Mumbai, Chennai, and Other Cities Here - LatestLY",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzN2QTVKNzV2Z3QwVWRjWTMtRVZIdU9LRTVqMUdlZVJhZlBmX1dfV3RYRWVKWmlfTHJhYWVhaW5zNkR4X2dHSURBWENNamU0UWJ4b2taa3dyVk00UkVwWHJGUmx0MFVVejVuck5CWG13cXp5eDA5a2RfVE9mWHBselktMks3dmEwcUZVSHNYTktmak03cjFoM3VIVkRWZzZBSzlKNTJIeW9VSlBXSnNLdzlrNlQ4UVlIVFpV0gG7AUFVX3lxTE5PM3ZBNUo3NXZndDBVZGNZMy1FVkh1T0tFNWoxR2VlUmFmUGZfV19XdFhFZUpaaV9McmFhZWFpbnM2RHhfZ0dJREFYQ01qZTRRYnhva1prd3JWTTRSRXBYckZSbHQwVVV6NW5yTkJYbXdxenl4MDlrZF9UT2ZYcGx6WS0ySzd2YTBxRlVIc1hOS2ZqTTdyMWgzdUhWRFZnNkFLOUo1Mkh5b1VKUFdKc0t3OWs2VDhRWUhUWlU?oc=5",
+            "published": "Sat, 07 Feb 2026 03:06:48 GMT",
+            "timestamp": 1770433608.0,
+            "category": "Business",
+            "city": "Chennai"
+        },
+        {
             "site": "Google News Bengaluru",
             "title": "Rapido\u2019s Ownly launches food delivery across Bengaluru, eyes multi-city expansion - financialexpress.com",
             "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzc3OFlUMkRUbVNoMVB0SVNJclZ0dXNXcWpralJXTWxkV25BWERSMWNTTjBwak9VSVFiaG5hQTVfV3pNZnZ1LTNPTVpPQ0poOG5rUF9WNm4zckhnT0QxSGFMaHlJMEtBZ0RVVkk5dEpzT0FPN3hubUh1d214QjdCTkFZQ1hTVE1iOHAybmQ2bGdQSTdJSzJXNUZyQl84ZWF3RE91WGhMS0dCNS1YQm1IdjQ5bktfclgzSDV4N1ZaM1ZqbTJKS3ZHc1VGVndwc3JE0gHXAUFVX3lxTE85dy1Rd0ZlNW5ZUjFTdWwyT0xKVnpodjJmamVQVmR4ekxpQmZuM05oOWcya19xdldxMlJ3LWtkQ0RIaDdOYnB0VGtyMzFzQjFvVlFyeGI2Qy1fSzNtbkxDby03S1ZkMkZQZThXRlVJcmV6WlppTC1lRGdZMnYtLWNmeFM3OHlnSWZsai02cGVqbXdvMS1XaVVEMGpjRm4zdVpka1VOYTdtT1VEempzSUtJZHY5MUdvOV9vQ0hJSkhsWEppVFFYcU9zZ0JrSF83Z2dpeHpvdVRJ?oc=5",
@@ -15942,6 +16194,15 @@
             "timestamp": 1770278400.0,
             "category": "Business",
             "city": "Chandigarh"
+        },
+        {
+            "site": "Google News Thiruvananthapuram",
+            "title": "Kerala greenlights Rs 1.92 lakh crore Regional Rapid Transit System - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUxidG15RVVWSUdBd29RR2x3Q29PSUtTZFIzd1JBVkM3QjhLM0hQdndKWGZlY3hhSC05MGhZQS12V3NfLXlsS3hCbzVHeG1LU1NzelphV3dIYWVaQW5OekxpbGFjWTdZMGZVX3p6R2RIeFA2cjZjYzI5WE1yUk1LLU9zbzhiQlVTUzVobGlyQTFlVG5sUUlZTUM2anU5WFl4ZG9aMEpUV2UwanZvR0prLXEtX245OFdaMEZpYmVZVHJSWmPSAdABQVVfeXFMT0lXQmpYTWo4TlIyaFRVUUt5TTYtM3NaT2NyUngzdmdiWkkzVVk1M0ZIc2Uydk8wbGxWMTVyU1FpYW1MX3lmdDN5VDNFbS02QlJMekNRS2FXOGYwZHRnMUJYYkFBRGtRaUhKVE1jaG9QUlVRMnowQnNKU3hOYUFPRFRGQXZ0QWo0RnY0bnRVU3d2QjJ4dHF2OGhITUZhVkpYMFF5dDFnUy1XZl9tYldFYUg5c1E3V0ZyWlpJRGhuV0JCQmVENGlvTmNBOVVBazVOVw?oc=5",
+            "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+            "timestamp": 1770192000.0,
+            "category": "Business",
+            "city": "National"
         },
         {
             "site": "Google News Chandigarh",
@@ -17456,6 +17717,15 @@
             "city": "Jaipur"
         },
         {
+            "site": "Google News Indore",
+            "title": "Vande Bharat Metro approved for Indore-Ujjain route: High speed 160 km h train to carry 3,200 passengers du... - Bhaskar English",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWktZbmwyam0xWWQ4T1hjenhoQzI1aFcxbkJ3OVNPNGVkR05DOW9SSXBFS1ZKMFFLYU1uUHhtbVozN3FRUFNMdmRiWnhkTFl6X01YX1V3TDZRclhsci1tTFE5SE1SSWV5WnAzVEEyX3FBSjBUYW9mblZPaDJoU2RTOU41bVlnTUpTVGlZdGFhaEE0dFNKcFNOZVIzUnlnT04xXzU4U2tGZFV3aXRVbUhKZGMzLTFuT2dGX0pRdS1LeDMwTGRmUlF1ZlFTZ2dRTVRTSngxQXVGVWRySmJiYjZFTldILVJIaHFvX3ZmTUFlcFRjaEZMQ3lR0gH8AUFVX3lxTE9JazNLOE1lUEVnTTk2ZDRidXdKQnNaSy1TbVM2SWVIbWF6eE9nZXBFVTc0UWZhS0VYdW5NeE9zdmtENWlqcHk5dGprZlktWUwyS05JTllCcVVqSWdIbFdocU9LMmZQNVo2Tko0V1AzUzhieVphdnY3RDNqOU1BaTFmc3dLenIyWU5iRjllbXBTN3RRcFJsRHZFTTFIdkFXXzk1a1JIeDBHRzVSd3NMLXdJSHp4THZvdkZPWU03YV8zZjVRN1gxMTZKY3BPX1kzc0pMYVdSZElPb3ZKakFHb09RRkNzc0RNSjV4TU9KcmVzVWtnM1NxdTB1b2pUMw?oc=5",
+            "published": "Sat, 27 Dec 2025 08:00:00 GMT",
+            "timestamp": 1766822400.0,
+            "category": "Business",
+            "city": "Indore"
+        },
+        {
             "site": "Google News Mumbai",
             "title": "The startup cities to watch in 2025: Bengaluru continues to lead, Mumbai and Gurugram rise - Indian Startup News",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkxGeGkzYjVBUllrOENyZzI3SllWcjY0dENQLTlhRFNZck45ZHB1NjlCd3VEeTRPdkJ0VXFrUUVoa2xwc3I0MkxaR1BCME1LX0oxcDBmaTFaQ2ZSOENXLV9jbkQ2bnhjdWFKR29CUG5FR1pwTjI2clhTTUFjY3NLZHlpUUpCUXktVWhTYTVZajZXT0UwUlkxNFZWMTliUEZOTS14VHZYSTdXQm5IUV9CWVhSTHZ2NTB6VnlwM3NKLVVDbGtwY0tlSmZDNzfSAcwBQVVfeXFMUEZMRnhpM2I1QVJZazhDcmcyN0pZVnI2NHRDUC05YURTWXJOOWRwdTY5Qnd1RHk0T3ZCdFVxa1FFaGtscHNyNDJMWkdQQjBNS19KMXAwZmkxWkNmUjhDVy1fY25ENm54Y3VhSkdvQlBuRUdacE4yNnJYU01BY2NzS2R5aVFKQlF5LVVoU2E1WWo2V09FMFJZMTRWVjE5YlBGTk0teFR2WEk3V0JuSFFfQllYUkx2djUwelZ5cDNzSi1VQ2xrcGNLZUpmQzc3?oc=5",
@@ -17580,276 +17850,6 @@
             "timestamp": 1766476800.0,
             "category": "Business",
             "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "Why Most Indians Will Never Buy A Home in Gurugram, And That's By Design - NDTV",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjJTSVpRa3czZHNYWDRkbk41dnNZb1FQTzktaEo1NUhHeU1Kdm1waVZKSV9GY01SVy1RTVUtSW5TRFByMkVfT0IySkZ3aGpGR1NtRHhZdGhDSmxLYjBzVTk4dFpNN2dGU0hHUFFIUHF3VzUtbW9PcWZNRW5KS0VQdHFnZTRfYUhPbUJ3Q0R4ZEFGWk5IbjB0SzIwcjQyYUQxM25Cc1JSVHpLMnVyX3hOVWRWVW45cHNG0gHAAUFVX3lxTFAxOVVLSXZSZzhFaktjQXByaUZuRG8zcXRWYXZ6ZzRzOXpOV20zZlpPVWo3aENWNkRuUHhoakp4dWFaSmEySUlZM2VtRnFnTHhyOXhjUWhkUkhXUXBmSlJleFNzVWVIeS1BakZFbzJqOThBbDE5TVZiNWlVdjVaTVZ5a1FqR1puSTR2QUpzanI0UXQxVjJiTlMzNk9uNkpvYkg4QUtmZUdjM0h6YVY3b01mM1hzb2R2b3BVT0ttZmZXLQ?oc=5",
-            "published": "Tue, 23 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766476800.0,
-            "category": "Business",
-            "city": "Gurugram"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "No More Nonstop flights from SFO to Mumbai, Delhi, Bengaluru in Air India\u2019s 2026 Schedule - IndianEagle",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3RvZ3Z4a205QnZrbWgyRHRla0FPZEdIS3AxWktBcEpDc19wVlNIX1RfQVVseVJ6TElGN0pLVkU2M2FtbTg5dndibE50dUJtNkhROXZtbmZ0bi1iVnNsTzgxS21OZHZGNkNONkJ2RmY2MklCck10bnczWVZaOURJSVBvTQ?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Air India Shocks Passengers By Discontinuing Nonstop Flights From Bengaluru And Mumbai To San Francisco: A Major Setback For Business And Tech Travelers - Travel And Tour World",
-            "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRWt5VllhQ2VSNkZLRkJMallrdWxZbFViLUV6aTdqLVBCczVXZVd5ZXgwLWY5QXdVeDhKdUJtNFkxa1RXY2wtdzlJX1BWVmNxTHBhR1dLbUJrUm56X2Q4Q3RQMldoQkJ5emZFMDFlcUZKaEZHbFF0Mng3a0NtQWpKMTJJU29kUzNya2EzSjdMUmNfd1BKSGkxTjNRQ2pNaHBDZmZudzROc2pLLTVRN1dLamlOYW1Yd2ZrLW9ERzhkLXRIQzNZVGN6TUxCSURaTU1ZcC1KaEdBd2pPd1hCU0VHOEx3WkU4MjhDNmVHRk5IMHpUUTIzN2NWUHdIRWFGUU9GZlcxeDQ1ZXZRcGxtazNiSDNTem5iM1V6cnBRUk1oX2lXaEd4ZnlF?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "IT Industry",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Air India Alert: Bengaluru, Mumbai-San Francisco Direct Flights To Stop From THIS date - What Flyers Must Know - Times Now",
-            "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRXBOaXVrdjBIR1BCbmMxUTctdndKYlVLaDRzdlJwbUtmcmREQ0VMNDJpUHhFR0oxYUlBQk8yRTFtTXpTM0lCUS01ZWl0eFU3ZF9FVDI0dENYbHEtN3NrLWdkdkpOQUtFMjVCUUo3S1BHYkpiMWMtMHMtb0lEZ1JqTVZGa29FRWMwX0F3eV9RV1hqdlNrMWNDNjNXeC1MX2dXMjRCWnFjTW5oZlhmUmQ4SGxhR21MUW9kR1ZwOUc2ZjBwWFh4VWZEaGNYSnl2TDE3VGtjNG5UMnJaWjBLSEF3RXFEa1MtQkJDWGdqQ21aWXZNd2FRUHhPeFEzeHVqNzhLVU5lbmEtbDB2LUNWOHpfWkxBc9IBmAJBVV95cUxNMU1sanBlWWpSUzVaRFRqX2QtQU1OcDBpbEtveFlFdWx1OFRibnl2c255TTBVb3JrTDk5UkVfeXZvSmdYQ0NEc0t2WTlCRXJxU1VVdXc2RUZaQk1xTVNtZ2VvdTJxbnJZZjQ5WXRHOURYV3Qwc0U3VnVwOXJzVU1SZVg4TE0zaDQ3LUlMVjdQTC1rVjRuZ09CcVZNQ3VKaFBTRWFHSVc5OVFSTGFKaXhlMmNxVy0tSXVSMG1GZlFXSmFnb2VQdzVhcF9BZjI4X0ZLSWVMWk9BSE9oUFoyVEIxeVlzNld4U1lrSUM1YS1RczNhenNLSVVYOFZsZ1FPc2JyU283NVhrQTZPMjJ3SWN1ODlTMWdGMThz?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "From March 1, Air India to stop non-stops to San Francisco from Mumbai, Bengaluru - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWGJuRnVfNmktMkJIQVlyOTBRSWZSZWJFaldjaXFlZWxQUkkzeXpJT0tEZHRnZDdkQzlNN0t1T3B5OXZZS3pPLUVGUkRIQmdOM2RMM3BZdnRkVHFfQjN2UWRSUHVQSWFpVXd2STFLaUJ1RW5hbEsxb3NvQXJncm1uQ0ZRbnBIMVZuVWV0UVQ1azFpaDhFbEM0LUxFX2tLaFJkdHlvWlRObVhVcnFIczZjd2Z3MWtzVDJSYjd6bFRqQUtib3RzZEszZUpuSUFxb2FIQ3l2QkprcVlKMV9wWHJzSFBrY2VqVHZhTmFvdGEyYnZ1QjFyZ0FYY9IB_gFBVV95cUxOUC02Z3phX0RTUW41MXViam1TMVhjOVNQRWtKMXd3WlFrdHJRMGQ5a0U1aXRJTGtiUmJQc2NxdDBaZk9OblVrWXNKMGN4X294UmJ4MUszb1dqdE01RE9aQlRraDY4NHdTQUtqcVlwMktGcDdDbzdRLVAyQUNWeVRCa2JQcDd2WVN0eTdHYjg4QUNfM2VDcUNsbzFIU3hJaGhUd3BzN2RGVzQ1WHVZQnFtcHdqd2JORHVoWXR0dHZVVWs5dTlBaGNESjUweVhfYXFqR3NDa2VzRG9GQ1lTRG9PeFIzcHZ5TTUtRUR3NVhad0U4TjBPVlRzSTRneXMtQQ?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Flyers fume: Air India to stop Bengaluru, Mumbai\u2013San Francisco flights from March; business travellers li - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPOVdwaTNSNmY4SG1oQlNpczZYcVgxSnF6ekVPdk56aHVFXzA2UVIwQkpDa2dWVFNsTm1qNi1WS0dEY29ZVlVqNl9XaTVBcHNPeC1yM29NSmtreXNGRkwxdWM3eGVRcVRKbkZKZWZmQ0I4RDhSOHRfQVJXTzhrZDctYnhDYXBESVM3X2pRQ0VsM3JUZS1Gc0lWT2RBaTM2M0w3WnJKZ1Q0SHozUjhjbVlzdV8yTmx1enp1YTRDbW4zZDRSeXBkWG1SUFRpZFc1eHBkeE5IOFhrZjBrUEFhZXB6RzUwY1g3My0xYVNqUHFtMkc4Ql9WODJUcl85ekNYMm1VaXNNVDNhazJKSFZkU1RWMWw5dU42UHhGbHlrONIBogJBVV95cUxOb184Szl4MU8yY19hVEpwSjNwRVVqZmw1ZFNldEFENzZvMXF2VGRsM2hxSGhwajlsQUpPak9OWXp6Tk5PV1VVbjFhbWR3Vi1TU2J1TjY1UWdoQ2RSLWV4cWJuZERqMUV6Wk9qVXVqOGJESzlhZW1oYkIxRzJTSTJUZXVZOUlva1dRNEpTZzQ2cDh2M3JZY1BPdnRndzJkdFY0NnFYMU9RNEJ4WDhBQWZkRXdSRnd3Q19TUy1ZLVBHTVBXZUJfU0ViMldHR3R3aVF2STdiUWlOYzNJQTRGazJPRWlzVjFESlpNR001OENuR0FMd1hZZG9qdmhVbVdJQ0QtdUJvWng3R3kxZGlvaE4tcTF1T3F5WFcwZFNwM29OakJSUQ?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Admission open for SCMS Pune via SET - ANI News",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFFIZ3hVVW1Lc01kcnEtWS1vblpHWUdrdDRVazVPMmU1QXJieWl2WEVEWGtUS2I5UGtaSEdLQ3pkREFzUWU3OW1RNGRCWk9sdlBXRUJwYTVUajdSOWg2OFNiMWdVelFQRTl0T2drUnFjZkpjd3dmRFRoTDZmbXV5N0NxR29aMWQ3Ym1XWmdQeDE?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "Business",
-            "city": "Pune"
-        },
-        {
-            "site": "Google News Noida",
-            "title": "Noida to begin remediation of 7 lakh tonnes of waste in January | Hindustan Times - Hindustan Times",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3ZjYWR3R0lONWdqX2F5ajFOdkUtcUt0M3BQMEZya3lFUUZUZjNxLU5jQVliR2UwcW1BcF9WcDBaRUJyYkVFS0JZWmVIUGR2dFhpbXR5M0UxMmhQeDFHR1ktTF9MVWdDSFd6aEY5cVBIS3JEYXpPbGZrdjVvUk9hSF9tRktFWV9xZVBXcjRwb2pMVnFicE9XMGtyRG9CZUpMM3dmakdfQURVdW1UWWd6c3RWb2pJS0RHYnM2ZmNGQ2FEUDFadGZYcmlDQTdvZ9IB0wFBVV95cUxOQkZBN2tNekQ1R3F2VkJMNktHcTFtaGFCQ0tEUWZINzNYbmhibHRRSm5QR1VuRVlSXzk5Q0NXRlRRdjhwZmh2ZmdZNm5ybmZGdUhHNlI5TVY5QU1RLU5QYnBTMHJDNjJWOEExY3NiNlRNelFpclhnQVU3dnRackd0RkQteERteHZFQmxzOUFkWGlKUHI3SUNNWGs4N1ROZmlIYjl6WXBvSm9idTBCYmNhMVZWb0lkT2NzaVhXXzRKSTd4MXdPVDF4c2c3R2s1SlFpcWZF?oc=5",
-            "published": "Mon, 22 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766390400.0,
-            "category": "Business",
-            "city": "Noida"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "Red Rose Supermarket: Redefining Affordable Modern Retail in Hyderabad | Images Business of Food - business - Magzter",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFlIblU0LUtWZXdpMUdYeG5hSF8wR2VMSzVpSS1iUDZqdjN3Mk00OEVHMDhmNy1Qalh2LUUzcFZRS0N4d0pLNlRCSHRiSmh5VF84R3huS2ZVMVRJekMzQ29zOGQ3Y0swT0ZxT0RObHVoUm1uZmJNdGRVXzBid0IyMC10RFJXcXBaS05yME0zeVk1V0ZWN2hvNzlseDY5NEJvcEJRUkFHQ3EyeXpFMF9HaU9OQTVCeWJKb2hfNHpuTVlwcUl0amhXb2I0bEZINjYtRHBDSlMxVDM?oc=5",
-            "published": "Sun, 21 Dec 2025 18:09:55 GMT",
-            "timestamp": 1766340595.0,
-            "category": "Business",
-            "city": "Hyderabad"
-        },
-        {
-            "site": "Google News Visakhapatnam",
-            "title": "TCS to commence operations in Visakhapatnam in January 2026 - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQm5URjJnbGUxZVdUWXR2QURuU0xIQTBUYUd5V2d0bmNBR0FUTjJXTmNDbWZieXhHUGJaNzdZM2pONVBLZUpIb0oxVnhWblVlQXBXQXA4QXFrY2FoVlBreTVvSEFPQ1ExaWxVcFlQYmF4LWRhYVlta0R2MmtfRmlFM2tGMzEyZ1o2S0JmMXFjVGVCNVh5UjJQY0o0U1NBUGF2VnlSd211TEFQTVZVSkpkeDdhZDR5RVJNMmxiWGRBZGVOSTZ3bVVlak9B0gHQAUFVX3lxTE1nVW5IWHdqdjlSbUtSVzBic0l0NGhrX2NyV29SZnNlX0ltaVFOdHZkSHJnNi1hRTkxQVVWLTlMRl8wbURPRlhMdXpDZDRhUmoyWEJFdksyTDNHQlp5SFRlUGJManlHRmxSeHMycjEyZ1ZYZ2pVV1JOeFR2bEFPMnRCeXhLVlVzbF9fcEQ3RjMyZEl2NzBPVmtyVW9iaXRQRExBd2hOLVJkTFUwaDItQ0xYSWtOTGN3dDJTbnpRUjlacVJROWtVaTZyQUh0QnFpWXk?oc=5",
-            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766304000.0,
-            "category": "Business",
-            "city": "Visakhapatnam"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Bangalore Times created stars. It created Bengalureans. And it created memories for a lifetime: Ramya - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWi11RW1QZS05ekk1TF9NOGk5bUtDTmp0aDRqLVJtbzk5N3lPMEZHUEdtNE5nVDhYcXRRVkhVUE1adTU4RFBXU1o0VzVJM05MV1ZuOTVUMzdIaUEyU0g0NkIzcHpraEg1dVUyRExpeTVuVklScU5Ybi1PTlY0aE1XUmlheG9RNHBIdUNUOWxOYUI2NmdLdk9jT1VTNGdRdTQ2SWpLSXJPb3VMR3dETVBtR093YXY3ZlZPUDVWakRhTDRtY19nV01BdDVyUmFMN3NudUtQWXRjTXRoZl9zUGdLbE9oTGEyMEJWMkRZTHFDTThvNGYtX201emZONG1Ib1drTlBhT0Q4U2pQU2lLRml3Wjl4bGJTQ01HRlZSZ2pZb9IBpAJBVV95cUxQWEVrZVVtd0J4VS1MbHhIRlVmQnY5czRmR2JmOVNyM29NNEZKZU1TWXo4azVTR1NWOU80bHkwdDE5SFRXWUhFYlBncTdUTXUxejAwZWw4OTljUEEwS1hNWUk3OUM0aktaQmFPYjlGQWYwNHpWZGNSTjFfbjFDa0M5U2wwOG9veDhCR1RmcmFlNHdidkhjX25vU1MyM0c0T05BR1Q2VjFJbXpMeTVUN1dIRlczenRDcXp1ZWRSTUZyQ2NwRVFLNmpoYWllOEpNeHVvMGJrYjJrMFVlMF9Xa3o4MmlrbkthdGhCaGZjY3B3dWVSOEo0Y0IySC1vWExGcVRJOUNJTWtSWmw0M2JWV1pLcFdKeEJKOExlSFJrMWs0VlktOGdl?oc=5",
-            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766304000.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "'If your income isn't Rs 3 lakh, Gurugram is not for you': Startup founder on what's keeping prices high - Business Today",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN2EtRHZxOV9WUGpNSGNIRHktQTE1eWo3LW00YkxtcW5BSXBXTDhYaVllN201WEFQX0g4WDlFR2drOU1zRU82TEg3aE5nUXI1NTlIRS1waGU5d0hheGtHcWRjek1aeS1NU3dWOFdsbjdhWmpuWldWTlJndXhveG5aVW9WNlFzZ2VsOEZoQnRvNUg5MUJ1WnBkRnRCWmdlVVI4QktIdTFTYlNHY0RGeHBBX3l2WmZPQThhNFZoX25McTVHeU45WWNocVJTOXZzY3FEOTlEV3ZycHNDZXNZMldsaXh1YkFIOEJieUNNVU1GUndFd9IB9wFBVV95cUxQOG1oU3YwY2E1VTJlVmdmZXhUQzhnUTFfM19FTTRrVHpqZ3NNbzZXSm1kNjhVeFRwTmRhLVdDTnJWWVRmNmNhbkh1aG9tTTV3dUZvM2F0YnAtY2hIRmVxX1NsT0Z2RGo4QVhzWHFlc1dOTmZrcmZDU25JeFM2VmhpSTBMSC1ial9CZ09DbUxyZ2QyQTQ3cU92VTBqM1hCbmN5S2dYbDVROGh6OWhUcG1MVGhSNGJ3aUEwRFhfWXAwV1JSMEFSS0s2MlFONW9aUnQ5VUZFZWY1cnFQNEx0cnpIU01oZVF1cDd2SkFENjRQSXVXYW9jRlNJ?oc=5",
-            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766304000.0,
-            "category": "Startup",
-            "city": "Gurugram"
-        },
-        {
-            "site": "Google News Lucknow",
-            "title": "Kanpur\u2013Lucknow Expressway to Become Startup Corridor, Boosting Jobs and Innovation in UP - Indianmasterminds",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGZteXV3ODJzTGtUR19vaWJ6MzFJWDE4Q2Jrazd0MzdjNXRFX0ZaQ1FnTW9kbzFNZDhSSUxDUXVaUzZpVklwb0UyejBIUGFVMUxEMHd5eFJxSjRaeDJKYXpwQ3pNV1pWa3EtcFAtd1FlQ0s4dEkzSnRXSEFXcVZDWjhjOVN3ZmJIZVVOWDJxT1VKZw?oc=5",
-            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766304000.0,
-            "category": "Recruitment",
-            "city": "Lucknow"
-        },
-        {
-            "site": "Google News Visakhapatnam",
-            "title": "India\u2019s Andhra Pradesh lures Cognizant, 8 IT firms to new Vizag hub - Outsource Accelerator",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JOXFVQjlCczVkb2J3Y2wtc0hJR0g3OXppVnQ2YjNxVUptWkYzLW9Ca1EydWJiMEhBcVRGakUwZlNqN0FzV2NnWUxVZU4xT2JhRFF0VVg0X3VSN1ZuNEZnRjZ3Q1dFQQ?oc=5",
-            "published": "Sat, 20 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766217600.0,
-            "category": "Startup",
-            "city": "Visakhapatnam"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "CMRL Awards Rs 436 Crore TOD Contracts To Expand Metro Access And Commercial Development Along Chennai\u2019s IT Corridor - Swarajyamag",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcVBuTVdmNC1JY3NpWGlJMndYZVkzU1JEOXlkRXhuTkNnYkNzd2Q1eWZhWEZ3ZnE0WHJCc1h5VURsOGMzZEVCdEp1YkNhSHhJT3poSl92WmFNa19IWDdyYzFWYTNTblo4VUlaUDA2cVRaY0dvVUFRai02SzdhMnk1Tk5IVjIzSjZLVktLVHhmLUh2UTRTNVItNXVDdnhJaFBnalkxa2J4NGFmN3FyOEFJMHEwbExLTU5SekE0SlBqLVZxRklJUmtqUXNnTUxMYVFmNVFUOUgwMEpvYl9hTHR1SC03MDDSAfQBQVVfeXFMTUF4SG9ab3hHVHZlRWdseVhUN0FubnhZTEJxVURncUUyWlZkNnVhanNrd1ZOQ0MwX2Q5NTBqVWhIWkpIUXN6RFQ2ZTVSWm1PUWM0OGh5MzZlWHZwOHlvR2pDS3h1dUJib3pOcmdFZmZZNGtlaGZ2STI5MTB5ZlNFbVUyR2cyRF92MHljWS1fdmdOM0JGZktPQUxwS3lXdk8xRzFKYlJaR0pva05TdDdMTmFOcFh6MllzTy12ajZ6RHE5a1ZGZVk2RVR4bXJrNk5zNXF0RERYX3g2RUxhclJKVzNXRzRkSnUyTHlWdy1vQk5xbXJwRw?oc=5",
-            "published": "Sat, 20 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766217600.0,
-            "category": "Business",
-            "city": "Chennai"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Hit and Run Case in Bhubaneswar: Hyva rams into car, drags it nearly 20 metres - Kalinga TV",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ25BWGl5UEpYTXUwU1dqVzFFUlBUTHl3NkVpOWotem9TOWZ2Vk9TYnRrUUVqZ1g5VkNqRzlrU19xcDVxa1hMeWk1QXhMTC12YzFOZXAzc3lybTVBMXRMUnY1TG14X0FyNzMwTnJHeEZzZzc3RVAxVDVTMHB0RXhUdXRhR3hRV2NVSEs1SWhGVDY1R0RhUmNnVWctV3hhZGRyX3M1X1RMMDRrUQ?oc=5",
-            "published": "Sat, 20 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766217600.0,
-            "category": "Business",
-            "city": "Bhubaneswar"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Surprising? Air India Scraps 2 Important Ultra-Long Routes To The US - Simple Flying",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzh0cF80bF9WejRoUEpyb3cxT0NTY2JZTm9JeVJNUmVjeWx5b00zUVFGaEprQ0dRdlF6SndhRl83M2FWX25teXRvR1A4THZDRHhKQkNYeUZ1QVllR2ZLcWxrdWN2RkZXOHZsN1pWYWZPbm53VnhCZ0lodnhMdXQ1MnlKaGVHbkh1R3VKeW01N0J2bHBTQXVSMA?oc=5",
-            "published": "Fri, 19 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766131200.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "\u2018The beauty of Namma Bengaluru lies in its inclusiveness and how it embraces everyone who comes into its - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNUDNIN3ZhODVqeXVzNGVWejh6ejdMZWlUai1kaXk2WUMyR0tERnJja3VpV0tZbnBJV0dLU1d6YkVsUlF2WVlRT1V2cnoyUmZfeUxUUWNMaHVmOTNpRU00QlBwLTFhd2N0R2NkNndRSTZKa0p5WWlaYWV4UWlXUkFWMHY3b1hMZnRVdUVrZEZFTnB0Vms0bnFVdlhVSlpqRlFEcW0wWXhydHRqOEJIZE44UW5qZXo5eWcwaDZWeVA4cnVzYzlaSWV2YXRQU2M0X1Y3eW1FTElzdC1uR3I1cFctMWlQVlRia3V6YzdWc0I5bWVDdDl4dUxBSU1PQk1LREpDcGNURzN3bGlsNkhMdlNXcVJoWXBRZHZIcVdBaFVqYUFORE1taU1ketIBrgJBVV95cUxNaUZvVHd2bE05M1pnVlBBZjFoa2NITGdReEtFWnc0UVZRQnZuamRrOUc0amdMRlozZDhCYnl1ZmE4VFh0SzBFbjI0N2FNWWNVT2dDN1JfOTV2d3dUakZiX0pRc2kxUHRzLUVIamxGVHhXdHo5cjEyM2ZKdGY2cE13Q1ZNeGxlQTZrdFdNd05Ta1RGMXdMS2lyalFCeVBWd3A4b3NxR2pMV2hBc3lIYjVxZF84c2ZRSVNHWTU1QUtIbktsbUdyMmZaQTVXV1RHNW13QXpWX0VzelUyMnRLRE1JakVOd3B2RTZYc1dYUmxfa2hzeEZYMmF2dXp6cHgwZXh4ZmNCdVQ4cVI1T25PVGZOdFBqOE00WHE4OEJtdmR5ejctLWZqZlVJSDlBVTdSdw?oc=5",
-            "published": "Fri, 19 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766131200.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Kochi",
-            "title": "Fort Kochi's legendary, natural Christmas tree: What's in store this year? - Onmanorama",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb21xczBaWE1nV2xqaHZGb2RScEZDQ3RGNVNPNWZVajNCLVF3LWZDUWJ1bGdQbGlfeE4tb2dfTUJCWElYU21zMUFibUtCSWdWV3lHaVdSVXNSVUg2VHdVTUVOUjI3THl6eVk0Zk9FcDI5YlByVmZMUld3TmdqZmZzajJ2V1lTcDN1MHl6UnRHRV9PeUFC0gGUAUFVX3lxTE5vbXFzMFpYTWdXbGpodkZvZFJwRkNDdEY1U081ZlVqM0ItUXctZkNRYnVsZ1BsaV94Ti1vZ19NQkJYSVhTbXMxQWJtS0JJZ1ZXeUdpV1JVc1JVSDZUd1VNRU5SMjdMeXp5WTRmT0VwMjliUHJWZkxSV3dOZ2pmZnNqMnZXWVNwM3UweXpSdEdFX095QUI?oc=5",
-            "published": "Fri, 19 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766131200.0,
-            "category": "Business",
-            "city": "Kochi"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Max Healthcare to Set Up 450-Bed Pune Hospital; Shares Jump 2.75% - Equitypandit",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR256eFBqdkhxYk1QNWEwY1lMZTdzazY4cnk4NExzZnlRSW52RF82QVd2NS1GSTNDWXZzWjBYbmo4NDdYcmpvQ3k2LUhvNmNJZ3BDUlVaZURyMkhwak9ZY3JKRi1ValRrM3FoN0Z1SElyNW93RDhVQTlpU0J0ZDZQQ3l1Zm1pdmxTQXRkd0hJQTlGTzJGdi1DTw?oc=5",
-            "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766044800.0,
-            "category": "Business",
-            "city": "Pune"
-        },
-        {
-            "site": "Google News Ahmedabad",
-            "title": "Top 10 Accelerators and Incubators in Ahmedabad (2026) - Failory",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRDBzcjZiVktLWEtXU19QZDJScklPelFpN3Y0LU1xRk1pcmxmNDBnV0hXYTBkQmVfLW1fZDVIWFF4YVF0SXFzb2tCek1vaXp2Q3lZQThFTGQ3cGdXQlRDeXE4N0YyUVByXzJ1bmc2cllMYUJB?oc=5",
-            "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766044800.0,
-            "category": "Startup",
-            "city": "Ahmedabad"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "NRAI Bengaluru Chapter Hosts Knowledge-Focused Industry Meet on Safety, Sustainability and Business Longevity - HospiBuz",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdEloRElyN0NfSGQwWFFSbXYzZjQ3d2E4UzY4WDZnNFFnVlRpVmRlT3U2WFBLUnB5akJQVHFPRDBVU3ZqNm9jRlFwZm1LdFNhZkpVcERNMkFWS013Tjkta25zcEF5dVFEX29JUmlYcV9zV2lwUXRmbEVoSU9xcXBXYlVjdzhLWDk3MzJobVJxSnJvVTNONDVFbDc3MVFnLTE4NzlCTHB5aFFPRFFHY2RiWnFuZFBfcHRUbVJ3SnRRZUJIakttN3k5N0dCY3VVZzhPTWhYakk1Zm5vVkplNHE0OHlfQmV4d3JLa0R0UDdNZWJiUdIB8gFBVV95cUxNdEloRElyN0NfSGQwWFFSbXYzZjQ3d2E4UzY4WDZnNFFnVlRpVmRlT3U2WFBLUnB5akJQVHFPRDBVU3ZqNm9jRlFwZm1LdFNhZkpVcERNMkFWS013Tjkta25zcEF5dVFEX29JUmlYcV9zV2lwUXRmbEVoSU9xcXBXYlVjdzhLWDk3MzJobVJxSnJvVTNONDVFbDc3MVFnLTE4NzlCTHB5aFFPRFFHY2RiWnFuZFBfcHRUbVJ3SnRRZUJIakttN3k5N0dCY3VVZzhPTWhYakk1Zm5vVkplNHE0OHlfQmV4d3JLa0R0UDdNZWJiUQ?oc=5",
-            "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766044800.0,
-            "category": "IT Industry",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "Explained: What is Telangana\u2019s \u2018Future City\u2019 and why it matters? - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTBxZlFjNi1WeG9Qc1AzZ3BaT0NUallzNnhXUWFNU0d0akhFQjU3VnFZQjBuLU9udVh0UDVnMlNPeWRITkI5N1VpaGg2WW1uWXFZWWpBcGtQekZqaHpzZDc4N3cwcHBNdkpydzVzV2loZGw4UHVldVBUcHRwV2szTTNYXzM0cVc5X29QV2E0RWJwTjIzMmtObnFLYlBWYXprSDI3OGt2ZGpHMDRVdTlhcEdzbjBadkVOTHk3b21ZMDVxSjhodHh3NtIBzgFBVV95cUxPQWE5OU9zdnM4U04xQ2lqaG9nbUtOQmdRZ2pjc2l3Qnd6ZEVxbW51MFpxR2JqNkR6OHM2Y0Ffa1ItYk1mTzZScUh3Smp6S3A3M19aU2E0bW11NVByRGVOU25LTnpLWWFKMC1VRklfZnNKaEctaE1maW9vY2dWenB4bk4yLTFQWER4TmxpbkE4Y0IwUzg2T3ZVbE9EMVF4dFQtcHpCTE9zYTVIV2ExM05TQjVJVXp3UFM1SFRNX1o5UUd5dXpBcU85TTNPUGNZUQ?oc=5",
-            "published": "Thu, 18 Dec 2025 08:00:00 GMT",
-            "timestamp": 1766044800.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Kochi",
-            "title": "Bondi and beyond: Lessons from Kochi in a fractured world - Scroll.in",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUR5RE9zek5LaG1FM1ZPd3lfNmpmc01FMHExclJvaF9kWGRBNFdMbDhfUWxzNjdFOERvbGNkdnlLNmQtSENhSEd5TlE2Yk1FWTZZUTBTNnRUVzVvbE9RZ3JQOTJqQUlQdWRsekp0UjgxYjh6b3FlZ2xNSjJfZlIwWDVFRXd1VnZxS29aUFZXd1VtQ3pP?oc=5",
-            "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765958400.0,
-            "category": "Business",
-            "city": "Kochi"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "Delhi air pollution: Supreme Court modifies order, allows action against BS-III and older vehicles in Delhi-NCR - Business Today",
-            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUnUxblVJenY2eUVERTVNQk1HNmJDYjExRm5SM1d4emFtNmhEMWJsREpyY2FQenNjakNKSkpfTmhuZkppekFOT0pudnpabmpkbUJVVUIzZ3ZtejZHV0FkODV2UFlqX25NNmZpUU9Ob2F5ZlVxRnVnSG1lY092Q2NZWUlVUndpQTdkRGltMHRuWHduclpKNTQ5QW50REJPam9KY0RPZzRQaGxJQllkQ0ZseGJBbnN4cnFXNjlsakpEMXlxbzhPdTFUVThuMjdTVGEwaHhMeWVtQnNtQV9JemFSa0g4UVItRF8yM25ndzBlTGdFc2s1OGpTOWFobnXSAYICQVVfeXFMTjhEaUlXLTdTZFdMeDFJaW83TjJ6eVlJWEl1eTlUYVVFS256WE80V3Uza1owb0l1MmZISEoya3hqb21qYzh6eDl1STFmemhJUWRTQjg4NmNpYjdJUGZ2bUIxZlhYUGZoMTdIZ2NOa3NYV3ltS0FPckFCS3RBUUVLVFVwVkRTY0NFTG1Nd0JVcXQ4U1RvWkU0YWNDNW1iYV83bFo1VzJhNlJOVFdzTXhMNVhEWGhzbzh6djZqVEV6R1RMaDNwMU5GQ3k1MEhPbWRfbVpQQVkzMFlCUTBneTZFd2tJeVFaOFRQSnBpZkhwRF9mRGdmSDRmOUhrbGplUXYxRFhR?oc=5",
-            "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765958400.0,
-            "category": "Business",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Ahmedabad",
-            "title": "Italy to Rajasthan, 40 shoot locations recreated inside Ahmedabad studio: Entrepreneur duo builds global an... - Bhaskar English",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdFR4b3ZLUlFNQ0lQclNmaTZyZFFFUkdYdUszTnFBQldMUlR4ZllHWHY3dXhzQ2Z2aGZYZmJONERUc0VxM1pkeEFxS3JwZThVVnE0ZnVra3ctZ2psWmxzdFpSQlVlOFhRaEJKN3pfWGpJYWM1UTQ4MURaTnIzZHkzbXoxdWVtUFRfUGZQa3Z6ajNiVXpxQ242UzBrdjI1dm9jMXNuMC1SdlBtdWhPV1VjTGxyM24tQ0ppX0pUdjdZMzBuZmV6ckthVmJpekZCVzdIdzVSMHhqSXNDS2w2d18xSzdJdXJyTEM5SU5PeHk5YkRjYmNIcDRzSm9n0gH_AUFVX3lxTE1RbGVKTmVwT01vWDg4YUVmTUlxeFBCY2pXenY4al9nMnNtcm5WSU9WSGRUQzBnR0F3OEFpWktNU0xZZzU3SXRJNmRERmR5QVdHeVRWdm94RVd2Q2Vrd29ydHJ1YkZ3MEI1b0tVcDNXcHpTSUlKYVRicEtRUVYtZlZfeTRMa2NqRHkxczloZzBkMUN3X3pPNFpJT2F1cjY3Yjh3dm1OemNFRFlpRHlIZVE0cFF6SjI2dnNKRnVaUTNpYm9xVklUUzNRa2FiWWJUai1IVnJTTnZBdVMtSW13UXEtbE9BaU5sRXl6dm1wUGctREY0VTl3dFJSN1I5ZXc4UQ?oc=5",
-            "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765958400.0,
-            "category": "Business",
-            "city": "Ahmedabad"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "What It Was Like Experiencing Kaytranada Live in Mumbai - Elle India",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVcwUWE5UFZGYzNDckY1T1U5Z0tGT25JOFRqZkVpdHI4VFlfZ0V4R2hrS183QnRudlEzZXpCeVJvREl3OThTTEtRc0hHQVZXZEYyWEVKc3V3RTMxalNNc000RVh4YWE2S1NVRmFnZ3N0LWU1ZHBxQlB4NWRZUS1XWGpvelBsYTIzLW1PNFBjejI4ajRNNnN6Nw?oc=5",
-            "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765958400.0,
-            "category": "IT Industry",
-            "city": "Mumbai"
-        },
-        {
-            "site": "Google News Kochi",
-            "title": "India\u2019s First Ramada Hotel & Suites to Open at Kochi Infopark by 2026 - Entrepreneur India",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOG8tdW03M1kyWHZBa0g5UHl0WUVGMXJ2X0lqZzMwSUhDZlNkbzlOQkgzSExDQXJNNzNUVUdISUQ4M1RWZzZRVjQ1cFAwVnhsRVRuM3NGUTd2T3FydzJyaktzYmRYcC1sa0JLMG9HWkE1RzdLRFp1X3U4T002X0ROQk1EZmNQSGtEekJMYllaOVVoaTdpZTZ6em5mSGtxN1hUNndYaXdqV3IxWFJSRDd5RlZzTUhuamM0SnVF?oc=5",
-            "published": "Tue, 16 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765872000.0,
-            "category": "Business",
-            "city": "Kochi"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "Indian family of alleged Bondi gunman didn't know of 'radical mindset', Indian police say - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWVaVF8yWlp4YjJnWXhxcndmSWQ1SVl3S0RoVlJOM1pXOThZdkY3TXVyZEV5MEEwVlh5QVhJX1J2dnk3ZkZEZW5CS1RLM3BJemc4OWtJQzhheGNLZ3JuRWlRT0xIOFJTOGhhSm9FTFAwVnUyb0JqS2plRFhFSnQyNjkwT1JHR3FCX0dFbzVUTHUtQlZMWjlfdmw2YVI4ZW5jd2tuTGxyejQweFNHM0phSnZZSUZlSzJPZDJXbEF1TU0?oc=5",
-            "published": "Tue, 16 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765872000.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Caught in a Limbo: Bengaluru and its unfinished business - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYmw5LTYwQmF2dzk0ZUhEZ2dVaUZVMmJfcVgwX0dsMjBMNzh3MGxCeWNld2VMN25QQ1lFRTU3SnU5S29nRl9ta3RRQXdIZi1VbEhqTGN0RGVKbkNkaThmdnpZZjA2Q2tybXd1OVJFaDJuMG9QZm1FZWFvMFJVU215UmNtQU5xOEREV21PX2FOOWlDMzFZM09CQklNbjViRU5lelJUVEVWbzI4TzBrZnRfTnQtTzJWSWhNR1hXaVdZcmtDWDFycWpJWkdVYlJsNkpVRl9Z?oc=5",
-            "published": "Tue, 16 Dec 2025 08:00:00 GMT",
-            "timestamp": 1765872000.0,
-            "category": "Business",
-            "city": "Bengaluru"
         }
     ]
 }
