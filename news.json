@@ -1,6 +1,528 @@
 {
-    "last_updated": "2026-07-27 13:21:33 IST",
+    "last_updated": "2026-07-27 17:09:54 IST",
     "articles": [
+        {
+            "site": "Google News Jaipur",
+            "title": "From the House of Vasansi Jaipur Comes Varuna: A New Destination for The Wedding Circle - TheWire.in",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQWM1Q284a1R5MTFHTmJPTDZwNDgtY0FLdG9GZjBiQ3lDRGtQNm05cU85cldRd01RcjJGek9PcGh5VExmZ1pfd0duWnRpdzlVUkVSOTVoVEpjakRkYmJDSjZZZzJHZjZmREJGeDJtUVpVQ3c1a21qenFvR0xaWUEyb3RhNFU4QS1TRFFkTE1IVmV4NW1vcE9BUWxubDBONy1JZlFjOTdHM2h4Z3JkTVAxdzVROUJJZVhZVTM2d3NodHozdmvSAcgBQVVfeXFMT3VYeEJJQ09tTVNsTi1uNXBTYU5fSWN3ZXlhMVZqREppODVUbHpUX3AyVHdaNEFBd084WkY4YW9TUDRMSjFWMkhXQkNIdmZWS0hOXzIzT0xsd0p2ekZGSkFYbmZfUnFoRVBnRFNwbkNaVXhaX0ZZU3ZtSmlybjdfajdOVmpVQzI1eE9QcjY3TGc1WXpDX2xKcWZQNHJUaldRa1E1bVNjNm83LXZoN3F4UHY3SGZJZGVGSFV6MFdsS3FLb2MyRWFseXk?oc=5",
+            "published": "Mon, 27 Jul 2026 11:36:19 GMT",
+            "timestamp": 1785152179.0,
+            "category": "Business",
+            "city": "Jaipur"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Architects must embrace innovation and emerging technologies, says Sonar - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWM0UG5WOG1EeHEybUtMTC1UOXQwZE54OXpBd001RnYtVDJnQk83SjZCNTJBY1otLTN1RnMwZ0RQUFlzcWQ0Vld1aE1oaWI0bmZhcEloOFU1ME5GYzVFdEE5YzY4T2JUQlpfNGZxeUxIdE9UclV4LWdCVk8yRFVxTWhENFJqekRBNVVjZC1JVVVmU1h0eDUxc3pxdFFyTC1hN3l3aDk3RnZRZk1sZmJvUksyTFVBbGxpNC1udVBkYWgxalJTa010OVkwSkc2aVRwMkRsdUhYWnR4N0tTNk1UMGRB0gHnAUFVX3lxTE8xUzdTUk5qNGZFYTJPZW5QRy1SS2M3RThoZ2xhQjNqM1lvcUprS1lBZ2VxNnhFeklocUZ2YlpFRm5pbTNRWkhaSFdsVUNYMHNrTW1VdlptWE1USlZac1p1cDZBcUZzekJESHpoUjFRczRld1M1ZG1lZmROWjNoMWRPWV80X1otbWplQ0lfUTE2aWRjdXJfZ0I4ZHVtdm5jWGdnVHFKSDNHbXRnODFUUFM5Q3hMYW9ta0UydXFiZl9uSWNsZ2R0WHZZQXlxRS0yMU9SWUJYM2tTVHlXSHNEVzhNOWl5S1Vncw?oc=5",
+            "published": "Mon, 27 Jul 2026 11:19:00 GMT",
+            "timestamp": 1785151140.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "SonicWall research finds Manufacturing Cybersecurity at a breaking point as factory floors and corporate networks collide",
+            "link": "https://www.expresscomputer.in/news/sonicwall-research-finds-manufacturing-cybersecurity-at-a-breaking-point-as-factory-floors-and-corporate-networks-collide/137105/",
+            "published": "Mon, 27 Jul 2026 11:10:19 +0000",
+            "timestamp": 1785150619.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Face2News",
+            "title": "PSFC CHAIRMAN BAL MUKAND SHARMA DIRECTS TECH UPGRADATION & BETTER MONITORING OF NUTRITION GARDENS",
+            "link": "https://face2news.com/psfc-chairman-bal-mukand-sharma-directs-tech-upgradation-better-monitoring-of-nutrition-gardens/",
+            "published": "Mon, 27 Jul 2026 11:08:32 +0000",
+            "timestamp": 1785150512.0,
+            "category": "IT Industry",
+            "city": "Chandigarh"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "BITS Pilani Hyderabad Convocation 2026: 1,500 students receive degrees - Careers360",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd000bUZUTmxoaVl4T2lmdTRIMjRYQ1RxbDV3a0hVcFBocFR3QUZXSnV5UVBQa3ppNVdsSW1wVE9kcEhQMmxpR2pNeFptc1FBbmp6ZVdsYVhEWE1uZnJGRHk2am8wRXM5YklYNmNialVEUnp0aEpDWkZ0Vk82UFhCYUExVEo0OWpFZWJsRzRSWFpla2hUQ3UyLVFwdmJQV1gtenI2VWNiWnVSWnIzVzNocV9YR05aM0pSdjhTMFVmWVo3WHJPN29MekJrbkpGVDA1MDFfRkZacw?oc=5",
+            "published": "Mon, 27 Jul 2026 11:06:14 GMT",
+            "timestamp": 1785150374.0,
+            "category": "Business",
+            "city": "Hyderabad"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "Total Sports & Fitness Partners with Times Network Pickleball Grand Prix as the Exclusive Sports Partner for the Inaugural Mumbai Edition. - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdXozMnpxT3k1X2FOZ05Ga3RzTWc0NlVRaHl0Y3htUHQxQ0tUUGY5MlpSNlhLaFNybk9wOVE0VGVfWHZzbldPdW43bm5wTWFwU29BTU13bjRBZ2NkcWNXbXNEZ2tXeDlaSTZDR2lxMVlmRlZvZ3RnMFJiU0R0cUYtQnA4bUVNaWhYdmNNRi1lcWZzYVVaMVJWVDB0bEJpR3lwU1d4M1RXOG85bTg1V1doNnJ0dHZBTFRfc1Q0VG0wLTd0blQ0VmZyUUJwSFNrREJzdW1ZRFB3dzJwUDVwRF9MMGVqMklqMjJFaXF6bG14SUdzWm9hSjc0?oc=5",
+            "published": "Mon, 27 Jul 2026 11:02:06 GMT",
+            "timestamp": 1785150126.0,
+            "category": "IT Industry",
+            "city": "Mumbai"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Omega Seiki Mobility raises Rs 50 crore to expand manufacturing capacity and R&D - Indian Startup News",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM2VONWIzeWRIZzQwdjYtVUNwT2ljbnhOalJpRy1jWWxYa2REVHNUNXlaMjdKLW1mUndtVzRqYkpXN2FuWG51UlFZdko4OUxUb2ZzU1hjbWVrWGlUQWx5T0VsZTBJcUNvNVdrOWI5QkM3b242VGd2dWtCSUJXbkphYlNKZXFqMzZRcnNfRFc1dlZ6V2JXZEZtSVV1NWVjX19qZU9DU0xtNUNkQXRBSDBJc0E2aVRmNW5adC1RZ1IzYnZDOUNs0gHEAUFVX3lxTE8zZU41YjN5ZEhnNDB2Ni1VQ3BPaWNueE5qUmlHLWNZbFhrZERUc1Q1eVoyN0otbWZSd21XNGpiSlc3YW5YbnVSUVl2Sjg5TFRvZnNTWGNtZWtYaVRBbHlPRWxlMElxQ281V2s5YjlCQzdvbjZUZ3Z1a0JJQlduSmFiU0plcWozNlFyc19EVzV2VnpXYldkRm1JVXU1ZWNfX2plT0NTTG01Q2RBdEFIMElzQTZpVGY1blp0LVFnUjNidkM5Q2w?oc=5",
+            "published": "Mon, 27 Jul 2026 11:00:26 GMT",
+            "timestamp": 1785150026.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Curated Living Solutions Launches \u20b9200 Crore Hospitality-Led Mixed-Use Development in Pune - HospiBuz",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHVLcl9Nd003VUZyR2gyV2V6MzAyZjEwdHlqcHJIcW42RkZpMDRObldZZWZWYWgyOWpNZmg5MkJpbEdXanlocDA3eEp6a21TdXVhbGU2Z2lUdWo5TmFaWEhfSGFENGtReFpJWGRFN3RTZW13NnFMTlJXT3NhLUEwb2ZnRm4xeUlld2JZYzl2cFpGdGRlekpEYzVkanRZZ3JjRUNFVWNCQzBuRmpCX1hFTmwwRW9NbXoxaVlTOHhhbUhicTV5eEdKUnFUUGdpRFgwSDNV0gHTAUFVX3lxTE90dUtyX013TTdVRnJHaDJXZXozMDJmMTB0eWpwckhxbjZGRmkwNE5uV1llZlZhaDI5ak1maDkyQmlsR1dqeWhwMDd4SnprbVN1dWFsZTZnaVR1ajlOYVpYSF9IYUQ0a1F4WklYZEU3dFNlbXc2cUxOUldPc2EtQTBvZmdGbjF5SWV3YlljOXZwWkZ0ZGV6SkRjNWRqdFlncmNFQ0VVY0JDMG5GakJfWEVObDBFb01tejFpWVM4eGFtSGJxNXl4R0pScVRQZ2lEWDBIM1U?oc=5",
+            "published": "Mon, 27 Jul 2026 10:53:47 GMT",
+            "timestamp": 1785149627.0,
+            "category": "Business",
+            "city": "Pune"
+        },
+        {
+            "site": "YourStory",
+            "title": "Bombay Shaving Company posts 139% rise in revenue for FY26",
+            "link": "https://yourstory.com/2026/07/bombay-shaving-company-posts-139-rise-in-revenues-for-fy26",
+            "published": "Mon, 27 Jul 2026 10:52:58 GMT",
+            "timestamp": 1785149578.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Chandigarh",
+            "title": "Arjun Malhotra Assumes Role of Chairperson at EPIC Foundation - The Tribune",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSktRdnRqSFBJdmZvbEtQQXZ5Z0l4eWR3Q2UyUFNraHRFMVlIX05VeUd3TlVoWFRuTG02TDBRT21Kejhad3h5RXBMdEVXVkFOSVA5YmpIT3Z4d3Q0MmdMbWZIc1dOaldxSGh1NFVOZEFBYlk4VFBYRk1FQWJacFFCeExnWHZiSDdIa0o0YTNRVUdJM2VGM09KM0xsdm9IMkl6NHBCbTloaTdYSHhoTXk3MTJYNmJsRldib1d5bFpaNWpnUTBLdmh4ZNIByAFBVV95cUxOSktRdnRqSFBJdmZvbEtQQXZ5Z0l4eWR3Q2UyUFNraHRFMVlIX05VeUd3TlVoWFRuTG02TDBRT21Kejhad3h5RXBMdEVXVkFOSVA5YmpIT3Z4d3Q0MmdMbWZIc1dOaldxSGh1NFVOZEFBYlk4VFBYRk1FQWJacFFCeExnWHZiSDdIa0o0YTNRVUdJM2VGM09KM0xsdm9IMkl6NHBCbTloaTdYSHhoTXk3MTJYNmJsRldib1d5bFpaNWpnUTBLdmh4ZA?oc=5",
+            "published": "Mon, 27 Jul 2026 10:48:51 GMT",
+            "timestamp": 1785149331.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "Mumbai has a new place for pizzas, and here's all you need to know about it - Mid-Day",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSEtEeW9TSE5QZGlsdnAzSk95QjYwZE00azl3ZXRHLVdJbWJZaTBCaTMzcG12UVVDY0Y0T1RJX0dEc2Q5QWVXSDI4YXE2ZzByQkVWMjE0YzJhdjduWC1EUGI4NnhSeTQ1N21RaThka1VEaGdERHZKNVNPQUdqMEZ1cmRCZ0MtbUh5UmxocG1vN1p0T2JaUHZaRjd6MU40azhSLWlPYy1sd2Q2VFBMYjBwN3JBRko5Z3gyNlZOQmlxVW1ERFBSZVdUNm1BVEdJYXZJcGFvWU9uOVJScDQxbmtYSlhZU2NVd9IB6wFBVV95cUxOeUtqM0xfTEdTRWZwdUJkNlhlLUZoSHNHemI0blZFeFZHeDJyMjByQ2ZnRllaNEhoM3pVek9ja0hZT215V1J3YW5JUnBFajU0T3pvYlYxeHA4LWhNLUVnUFhvNEZjUjE4OG84VmtiZVptcmx5TGhYWUhYNl9RalJCd2lJb09pUEVxZlpBcENaeFJzZWEzcU9VcVl5anEwUFZZNDFOUThOTE1YSnYxNlB1RnFzdFoyX21IQ3JjMGQ0Mzh0Zi1KQmZPVzYxYTdiR0JxQTk3NlpPRXNwX0xpQnZkVnVoSUljQ1JBeXNn?oc=5",
+            "published": "Mon, 27 Jul 2026 10:38:00 GMT",
+            "timestamp": 1785148680.0,
+            "category": "IT Industry",
+            "city": "Mumbai"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "Ex-Google exec says 1,290 applied for internship, 0 hired at his startup: \u2018Everyone wants to...\u2019 - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS0xfTGVlWFVUa2htVFY4MXpDOG5LVlJWNkVJVWRiQXZsc0hodlNSSFZpQWVEaUJBUzI4NFlRaVN3R2NtUGk5eFFEakNDOEdEWm1QU2E3RWloc3FnSE1EV2lHc1dTaWlkN2VMRTV6NUM1N2hEUm96TDZ5RWIwZjBWVVFsVVpNTUdGOWpjdFQzLTFOWmZMSU9KamhOWV90RGc0UHV5MWRzNENTVlNhWER4SWMyeUhfTzV0cGlPY0J5QlhYY3J2TXNkNjRfUlp4bnFqZmRWUzJKMHJfVjRF0gHiAUFVX3lxTE5xWUZmLVRQQ3dYMFZBWFg0RnVBQmNCZjJmNG5wTll4YmZLRUxTdlhLNEp1cnlyWnZFYW1HWnpjMTJmWkFZWTRVZ3E3Q21vUUIwQzhRVDgxeV9WX3pVUkpqZ2RKWGpEM1M2S1dGOFFPX3QwdUdpdDZabmVpRnRKaEtROVlzcDM0R1Y3MTNQLTVkRVdGdmVSU2NXSFJoYkV5Mi1OWGtyUnFmbmJCX29rSk5xNWhhNWdNcXJ0V2lEU1pJdmN2QWMxSnNQSHo5UXUtZ3VaRXNILUxFdnNhYlViR2FZNWc?oc=5",
+            "published": "Mon, 27 Jul 2026 10:35:14 GMT",
+            "timestamp": 1785148514.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Coimbatore",
+            "title": "Ram Charan Recovering After Wrist Surgery In Coimbatore - Outlook India",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcW5qUHQxS1psV3BVcHVfd29tbDFyRld6MWRmcVM2UEFFMV9yTGhVbWNxNFdlUFh4X29taFhGVG1tSFRDOXFwRUxMQ1lHSlVKeWUtUWJXcEJ0ZG1Jai0xYm5TV0trTEFJMTJ2QmZDZlFxdTlDY3RYbllwc3JYSHRSNkkwZHVmMU0tX01KVjE2Nmk2Wlc1dV9kX2xzeXhYd3ByaTZMdHNOUm5IYkRDTlZWMWx4R1Y0NmVNRHMtMVNpVlVCWWvSAcMBQVVfeXFMUHFualB0MUtabFdwVXB1X3dvbWwxckZXejFkZnFTNlBBRTFfckxoVW1jcTRXZVBYeF9vbWhYRlRtbUhUQzlxcEVMTENZR0pVSnllLVFiV3BCdGRtSWotMWJuU1dLa0xBSTEydkJmQ2ZRcXU5Q2N0WG5ZcHNyWEh0UjZJMGR1ZjFNLV9NSlYxNjZpNlpXNXVfZF9sc3l4WHdwcmk2THRzTlJuSGJEQ05WVjFseEdWNDZlTURzLTFTaVZVQllr?oc=5",
+            "published": "Mon, 27 Jul 2026 10:25:50 GMT",
+            "timestamp": 1785147950.0,
+            "category": "Funding",
+            "city": "Coimbatore"
+        },
+        {
+            "site": "Google News Gurugram",
+            "title": "Young CEO Ditched London for Gurgaon, Says India's the Best Place to Build a Startup - Asianet Newsable",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMml5MWxuc3ZOUmtPZU53Z2NsX25yMHh1WnZzTUwzU0Jta1g2VmpNN3VrZ016RUhhNDNBQXctNjBsa0hRb21VUThSRmExOVluaWVYUFFJeHV4clVtYmlNdVozYi1leFVQbUgwRWNvckJTbnlQbVRTRXhpMjdkOFJjMGx2cXozNTRnMmNZd3dmTHZjZnE2WjA3VnFOYzEwdTN5X3E4WFVhVGplaGRDaTJzbXhzM09PR2YwSEVweFpDUUE5MW12QlFqckNpakVMVU5VUmFNbFJ1ZDVWN1pW0gHiAUFVX3lxTE52bHZaMjJBUEwtb1RCUW5XV25JdngtR2ZvWHU4M2lYWktJMVBNWHZEOTVqaXpFTmZIU0dsbVpnT3hGMTR4NThPUDdydkVlZkg4TWFaa1JDSXo4Y1dyYVFlNjUyZEF1YWpkMDBSdlp4dE4taURQcGZpcFlkRDd0Z05NYVM5RzhJUC1INGtwQzNVc0JBX1p0ZHp0RGZKc0FhSEx4Z05mM0trMVpVMmNCc3JRUFdfTzhPcUw5ejk4UlRGcExzU3VlRE0yTFB4aXZTSWgzY2c5bVRYeDhHbWZidEZUR2c?oc=5",
+            "published": "Mon, 27 Jul 2026 10:18:32 GMT",
+            "timestamp": 1785147512.0,
+            "category": "Startup",
+            "city": "Gurugram"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "Business News - LatestLY",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZkdCdUNNZXFaSWRyaU5ub3BZYW5OeFZ5ZG16YldNS2c0a2tpLUJhY2FFeEpvZXdPWnhzbDl1Q1d4aG9xekZFLTI4dVVLSnNWUzhZSnd0cW1NemZ5MGZlSlc1eUczMnJmb3haZWtUNEhmZ0daSU1zWVc2R3BWSWswVWxNYlFJdzYyaXVscXRwMmpGenRwNy1QN3pUNDBzMmlvZHlZaTdWZ0VLRmI4RTA3ZDNkaHQ3amNCX3ZKTGl4eWJwbjBJTFRCZGZZc3pfeDF3ODVtbWJlb2RmOGxxaUJvMEFRR003QTdUYUZqUlFMMy1pUnowUG9fY1JmS3dTTEpSVXI4Z1hNdFF3azBxMEHSAZMCQVVfeXFMTTFFQnZycWM1ZU12TTNDUENIRktwYU9kbktUWjJEcm5rcDlvRTdnSXM1NE5ZSTE5WF9tdDRla0JYRE8zX1RiTVlGaGkxX1RGNlpUZzFGZktZMHExaG9udnpSLU9LYm9tYlhXSHI0bFdGYjJpQ1U5RHJDRjlfZk1UVlYxbjMwSE50cVRkZWkyZ2ZsckIyc0ZGQmpTMG1ZOGljRjY3cVkwOTlHQTRlT2xyN1ZBdVJaZGJRRWxGbDNud1RlQV9kbEt6ZldZUzRmNlNBR0lCOFNfbHE1dGJSVXFRdExGdzhlRGpQd29paVdpOTh4WVo3dy1tb19PV1l6bWp1MjRrSmRMTnpfdVNXZ0tqczdWNzg?oc=5",
+            "published": "Mon, 27 Jul 2026 10:16:24 GMT",
+            "timestamp": 1785147384.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Chandigarh",
+            "title": "YuVerse Convenes Industry Leaders at Yunite to Chart the Future of AI in E-Commerce, Healthcare, Real Estate, and Beyond - The Tribune",
+            "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMmpONkk5UkFpeG1OU05hYVMtOVFEYWJaRzlFaVJXOF9vTmVXcUdRNDI2a3ZBUUYxZ1laSWRPSEVjUXFETWpCNlZVZ1ZuZlo4dlBDRUN5YnJOcmhTaS1pQUJvUTNIMmxKWFUxejNkaE1XQnpyRno2X3JCT04zUW5CaUczY1JyUlFMdGJFNHp3TUYtYjd2MzBkVEdWT194dlRLVmwwNTlYZms4VFdzNWstRzFwckRLWlJUQlhkSzBXaW42eFoxRGRjX0lsMS10OHpLNGp2TWc4M0FHalpBSzB0ejdiaVhCbVZTSnViMDNjOFBIMlJsMnN5NXR2Sk13ZzVZdVo1alhxUlFMb2xVY2U3N29wZ9IBkwJBVV95cUxOMmpONkk5UkFpeG1OU05hYVMtOVFEYWJaRzlFaVJXOF9vTmVXcUdRNDI2a3ZBUUYxZ1laSWRPSEVjUXFETWpCNlZVZ1ZuZlo4dlBDRUN5YnJOcmhTaS1pQUJvUTNIMmxKWFUxejNkaE1XQnpyRno2X3JCT04zUW5CaUczY1JyUlFMdGJFNHp3TUYtYjd2MzBkVEdWT194dlRLVmwwNTlYZms4VFdzNWstRzFwckRLWlJUQlhkSzBXaW42eFoxRGRjX0lsMS10OHpLNGp2TWc4M0FHalpBSzB0ejdiaVhCbVZTSnViMDNjOFBIMlJsMnN5NXR2Sk13ZzVZdVo1alhxUlFMb2xVY2U3N29wZw?oc=5",
+            "published": "Mon, 27 Jul 2026 10:08:31 GMT",
+            "timestamp": 1785146911.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "CIO India",
+            "title": "6 strategic trade-offs CIOs can\u2019t afford to get wrong",
+            "link": "https://www.cio.com/article/4201338/6-strategic-trade-offs-cios-cant-afford-to-get-wrong.html",
+            "published": "Mon, 27 Jul 2026 10:01:00 +0000",
+            "timestamp": 1785146460.0,
+            "category": "Funding",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "CIO India",
+            "title": "The rise of the \u2018internet of agents\u2019 and why it changes everything",
+            "link": "https://www.cio.com/article/4200144/the-rise-of-the-internet-of-agents-and-why-it-changes-everything.html",
+            "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+            "timestamp": 1785146400.0,
+            "category": "Recruitment",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "CIO India",
+            "title": "AI sovereignty through diversification",
+            "link": "https://www.cio.com/article/4200556/ai-sovereignty-through-diversification.html",
+            "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+            "timestamp": 1785146400.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Gurugram",
+            "title": "This startup helps brands get discovered across AI search platforms - YourStory.com",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeE4wMlN3bmxvRXh0V1phazF6RlhnVlNhRkVhNVF5S0hIVkNSbFRZTHZtbzh3RU1xQmZBZGVFN3FpeDhSVTNMODBJVzBvSW1PSWRBemVfSVNnQTNSMHlDcVVVeHY3UG1ySXpLR3FMUU5qWFhRbEE3M2FHdDFNSGZEcXNHZjQ4VjVGY1VYU3ZzSGJ1U1hsR3BFaXZvU1FfQQ?oc=5",
+            "published": "Mon, 27 Jul 2026 09:57:22 GMT",
+            "timestamp": 1785146242.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Lucknow",
+            "title": "Operation Kayakalp: Yogi transforms primary government schools - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSnAwME40eDh1UTllQ0NpbXptRjY1UVQ3NlItTjNYbVpOWVRRSGxZOUVMWUZZQjRySVBISzYtaTJQUUx5ZWwtRFpkZkJqMU1zMFVDNVdkZ1M4TlplUDQxRWtTSy1icDExOXladmQ2V1JId29MWHVPVUQzdUhDeWJLM2dpNlgxX21PQVk1Z3dWT1pvdzVPRHc3WVR3M25MZ1RPTzk1ZEVvUk9LTWVFQjlHVUNyTWFVdDRmV1FtbmZaVUw4UHVLTG14R05UQ2NjT25obnfSAdcBQVVfeXFMT21IWVl6WFJSYkpSOHoyR182bXA0U3YzUUFReUdBMTFDUUExOGxibHgtOWhNR0lpZXJvcnYyQTZPWHlpeUxiQWF2eDRabTlfa0xvZVJVSm9IM1R5RVJHR2ZqRVFLSmNOWkgxZDVFaEd0aUJjM2FQS2dOQ0FoTUhxU1dSQUpGbVl4SlR3eTE5aVdTV2laRWV0NVV2MEdPZmkwSWEtbXhCcW03NnZlRlZtY0VoT2NIWjVETzEzQzFoX3g5akdjTEstYWVvb1VyOWtSVmdpODFCMGc?oc=5",
+            "published": "Mon, 27 Jul 2026 09:57:00 GMT",
+            "timestamp": 1785146220.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Inc42",
+            "title": "Deepinder Goyal\u2019s Temple\u2019s Valuation Doubles To $375 Mn: Report",
+            "link": "https://inc42.com/buzz/deepinder-goyals-temples-valuation-doubles-to-375-mn-report/",
+            "published": "Mon, 27 Jul 2026 09:52:38 +0000",
+            "timestamp": 1785145958.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "YourStory",
+            "title": "How 'Mushroom Man of Bihar' Sanjeev Kumar helped 50,000 farmers earn",
+            "link": "https://yourstory.com/2026/07/bihar-mushroom-man-success-story",
+            "published": "Mon, 27 Jul 2026 09:52:12 GMT",
+            "timestamp": 1785145932.0,
+            "category": "Recruitment",
+            "city": "National"
+        },
+        {
+            "site": "YourStory",
+            "title": "This startup helps brands get discovered across AI search platforms",
+            "link": "https://yourstory.com/2026/07/this-startup-helps-brands-get-discovered-across-ai-search-platforms",
+            "published": "Mon, 27 Jul 2026 09:42:17 GMT",
+            "timestamp": 1785145337.0,
+            "category": "Startup",
+            "city": "Gurugram"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "My Autobiography Opens Early Access, Secures Undisclosed Funding to Advance AI-Powered Digital Legacy Preservation - Mid-Day",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMUxXWFFMWm0xVS1BQkNJSm9mNWxOQjF1X2VSYXoxRmE3aGNFcHphUVFtdkJwcS11ZE1zR2pwSVdxZ3VEX3RuVjdpOFo0c0Y0aW4wQlNQcmpHU01sd1huOFhhQ1daZVNNaWlxRnF6aWtIbmFteGdtSXpObU9GTkRzMWczTnFJNktNdzNGWDNZTkg0Q3JpeGI2S2JCdjROMDBhV3BicU5KZ2QweGJqenZySEFvT29jWWwtY04tTjV6TjFoYWI3czUtVXhxYlZlUzFxY0ZQOF9rZlU5aDZ2cmU2cTZwQlRfN3FKeVNoZNIB8gFBVV95cUxPTTc2NGFtbW94Mk9teTgydWZ0bmpKeXFEQlRjcG9JekdoZGJwVFVPVmF3bmxFV1BsdHFyNlBSaUNkS0xXUDNoVFctbnJzMTl6TUZxSzNubmhQeHhyNndIeU1Cc1g0ZTRQTHpYYlE1MjRpcWtRV0k3WGZxaVpMZ0ZLRURwXzh5aXlqeFZYY1M3VXZyOEItYWMwTk9ZRDlaYUNGbndHOVByYWI4VDRpUjNHc0xzYzhpZDUwYXpONTZpU0szZGpoNTA1aS02YWRiNWNkaGp1V0VBVWluSlJxZXoyam5EZVFkWHBtWEV1eVFKOUFkdw?oc=5",
+            "published": "Mon, 27 Jul 2026 09:36:00 GMT",
+            "timestamp": 1785144960.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "Adgcraft Marks Five Years with PRISM 2026 Celebration - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNkNZRWxvbm1LWW42dEFpYXc5TXhxWnZMVzRjbzI1elNBdG9hVnRIVUxuRHptUm8zTmkxMDdCQU9YYU9Nc0dUY2dYdWZkX25kMjBUR1dSdFlET0hQWU9jVXA0aTZkT1REdURoSTJxMVJDTGVteFUydmRVNUlYd1g3MkZJb3M1Z244blh5X3BWd01yc3JzSFFFRWZDai0wVGVpV1V5d0xUWk5IUi1WcVg4RHlCcmh2dkdYQ3dYVmp5bzZqa09LVy0zaE5XbkRrY19UUlJQVUJaRQ?oc=5",
+            "published": "Mon, 27 Jul 2026 09:32:41 GMT",
+            "timestamp": 1785144761.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Dreamfly Innovations Plans Drone Battery Plant With \u20b940 Cr Funding - Whalesbook",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY3pBeGg1NmxnOTBPNVR3X2NTanNvc3VXaVlSNFpCcWxaNjRmQXZveGJ4VFg0anNQNjJGVlF6eUdvQzN2bnE1TExyNW5Dbi12emhNUmlLQTJzMUVJeTU0bDk0Tk5XUTFwWHlxajFoZktOWnFVSGlTRzZUdTlkaFBySHRtTnUtU01JSlBzcFF2Zy1wdk5BSHZmeWFLdlI2VFNNaFp0WTlCRjExY252WFBwRkN0S0lmMk5kZGJTNE96ei1OOWIyWG1vQi1HdHdNUXZ3bDVnYUZFbF8wVGFpOHJMbS1RX3JvaDBlS0p4QlZBRHVwWENtS3NCbTV4SQ?oc=5",
+            "published": "Mon, 27 Jul 2026 09:32:36 GMT",
+            "timestamp": 1785144756.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Inc42",
+            "title": "Bombay Shaving Company Claims Adjusted EBITDA Profitability In FY26, Loss Narrows 97%",
+            "link": "https://inc42.com/buzz/bombay-shaving-company-claims-adjusted-ebitda-profitability-in-fy26-loss-narrows-97/",
+            "published": "Mon, 27 Jul 2026 09:24:02 +0000",
+            "timestamp": 1785144242.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Union Living Grows Pune Presence With New BTS Properties - SMEStreet",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUtLTjh6dVBpYTlXX2ZVYi12Uk5ZWDh4SGFCd3lNSGllMXRIRGwtTXc2QUdYUHlFMTYzVy1VcGlYQ1NOdG1la0dtWHJJb0NKaWpSR1d2ZWFqRWRBSThMLXFpYnd0aG5lM3kzZVN5b3VsaDVzTVZsOFA1Vjg5ZFh5TllUTmFfQUZ6VTFidFhIZEtWbEMtTmI4bTh30gGaAUFVX3lxTE5JS0tOOHp1UGlhOVdfZlViLXZSTllYOHhIYUJ3eU1IaWUxdEhEbC1NdzZBR1hQeUUxNjNXLVVwaVhDU050bWVrR21YcklvQ0ppalJHV3ZlYWpFZEFJOEwtcWlid3RobmUzeTNlU3lvdWxoNXNNVmw4UDVWODlkWHlOWVROYV9BRnpVMWJ0WEhkS1ZsQy1OYjhtOHc?oc=5",
+            "published": "Mon, 27 Jul 2026 09:22:37 GMT",
+            "timestamp": 1785144157.0,
+            "category": "Business",
+            "city": "Pune"
+        },
+        {
+            "site": "Google News Coimbatore",
+            "title": "{Funding Alert} Omega Seiki Mobility Raises Rs 50 Cr to Boost Manufacturing and R&D - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW9iN1BRd0UwNjhWVHFCbV9ZTU8tXy1mb28wRGk3MFBjVzBZX1RMXzZNQWYzRlBvYVlPcndoQTZtNlpZT3FJN2VGWnVodjhvTUIyVG93c3l6RldTU3RWTWxEXzg2dkE5RU9qSmNzYlo2NU4zcXlfMnhrSDdNMFNxMExmRGtfTHhZR2F5WTZkSHdBdnJHd19lZG1IanhQRU9XMmlBTGlqSUxPdHFMYk5Rakh1OA?oc=5",
+            "published": "Mon, 27 Jul 2026 09:22:30 GMT",
+            "timestamp": 1785144150.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "Hyderabad Waste Initiative Promotes Circular Economy - urbanacres.in",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUFVcTM3Q253NlNmT3BjRy1TaDhwbWtIOHlFUS13Z19XTm9adHpDWHlvQzkyMS1hZ1RlQWlMMXdGRzJZeEVyM3ZkMXFxMHBoay15TTM5RUFWb04wUGhSTUY3Nmp3NDBIY0M5dXV6WEg0NS1SX3RmQmF2dER0X2hXZQ?oc=5",
+            "published": "Mon, 27 Jul 2026 09:09:01 GMT",
+            "timestamp": 1785143341.0,
+            "category": "Business",
+            "city": "Hyderabad"
+        },
+        {
+            "site": "Google News Ahmedabad",
+            "title": "Gujarat records sharp fall in MGNREGS jobs, workers, funding over five years - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbm0yMW0yczR3enRIbF90OFFTcy1fZDBSS2NKb3U4SlJUR1k3RmF4LWhlc0ZGUEdKVE1MUkdMYjdjZjRiR09IcFVlNVNOTk9BTEpQa3hHQTFJY0ZQRXZmNHBtM0trTzM3SFd0Q3NfYVNib3FuNlh5YnNSMEJ3VDRzTnJkeUhleUVVSS1JOVB3TV9yVWFBR2lYNGtsZzd6TWRuMGNIMTU4S1lMVjJqdTE5WkNfRkFnYlVIa3ByS0N0dDVseWZJTmxPMFBlX0VNVWk1blBpY3A1X0c0d2xY0gHcAUFVX3lxTE9ubTIxbTJzNHd6dEhsX3Q4UVNzLV9kMFJLY0pvdThKUlRHWTdGYXgtaGVzRkZQR0pUTUxSR0xiN2NmNGJHT0hwVWU1U05OT0FMSlBreEdBMUljRlBFdmY0cG0zS2tPMzdIV3RDc19hU2JvcW42WHlic1IwQndUNHNOcmR5SGV5RVVJLUk5UHdNX3JVYUFHaVg0a2xnN3pNZG4wY0gxNThLWUxWMmp1MTlaQ19GQWdiVUhrcHJLQ3R0NWx5ZklObE8wUGVfRU1VaTVuUGljcDVfRzR3bFg?oc=5",
+            "published": "Mon, 27 Jul 2026 09:06:00 GMT",
+            "timestamp": 1785143160.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Inc42",
+            "title": "EV Manufacturer Omega Seiki Nets \u20b950 Cr To Expand Capacity",
+            "link": "https://inc42.com/buzz/ev-manufacturer-omega-seiki-nets-%e2%82%b950-cr-to-expand-capacity/",
+            "published": "Mon, 27 Jul 2026 09:05:42 +0000",
+            "timestamp": 1785143142.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "Hyderabad Warangal Airport Moves Ahead With Fresh Funding - urbanacres.in",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUdwM2NPblYxM3VDSjhkY0Q2Tl9DaENHZktwX09fM3BDY1ZTZlA0aTJPWmp3aGVNcWhnMTNZM0N3RXRzTnhSNXRkTDFlX01DaFl2Q2N4ZFZ6bUs1MTMzTi1OQUo0U2dSbVFSZzc3ZEVrZmRVNFoxOG5fb01CQ1l4UGk4NkdhSHc?oc=5",
+            "published": "Mon, 27 Jul 2026 09:02:00 GMT",
+            "timestamp": 1785142920.0,
+            "category": "Funding",
+            "city": "Hyderabad"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "Speaker Announcement: Age Verification and Restricting Social Media for Children, Delhi, 31 July - MediaNama",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOElVLTB5aVdZbGtzMWt6aTJSSDJ3NU4yTDFkU0N1LWR2c05jNHV3S1JKTS0zc3AzN29JdG11V1NtejZjaFNlMTlPSi1EQUJfcnB0MUpDT2w3d3BVaWg5M1dERGRsSWdWeUludk1DNGIybkFONlIxS1hBbUhnSElCdlJfX2hkTG9vbGp5MHNmUjdUSWkx?oc=5",
+            "published": "Mon, 27 Jul 2026 09:01:58 GMT",
+            "timestamp": 1785142918.0,
+            "category": "Business",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "CIO India",
+            "title": "The hidden ERP risk CIOs miss: When \u2018job succeeded\u2019 doesn\u2019t mean the business was protected",
+            "link": "https://www.cio.com/article/4200135/the-hidden-erp-risk-cios-miss-when-job-succeeded-doesnt-mean-the-business-was-protected.html",
+            "published": "Mon, 27 Jul 2026 09:00:00 +0000",
+            "timestamp": 1785142800.0,
+            "category": "Funding",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "From Referrals to Partnerships: BNI Falcon Brings Pune Businesses Together - Punekar News",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTV6b1JUVjRXQ0d1U0pyN2VVRTBBR2JGaE1xcXd6U0ZPZURUbjVSXzJ6SkNRVVVZeGRBRWdKb1N4LVhFdjNIVjhFV3J2VGRtMXdKVWF3aGJzRTAtd2hkVWlick5FbGhJZGRxNHlxVXRDSTYzNF9CcjFkSzB2LV93T25RNHZueXFCeUdodUJYY19Uc0Z2TlFMREgxTXl4TkdRV1Fr?oc=5",
+            "published": "Mon, 27 Jul 2026 08:56:20 GMT",
+            "timestamp": 1785142580.0,
+            "category": "Business",
+            "city": "Pune"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "Neo Group appoints Anirban Banerjee as Co-founder and Chief People and Transformation Officer - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWlhCQXdZcFdwSXk2QTNCMVFKSFNzczJkTXlrb0ZjTFNObmdBaW9VTS1EVmVmbVVHdlZhQTlPMmhHTnpucDlJSl9tNHhMelpwV3JTUi03YWp2eGNCbG1BRWFQNTV6aFpvMEFaOVdwQk9FemRlbGdaeTNkZkR3dGJldUotRk9NVG5GcGJhVzNpYmE4ZlEzdTNuQWVtMkQ1RkxNdUlzbVh5YzBjSHpzaFNESVdNakQtN3FVS1ZBbC05Zw?oc=5",
+            "published": "Mon, 27 Jul 2026 08:47:37 GMT",
+            "timestamp": 1785142057.0,
+            "category": "Recruitment",
+            "city": "National"
+        },
+        {
+            "site": "YourStory",
+            "title": "Why a 'Clean' Property File Isn't Enough: How Cubictree's AI Protects Lenders from Hidden Fraud",
+            "link": "https://yourstory.com/2026/07/why-clean-property-file-isnt-enough-how-cubictrees-ai-protects-lenders-from-hidden-fraud",
+            "published": "Mon, 27 Jul 2026 08:46:09 GMT",
+            "timestamp": 1785141969.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Google News Jaipur",
+            "title": "This Jaipur Entrepreneur Built Nehfi, a \u20b914 Lakh-a-Month Fashion Brand in Just 10 Months - Startup Pedia",
+            "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPX2wwOU5WNXpkcUV4cGJuYVdQellZX0YtYjIwc0hjVmtXMjJ4bS15LWIzbHVORFdqa0JQbnpqQnVSV0lPeWw1WXRteTRkVWY3eDE4TVU4X09HV2Z4c1A0a20yd3pTcmRyTlhucEdSYUFtU3VNVHJ6ajQ4amZ0b0hhRWJuSktPSWV2dUdtWjdrRnJSQ1MwMEpxOHdHWktMcEc2SWdRNG5GVDU3M1NkZTVjQ1U4NWswY20wNk13UlFjUWZ2eVhJTjg3Ty1raTE0TjJ2eGJCbzBodlpzVDlVckZHN3BvanZ6OGVicElncUkwaTlpcEYwVncxX1ZRZ0p5QWZVZ21ta2dHandmUkFpUzVzdzlKX25rQXEwajdRV3NWaUxZai11c0pQOQ?oc=5",
+            "published": "Mon, 27 Jul 2026 08:41:36 GMT",
+            "timestamp": 1785141696.0,
+            "category": "Startup",
+            "city": "Jaipur"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "Balwaan Krishi targets 300% customer growth in South India over next 5 years - Agro Spectrum India",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3NHZlFOckpCYUFCRW5oSm9SOWNtUnc2SVhlWVA5dmNMUVJ3dHZ1VzBpX1dhSzNWb1VUWHF3Yk5nSmJiS0c1R1BrWFZKbTA0NWh3YXFTUVFIUEVaV2J2MGFZQUhOS21UT1huQWxjQk1NUmF3YnBpakktZE1OOHZHOTl3QmFPdHUwWVFDODRBTXhCSzNlLVM4SDVVdVRrc0VHcE9Eb2xFN1BfY2xzTURUZkc1ZFVvbWUtMmxScjl4RDlNQQ?oc=5",
+            "published": "Mon, 27 Jul 2026 08:33:17 GMT",
+            "timestamp": 1785141197.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "Medanta Noida hosts 'Mom & Kids Wellness Day' to promote preventive family healthcare - Indian Pharma Post",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG5DSHhvTnZ4QUE2VjVtMDVTLVNsaFhpSVoybG9zdXVLczZZcDFydFRZbGE4YUZPNVdJUnA2Y3hGS0NsWXN3cXpiZkZmNXZ3RjFBR0dEZ3hyNW5CNHplMGdySGczdXNuQTB5MHoyd1piNElPcE4yZlFtVGRPTlQwaHlxUjdrcWxJZ0VKdUxDUXlZN1R0YXd4NlZoTGFwSFMtdDZQTE1uVWRJT3p0Tk9BQ0JZWkJyenl4WlFJbFJNWUt1aTlyalUwcXh30gHQAUFVX3lxTFBkdzk2YnZKRHVaakhHaXQyQU92WHF5ZkhoR2VEQm8ya0s3SkJ2T2ttRkpQRl9HT2lkcUk5R0dsY2Q0X2dQSjRTWTNnZWJJbnE3ZzF4WEhadExKRFJTVFluS0NwOFBnYVNUcG5XbEZNSnhaWFo2TURlN1ZpSm5CLW9qdEhsUm5VZ01TbHRXNzBCcFNCdC1VenAyVTdzVE9xRkRlemh2a2w4U3NTd0M0Zk10VXlqaDh2X0RkSWxmM3FONGU4THFTNS1taFU0blhzZEI?oc=5",
+            "published": "Mon, 27 Jul 2026 08:31:24 GMT",
+            "timestamp": 1785141084.0,
+            "category": "Business",
+            "city": "Noida"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "MOPP Expands Beyond Delhi NCR to Bengaluru - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3RFbVZCNU42R3pVWUQxVVdQS0Jjb0k4SDVuRXE5WlpzUVNSM0szQlhDVVA3UDBRSTVXZlNwWHJnUnZFOUx5TzZ3X01rUE81dlM2cU5YWjA1dnpBdTVua0FsOUNYQjJVTTR1V2c3cldpVVVFUHNNWU9IVEt6WVNFSg?oc=5",
+            "published": "Mon, 27 Jul 2026 08:27:46 GMT",
+            "timestamp": 1785140866.0,
+            "category": "Business",
+            "city": "Bengaluru"
+        },
+        {
+            "site": "YourStory",
+            "title": "Why sustainable growth is becoming fintech's strongest competitive advantage",
+            "link": "https://yourstory.com/2026/07/why-sustainable-growth-becoming-fintechs-strongest-competitive-advantage",
+            "published": "Mon, 27 Jul 2026 08:22:56 GMT",
+            "timestamp": 1785140576.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Google News Jaipur",
+            "title": "President to honour two AIC-JKLU startup founders for grassroots innovation - Cityairnews",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTURuUmdlRzZJVF9SZVNwVGpyLWFjS3hrYjFTLTVJdjVpX0Q4Wk1keW1iZ2xzNllTU0VReTZzUkVxYnVhdG5LWTV1Qmd6MlZYTWtzU0Ffa0U2bXlJWkFrdmh1MTYzdXpBSWxtYi02RUxYSkNwX0FKZ1lLZGViYnVnODBoMDhFa1ZJSHItTUU1djF3QjA1U3NWUll3NFhnRURwbVk5amlwekowYlZrckxJcA?oc=5",
+            "published": "Mon, 27 Jul 2026 08:22:09 GMT",
+            "timestamp": 1785140529.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Chandigarh",
+            "title": "Consumer Forum Orders Refund And Compensation For Malfunctioning Electric Car - Law Trend",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3RzV0NsaWc0SUllNmhkWEJGNDRMaEVQTkFNM0xjZW1nM21kRXdzanNqLVFMMjRQY21ZRzlTLWp6VlFHWnliZV9QTXhXdEJnaUhyOWsyQ2w0UGk4MS1QZWxfaUNzZUQwMmMwSDNEd3loNTA4ZUZkbEh4bWprZjlQZ1doMWxOblVDYl9oaHhUbDN5WVBiY0RXaFpVdms2R0E?oc=5",
+            "published": "Mon, 27 Jul 2026 08:19:18 GMT",
+            "timestamp": 1785140358.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Is Hiring a Leading Digital Marketing Agency for Startups in Bangalore Worth It? - TechBullion",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTNYeWVRY0dBZXZON2pzakgyZ2ZfbTdBWFpZSmprM1M1MVBySm9RcDVPRngwNXVNTFlsSmpIT2NnMXA3ellud0hvQWE0SDdMZktqUWsxMERyRVpuWUtMd3M1MFdhTEJ1dnRLYUZBaEhIYkVwZUhrNFJDTGhpeTZYaUN3R09aR1VoRnNTOUNKbnB2by1QMG1hRGp0V0JRaFhmNUE0YzNmYw?oc=5",
+            "published": "Mon, 27 Jul 2026 08:18:08 GMT",
+            "timestamp": 1785140288.0,
+            "category": "Recruitment",
+            "city": "Bengaluru"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Nikhil Kamath-Backed Keemti Opens Lab-Grown Diamond Store in Mumbai - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlZ1Q3FXZUJzaTBzNUoybzA4eTg4TlZQVWZGdk5IVHZGYWR5VUZSOUQ5ZFA4elRLaTQxUWZWNmVKc281ZWJMSUlEVVZMZG0yWTNVOGFFWG5INXJFcnYyTG02aDZzNDhqT2xrYlpqTXh3dkJfOXpEc2l2SExKR09fU3VmMnVQX0c3RHc?oc=5",
+            "published": "Mon, 27 Jul 2026 08:16:30 GMT",
+            "timestamp": 1785140190.0,
+            "category": "IT Industry",
+            "city": "Mumbai"
+        },
+        {
+            "site": "Google News Bhubaneswar",
+            "title": "Boost For Higher Secondary Education: Odisha To Upgrade 71 Schools With Central Funding - Ommcom News",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzU3RFhRYllUeTI5NVQweGFTQ3FiSHZKODF5SlAwSjRza1lBVUNoZVRTN2x0UWN4Z190UWlISDhuekNTVktIaE9hVDE3Z2FOQm9adEpFM1NFN1M1NFhqT0t2RnQxUmlSZXdZWXRxVDl1MTRJMEl5emtMTlowbmJFSVU5WEc5dUlhaGY3UTlvZVA4c0NmLWdjWkNwUG9rQ2gxc0FiWl96cEU0azF3UElGcC1LZzlMYzJ0VG5MdUNYUQ?oc=5",
+            "published": "Mon, 27 Jul 2026 08:16:08 GMT",
+            "timestamp": 1785140168.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Coimbatore",
+            "title": "Intense Competition Expected In Hockey India Junior Men National Championship In Coimbatore - Outlook India",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFI3WWpSUUluNlJfb2dEWHBZWEZndkh2bHoxejNnaUFKSmhGNm5mRUtwbk9DeldMQnRRSmZ1b2Q3UDVyN3JBajg5bjJsTF9CMWxjUWVMc0hLWE84NkdVRUxQRmVtbVVSUG1zUTA4ZXRrN2JvNXJ6Mk0zZVVTUFRsYW15OUxzM2tkMmFzak9GNnpueVhaSmJUNUNHV1J3aEkweHNKMG5zT19tbDlZT2NBZmx5SENoV1U5NUZKak9TaS1EQ0YwTTYyN2JYUlNnd3FyQXfSAdIBQVVfeXFMUGRSN1lqUlFJbjZSX29nRFhwWVhGZ3ZIdmx6MXozZ2lBSkpoRjZuZkVLcG5PQ3pXTEJ0UUpmdW9kN1A1cjdyQWo4OW4ybExfQjFsY1FlTHNIS1hPODZHVUVMUEZlbW1VUlBtc1EwOGV0azdibzVyejJNM2VVU1BUbGFteTlMczNrZDJhc2pPRjZ6bnlYWkpiVDVDR1dSd2hJMHhzSjBuc09fbWw5WU9jQWZseUhDaFdVOTVGSmpPU2ktRENGME02MjdiWFJTZ3dxckF3?oc=5",
+            "published": "Mon, 27 Jul 2026 08:14:52 GMT",
+            "timestamp": 1785140092.0,
+            "category": "Business",
+            "city": "Coimbatore"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "Balwaan Krishi launches new logistics hub to power South India farm mechanisation drive - Agro Spectrum India",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFdhM3JHZTBEUmM5QVo5aGc3b21WRldZZXR4ZUpnbWIzd1M1ZnBmS0pTdE4xLXVoU25VQWNqb2xseVNsNmRET3UzN3F6MzF1RE01NzJQdDg3QmM5WmxZel93X2ExejZpZXRfd0U1blhkVW1ERDFlalBuclBYZnhDOFQ4Z1otWWd3dDMtZUsyLS0xWC1HcXpRZnFDOGNRM3NHdGxKM3RtdTZFSVlZQW51YTBnd2gza0lNY3o2eEg1RGdlLVVXVHpyelhldnJCT1h4a2c?oc=5",
+            "published": "Mon, 27 Jul 2026 08:13:00 GMT",
+            "timestamp": 1785139980.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Nashik",
+            "title": "DeHaat's FreshTrop reinforces farmer trust through \u2018Aabhar Yojana\u2019 - Agro Spectrum India",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnVDV1VuZEp6YTlkWk4wc0EtcmNWZnFCVC1aclZMQ05vV3cwa3lMZkhDVld6b1c3NDk4dzhKMWR5akJGLXIzWExERnNEWEd4czVZZU1ieENCT1o1czJtSXJyTmhUSDhLU1JjU3NnaEpJcHU0ckJKTjV3ZHI2VF9xRjJ3UFc2S1VxNXA2cW5UVlRqLTAyRV82STUwdGlQU2tfLVBYSzRuWGVqeFYyTzMxZDB3?oc=5",
+            "published": "Mon, 27 Jul 2026 08:12:44 GMT",
+            "timestamp": 1785139964.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Kolkata",
+            "title": "Adgully Announces CMOs' Charcha - Kolkata Chapter to Decode the 'East Code' of Marketing in the AI Era - ANI News",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUlGYjQxUEw5clZrcHJwcjRoX1VJSFhobkhTVmVBMmg2cFpLTWJRZUNZdDVGNGJ5XzdBcGNnXy1FX0ViTkhrV3NmS1pOQ1NRWFZxLWZXNE9fZEdpeldlMUNOU2cwR0xzdUowb3Bld3ZuaFpiUnBwRnh1SnN4WWdSOVItdFN4d09fYlFNbXdTT1dScHJGRmNJanhNb1NfYlowZzRveXJjOENyQkZ0eFJjNnc2ZXU5Q0NHNTdJaC1uTW9EQ2tQWkxvMVJ2ajMyVTZZYld4YnBIVUJHSk9LRmRfZU13?oc=5",
+            "published": "Mon, 27 Jul 2026 08:10:00 GMT",
+            "timestamp": 1785139800.0,
+            "category": "IT Industry",
+            "city": "Kolkata"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "The Bet That Took a 26-Year-Old Engineer From Wells Fargo to a Keynote Stage at One of India\u2019s Largest AI Summits - Mid-Day",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1hBaUpWamJhY2tva2FHR2hCVDdpbndDOC1iQ3UtelBSVUlKVGotTVlsdFVCa2xFZzh2QW95cjJoTnFLVVc4SjVWN2JMdWNXcGhzcWx4bUFHXzJ5QWZWUlBfX2hqNTZDdDlRMFpWSDdib3dKZE8xaXlKVTF1NmowNEV2ODdFdlZJTUxBWnI0MHpsNjlJdmdTUUx1SW5CS2ZLX2pWU29KWTMzVFB3eFNqRlVlYklNRmVxWEdydTdNMGlzR1AzQURyQ0l2ZzBFajR1MlVqY2RBZ3llUVZ5dzVIRGN3YTNXWDcwV1ZiRGZDMHBzQdIB8gFBVV95cUxOU1hBaUpWamJhY2tva2FHR2hCVDdpbndDOC1iQ3UtelBSVUlKVGotTVlsdFVCa2xFZzh2QW95cjJoTnFLVVc4SjVWN2JMdWNXcGhzcWx4bUFHXzJ5QWZWUlBfX2hqNTZDdDlRMFpWSDdib3dKZE8xaXlKVTF1NmowNEV2ODdFdlZJTUxBWnI0MHpsNjlJdmdTUUx1SW5CS2ZLX2pWU29KWTMzVFB3eFNqRlVlYklNRmVxWEdydTdNMGlzR1AzQURyQ0l2ZzBFajR1MlVqY2RBZ3llUVZ5dzVIRGN3YTNXWDcwV1ZiRGZDMHBzQQ?oc=5",
+            "published": "Mon, 27 Jul 2026 08:09:00 GMT",
+            "timestamp": 1785139740.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "BITS Pilani, Hyderabad Campus Celebrates its 2026 Convocation; Over 1,500 Graduates Receive Degrees - India Education Diary",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHJGa3M4NUl1MDl3UUxpdzA5eGl5ZGxGMGVTRE90QkRWdXNsVU1OcllSeENvalhJYWV3YjI4cEl3VVg5eGJ1VW5xVXYtcWVlOC1OWVpBLWFsdnp0c2Y0Zmo4RjUxaXZDelZhM282N1RxbmxYQ2Z6UUV6eTRmUGR1ZERObDYwZDZVT3ZicEJjZUhzdnBfWmJjakY3TnRiazJuVXRiRjNHMHdIMnNNVVVILW5lYTFCdDZBbC03Qi1kVkp1b05Pa2hn?oc=5",
+            "published": "Mon, 27 Jul 2026 08:08:12 GMT",
+            "timestamp": 1785139692.0,
+            "category": "Business",
+            "city": "Hyderabad"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Can dogs sniff out cancers? Bengaluru startup eyes 2027 launch - India Today",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZVhqaGlVQ0NjODdISVV4enJMVHlXRzNra1lTWDRYMWZpQzNpalQ1NTk5UFVqYThOZVV2SkZHblZYSHlhUmkyQm5rNzVnN1B5ZWRaUHF3T01hM19mLUhzVThpdXlMR2JSTlFHbWYxSmFTWGxuM3o2dWhlaGIxNXJqM1AxX0FBSTczSnpfQnNKTUMxVFBvWmZmYm5wVW1DTlRfQUZHMzlqdTd2WlZkdy1WYldzLXdZZDI3QUJvaVJXdGFILThNV3fSAcsBQVVfeXFMT3pjd3VYMEF5WEdVVGtsREJCNjlaRHZOLWRGSGp0QUNpdk9xdVEtMm1ZSi1yRF9OY2dESWFTTG03NlhfLWc3T2YzZVFrNnA1VnRwZHN5dmtOOE5mek9aU2dZY1FiUjZfY1YwQTRXaDNiNXBjVTlCSEI3dEtCVXRmOXdMYUVCVU1LNzZhN0dGR204VWx3ck9TMjJscDFfR1QxY3kyd2Q5UzV3X2xCOVI0ZktCcFNGbUkzV2NieWJpQlB4U1JWQjlxUGNFUDQ?oc=5",
+            "published": "Mon, 27 Jul 2026 07:59:05 GMT",
+            "timestamp": 1785139145.0,
+            "category": "Startup",
+            "city": "Bengaluru"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "BusinessNext Raises $40M in Series C Funding - FinSMEs",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUl9TdHJwNVRWZHY2eHFqWUVSYndjWnVCMHkxYV9zNXllNEtVTzVwblQycTE2UURwWUtsNHl0YzRuZHdwMGN3VDUyRlU2TU8zXzNIQjdvMG5kTkNXT2NZQXdWMWdSdkxWQ2gxMDBORkplVUFXUk5sd2NBeVdPQlNvS3U0bWxaZGc?oc=5",
+            "published": "Mon, 27 Jul 2026 07:39:42 GMT",
+            "timestamp": 1785137982.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "What\u2019s fuelling Hyderabad\u2019s growing love for badminton? - The Hindu",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTBBYXMxNWdjSWpHdDhhOTdRMzlIQ1hmM1lJUzcwV3lRNHJ0N1V5dEIyaWRxRUU5Ul9yMTFxTS0zNWtDTHNuYnZUX00zUlVhUDNVSDFqbm15WC1iWUVlU0plaldDYzRWb3VzNG9xdV9yMGIxVHhYY2Z0YmdZTHVtRXhnUWE5NDlUS2Z3UDdxc1dubGM4NzBMS19TcHpOTm5mdmQ4OFRxX25FLWV6ek8xQWx2V2FYZFFR0gG4AUFVX3lxTE1ZMEFhczE1Z2NJakd0OGE5N1EzOUhDWGYzWUlTNzBXeVE0cnQ3VXl0QjJpZHFFRTlSX3IxMXFNLTM1a0NMc25idlRfTTNSVWFQM1VIMWpubXlYLWJZRWVTSmVqV0NjNFZvdXM0b3F1X3IwYjFUeFhjZnRiZ1lMdW1FeGdRYTk0OVRLZndQN3FzV25sYzg3MExLX1Nwek5ObmZ2ZDg4VHFfbkUtZXp6TzFBbHZXYVhkUVE?oc=5",
+            "published": "Mon, 27 Jul 2026 07:38:04 GMT",
+            "timestamp": 1785137884.0,
+            "category": "Business",
+            "city": "Hyderabad"
+        },
         {
             "site": "Google News Mumbai",
             "title": "Why Retail Investors Are Watching Nykaa Stock And Founder Led Peers - simplywall.st",
@@ -8,6 +530,51 @@
             "published": "Mon, 27 Jul 2026 07:37:02 GMT",
             "timestamp": 1785137822.0,
             "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "Ankiti Bose: From Zilingo Unicorn Co-Founder to GST Fraud Accused \u2014 The Curious Case of Non-Appearance and Aggressive Defamation Suits - inventiva.co.in",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ2dEVUhHSzBIdG9ubzY5WW1pS1lORHZEbmxwY2hpeXQwUnZiNXk0QTdBTnI2MW5ucC14M3k4cEtBMkR6MW5UWkVpd2NLVUNhOGl3REh5WXlDaEttRk5XUkw0eDBlU3Z5RVdQcmZvWF9tWGR4SjFtcWdkS3FqVEVzOVpXeVpSdmRZTUVtb2dVMTZ6M21IUXRwb0tmZ01KbVVWMkNDeWJ1QnROMHNWWFZ5WUtXbUtLTHNtWDdha3JnTloybVhsdE9abEJRdEpwYlkydXBWWE5kZXBKMjY0aUNpSXRKUUg2ZDh3QU9IR0dleWJVczJiRVE2bnBLTQ?oc=5",
+            "published": "Mon, 27 Jul 2026 07:36:35 GMT",
+            "timestamp": 1785137795.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Omega Seiki Mobility Raises \u20b950 Crore in Strategic Funding Round - Autocar Professional",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3BsWkxiWm9GVGIxcV9qU29VR1Y2Vms4d0tCTmR5bE1aMzlUeFVlSE1KN1ZVc19qVi0zb3hLVkF5LUN3bnM5MjYxdjBqN1NFNEJqaDhlYktncmFYYU54S1JZSTZrTWpkOUNyaHA4WVFuWFNiT1ZVWEdxZkVrR0l6bkt6RXh0S2cwbDktVjdZQXFOQ196dWJDQ1ZxN2pxbTZmU2Qybk1IRXpwVVlnRzlv0gGvAUFVX3lxTE5vcGxaTGJab0ZUYjFxX2pTb1VHVjZWazh3S0JOZHlsTVozOVR4VWVITUo3VlVzX2pWLTNveEtWQXktQ3duczkyNjF2MGo3U0U0QmpoOGViS2dyYVhhTnhLUllJNmtNamQ5Q3JocDhZUW5YU2JPVlVYR3FmRWtHSXpuS3pFeHRLZzBsOS1WN1lBcU5DX3p1YkNDVnE3anFtNmZTZDJuTUhFenBVWWdHOW8?oc=5",
+            "published": "Mon, 27 Jul 2026 07:30:20 GMT",
+            "timestamp": 1785137420.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bhubaneswar",
+            "title": "Indian Idol 16 winner Jyotirmayee Nayak arrives in Bhubaneswar - KalingaTV",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzZPTTd0aDNNbDVWSVE1OTc1d1lVbEtIOVByekdJNlNFTTV3R1FRb3kzRzl2UmxUd2hnTWtFSDR6OW9ySmFRMjg3SzVteUpmdzU3RlA0V01mNHpsYThNaWZiNUhfRUxDMkgzdF9LNm9wVC0wQ0x3Vjh6bFNfZ1VzdHB4aXUyV29uTnVYR3k4ZlpNTHF2S0x3?oc=5",
+            "published": "Mon, 27 Jul 2026 07:29:58 GMT",
+            "timestamp": 1785137398.0,
+            "category": "Business",
+            "city": "Bhubaneswar"
+        },
+        {
+            "site": "Google News Visakhapatnam",
+            "title": "AMTZ powers Vizag\u2019s rise as medtech startup hub - BizzBuzz",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmx0bkczVkxxNktCLXZVajQwT3pKcGltRHVqNXN1YmhDTTV6Ti10YlVPbHhfTWtCYjBPT3JYbmhROUV3RnMyb1UzVlNWemxkWFNCMlFFa2JJVWRhM05CWS04Ync5dUxLS1owamk0UF9vRFRNQWh5OFp4N1drYU5RdVJVWDRla1p6ei1nMzduQTlGcVE?oc=5",
+            "published": "Mon, 27 Jul 2026 07:29:21 GMT",
+            "timestamp": 1785137361.0,
+            "category": "Startup",
+            "city": "Visakhapatnam"
+        },
+        {
+            "site": "Google News Mumbai",
+            "title": "Raintree FO aims for positive change, shuns valuation-first investing: Founder at VCCircle summit - VCCircle",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEpGZ1RReDdGeWstMWxJY1piY0RRSktzVmYya1duQnkzS2xNdDhHVlNrQmlMeUlRYXpMWm9nR0tEMzNYSHZ6ODg0U2YyWHBVUDhpZUJkTEU3WU5RY0JIZ2tJeGQzbmQyZHNFWVlCOEQ5bG5BZ1ZaRl8tNk52el9NZ1N3cFlXd19yb2JaU2lEODBsY0pNWTdMb1I3SEZjYk1idE1xOFpmZHN3SHVBUkwzbmNna1h5b0JFc21R?oc=5",
+            "published": "Mon, 27 Jul 2026 07:25:09 GMT",
+            "timestamp": 1785137109.0,
+            "category": "Funding",
             "city": "National"
         },
         {
@@ -29,6 +596,15 @@
             "city": "Mumbai"
         },
         {
+            "site": "Google News Delhi",
+            "title": "XLRI Delhi-NCR PGDM IEV Cohort Launched For Future Entrepreneurs - IMTS News",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54RXBVbkdQY2xtQzJlTWV3Q0ZoX0RkcjV5RlY3bnVpZElLWjh4aEV4S1lMVVlVM3BQcjFYRi1nbUU4WUNBMDRHZ0lCTTJXMGp3SjRjSGhRTmpfUE4ySW5CMDgzWWNQZw?oc=5",
+            "published": "Mon, 27 Jul 2026 07:07:55 GMT",
+            "timestamp": 1785136075.0,
+            "category": "Business",
+            "city": "Delhi NCR"
+        },
+        {
             "site": "Google News Bengaluru",
             "title": "Bengaluru Startup Turns 'Diamond In The Sky' Nursery Rhyme Into Reality - NDTV",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZXhaVmZRVzFISXo0dXFhN3J4THhvR0d6U3FjeFJzUFpRbnVVdjN4QWxzajNqSGhMLUc2eUtXaHpyQjNocVBlVWxyeksycWtiNG9xNkZnaEwxTzcwcmlaZGJNeXd6SHUydDlQWlZISVNUTlVPMFpjSkVXRjhLZzJHaW9TRERXXzhGZUczd25iYWZxWTFpa3NITmw4SXc0YkIxQXkteXdmQXZnSWhDRmxsc3JmUDZ0RnRsU2MxVTFDOENaanQ50gHMAUFVX3lxTE82dkUyYkc4QWQ3MWRXbmJOTno4THFzUWRkcUt4NEFhX0EtM28wTzIzWnppOERsVXNWWXNMZ2lWV2tSMHNzQ1A0S3k1d0dDT3FHcy1wWlZqd3V3RzR5eEF4Tkl4WnVCRmFIYXBFbUhYejhTSFdZOWM1aUR3S0pta3JKNlo4NjlLY09NN0dUa1lXZU8tQXNTM1l4b1N3SnBrZDIzQnBvSTloLTBwVEFIUjJib0luU1k1RzBkeDlaRmx3cUphc09rV2p2RlYzYQ?oc=5",
@@ -47,12 +623,30 @@
             "city": "Chennai"
         },
         {
+            "site": "Google News Bhubaneswar",
+            "title": "HCLTech to invest $1.48 billion in AI data center in Bhubaneswar with Sarvam AI - varindia.com",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVlsYnZTczJyaXk5SS1HbnJTT19YU3NqaHJrOEEzSTVXTnFrUnRtTXljcm5Pakl6alRORThnaUpBcDRmMEt3alNaNml3Qk8tR1VobnBPbW9yNkJYT2ZXU0NfRC00YnZDQm9BRnliUVgzTm94czAyT21hZTZoUHoxdmwtaVducEJZTlpBMUFYR2tQUFRldkpTVUxTZ0pWNGROQjBRNUVTTFpVcnVM?oc=5",
+            "published": "Mon, 27 Jul 2026 06:50:42 GMT",
+            "timestamp": 1785135042.0,
+            "category": "Funding",
+            "city": "Bhubaneswar"
+        },
+        {
             "site": "Inc42",
             "title": "Infosys Cofounder Nandan Nilekani To Lead PM Modi\u2019s Exam Reforms Task Force",
             "link": "https://inc42.com/buzz/infosys-cofounder-nandan-nilekani-to-lead-pm-modis-exam-reforms-task-force/",
             "published": "Mon, 27 Jul 2026 06:47:50 +0000",
             "timestamp": 1785134870.0,
             "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Lucknow",
+            "title": "DailyObjects Strengthens Omnichannel Strategy, Eyes Rs 400 Cr FY27 Revenue - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEM5QzNEQnBjQVROenJjcWlUdHBkanlyRHBrc1ZUNm1BOE5XcktMVkg2dmVqUTJLUXFTX1VhbUg1VVVZWW1HSUp2X0NpZWNONU1wYjNfVlh5WkNCcnZsWUJaUVE4N21zVDJvOHBTSkkxWUZJa000SkV2N0VxXzNTQkZfY3hjZVhPaTU4MWxMRHBTdjhfc0pUendTdHAtQnl5SWs1X2ZENS1LalZpSlE?oc=5",
+            "published": "Mon, 27 Jul 2026 06:45:00 GMT",
+            "timestamp": 1785134700.0,
+            "category": "Business",
             "city": "National"
         },
         {
@@ -117,6 +711,15 @@
             "timestamp": 1785132772.0,
             "category": "Funding",
             "city": "Hyderabad"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Eco Kranti Shubh Labh National Summit Attracts 250+ Startups in Bengaluru - digital terminal",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUzFadi1HQzYtamZEVV9iUW8xVTZDTXVtTWhjcU1vZ1ZtTm1IbnR3SEtWdF9ZMktINlh0UzFYNVlGdVIwS0M1ZGJhVm5MNmh1ZDJrMmhRQUJVS0ZUNmNNdHhrSDVQVmJqMExGNmt1cjlwOU1QYWlUY05OaFFjbUMwM2FicGZUa0x4ZGFjUW42cC00MlNJUEgxcHp1dS1zOHdYbmJqcG5ISlZldUEzaFB6WFNzcm5mTGRn0gG4AUFVX3lxTE1TMVp2LUdDNi1qZkRVX2JRbzFVNkNNdW1NaGNxTW9nVm1ObUhudHdIS1Z0X1kyS0g2WHRTMVg1WUZ1UjBLQzVkYmFWbkw2aHVkMmsyaFFBQlVLRlQ2Y010eGtINVBWYmowTEY2a3VyOXA5TVBhaVRjTk5oUWNtQzAzYWJwZlRrTHhkYWNRbjZwLTQyU0lQSDFwenV1LXM4d1huYmpwbkhKVmV1QTNoUHpYU3NybmZMZGc?oc=5",
+            "published": "Mon, 27 Jul 2026 06:11:00 GMT",
+            "timestamp": 1785132660.0,
+            "category": "Startup",
+            "city": "Bengaluru"
         },
         {
             "site": "Google News Mumbai",
@@ -286,6 +889,15 @@
             "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNanFjNjhETEk5THl0Y1UzVXNOZzFFRVBqQUNvb01fN1lwVF9mVVVZVEN1alpBMHlNaWIzYlZ4VmlZZ0kwOEtIZ3JIWFpra0hSajBOc1JHaklOaV9MWU5wQmd3ZXRKMHp0cjlmMmFoSkgyajU2OUwyRkMwaTRxMllEeGI5UTdZaEwwaHY4ZWFGSDYycWc2dS1PcGtXTkJJT25XT09qZDhGdV9pTXk3Zy1NTW9JRWtMQ3RQZlQ0RmhoajNUVWNQekdUeDloM2phN0ZlNVhkUFBjTnd6R3MwVFlGdTZlWXRlWnhwTzRMaTN3VXhyckxPNEFoeXkza29lRFZ4VmZKUFZYM29MNWxXcmRxbzFB0gGSAkFVX3lxTE1qcWM2OERMSTlMeXRjVTNVc05nMUVFUGpBQ29vTV83WXBUX2ZVVVlUQ3VqWkEweU1pYjNiVnhWaVlnSTA4S0hnckhYWmtrSFJqME5zUkdqSU5pX0xZTnBCZ3dldEowenRyOWYyYWhKSDJqNTY5TDJGQzBpNHEyWUR4YjlRN1loTDBodjhlYUZINjJxZzZ1LU9wa1dOQklPbldPT2pkOEZ1X2lNeTdnLU1Nb0lFa0xDdFBmVDRGaGhqM1RVY1B6R1R4OWgzamE3RmU1WGRQUGNOd3pHczBUWUZ1NmVZdGVaeHBPNExpM3dVeHJyTE80QWh5eTNrb2VEVnhWZkpQVlgzb0w1bFdyZHFvMUE?oc=5",
             "published": "Mon, 27 Jul 2026 04:48:00 GMT",
             "timestamp": 1785127680.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bhubaneswar",
+            "title": "NEET leak row puts NDA families in spotlight as daughters back protest - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzdjNGtGaTk3OTJWNnNfMzhxcnpSM3pnekZxc2xmV29GbnRnMW04S0hIUVdhNFZjZm5FU25NaUtONlBwUzBrTFNHQ2pNRkE4UHJfZXBvQ2M2cThSYkF4NW1XekJzZGZCcFJHY21icF9Rb1NaOGxTejNfTE5xd1dvYVF6MGFUUmU4TC15MW54ZWpYS0MxbF95LVBONEZUNkRzbGstSjJMb1o4bGhMdHpaempBV01hMWhiQUJNN2lLb0tfTTlLbkVOVjM2emM5Ul9K0gHWAUFVX3lxTE9xX1lvZThNNzFkQ19KYjZpLTBRT3Q1ZVF2b2xpUnp5cUZTUWlQWGN6eTRMNmxNcVdUdEEycG1CUzR1bzdrT0RrN05OV3pkYnB6UnE0cUlpN3pHTWhpZWJHNEVGRTBBdWJ6b21KQUJhZzNhYW9mVVNneHF4aHRRQzdBTnJYNjF6aVVndnFWMU51b0JtR2owTjRFdnBNWlZKenphVkZvaTJ1RGN2U053VERsRWxzUjRZNW05LUJZSFlabHVVcDJKcGwtTW5jcTlsQWIzMTVZZUE?oc=5",
+            "published": "Mon, 27 Jul 2026 04:45:00 GMT",
+            "timestamp": 1785127500.0,
             "category": "Business",
             "city": "National"
         },
@@ -722,6 +1334,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Bengaluru",
+            "title": "FinStackk Expands US Business Support Playbook With Launch of FinStackk Legal - ascendants.in",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWZGS2lKdlNydU9QWEFDZWotWUVCTi1SMDlUSnZaUXBIaUhkbUpkcHYwbXVVZVhLVjF2ZWYwZzNjdGpidUw1UWNIRG1RZTJMOWZtWVM5X2FMNXBMYVlaZzI0cmNUYlg2TW1DdHVmc1lJSGp5ZUMwVkpneWo5MXFWM2U4ZDhoY2xQUS1ncUtnZkhGSHdmcUxicg?oc=5",
+            "published": "Sun, 26 Jul 2026 20:52:53 GMT",
+            "timestamp": 1785099173.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
             "site": "Google News Hyderabad",
             "title": "Shadnagar scientist\u2019s work on Vikram-1 Mission wins laurels - The Hans India",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2ZfX2dVT0NJanpHVWJJQnZPV0hUWWF3QTEzdUdLOHlhc3FMWHlRVHRyRzJiWWR0aVhHaFQwODZZR1lrdDJDTTRaU2RIQnVyM0R6QWNTZVF5SGI5ZFVVSTFaVFp1b3pfUW5RTmZ3MkZOSUhXbFprLTNhNDlINUJCcTIwaVdjLURkaDBzYzNHYUstSFp1dUlJMURLV3FldC1XcjNCSjVwTGpGeTEtYWVaUUhkSWJwZ3FtQTdyZVBR0gG-AUFVX3lxTE9zZl9fZ1VPQ0lqekdVYklCdk9XSFRZYXdBMTN1R0s4eWFzcUxYeVFUdHJHMmJZZHRpWEdoVDA4NllHWWt0MkNNNFpTZEhCdXIzRHpBY1NlUXlIYjlkVVVJMVpUWnVvel9RblFOZncyRk5JSFdsWmstM2E0OUg1QkJxMjBpV2MtRGRoMHNjM0dhSy1IWnV1SUkxREtXcWV0LVdyM0JKNXBMakZ5MS1hZVpRSGRJYnBncW1BN3JlUFE?oc=5",
@@ -826,6 +1447,15 @@
             "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGJDSlVNVHUtc25Tb0tBX1ZTMV83bERJa1dwRUItVklxR1QyN1B3by1lZ0V2UW5NZjlqa19fc05ob0ZWVUdWLVhldzNZeldLWFBaT3pmRjZpQUloUG0xUnV3WWhuT1lNT014NVZ4Z3lLeWF0VW9XRTNqQnNaTHg3YkRhTld5MTdDejJvMzNlOUZNdFVLbVlPellVOW5leDZfSkNuZGxoM0lPclN0V2d1MXlJZWtCT0RGeUdGV2lPaWxkWEUtTWg4bW1EYy1GN01Hd1hiUncycUrSAdgBQVVfeXFMTXBiQ0pVTVR1LXNuU29LQV9WUzFfN2xESWtXcEVCLVZJcUdUMjdQd28tZWdFdlFuTWY5amtfX3NOaG9GVlVHVi1YZXczWXpXS1hQWk96ZkY2aUFJaFBtMVJ1d1lobk9ZTU9NeDVWeGd5S3lhdFVvV0UzakJzWkx4N2JEYU5XeTE3Q3oybzMzZTlGTXRVS21ZT3pZVTluZXg2X0pDbmRsaDNJT3JTdFdndTF5SWVrQk9ERnlHRldpT2lsZFhFLU1oOG1tRGMtRjdNR3dYYlJ3MnFK?oc=5",
             "published": "Sun, 26 Jul 2026 19:54:00 GMT",
             "timestamp": 1785095640.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Lucknow",
+            "title": "\u2018PM Modi\u2019s praise for Bijnor herbal tea reflects women power\u2019 - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDhDeHJqSWFGanRJQXgwRXBtajFoSWxnRFZwRTBPRlBEUFYzVzFZX09kSnFaZ21Zamk1Nk5TdzYzeUtIN2NNMWpxV1c2TVA4Rl9qX3d1NXlLU0F6S1NHNDMwMUhRQ0p3Z1BXVVdhcFBPX3hsV1plajlKQzlza0pUMklhVTBfa3hKV1JJMm1xd29EcGw3V0syYU1UbXVMU3V6amVKQlRhU1RkY1lpUVpjV3lERVhOMWV5bUJMemJCcGpxd1pla1dUV3RqX3gwd9IB0wFBVV95cUxNTFd5RWJsd3d2UnFLYUQ1bU9yTDFtYXdSeVpVMWUyVW1iR2pMX1E3RGJpQ0dZdldZd3k3ZGd4SHhrd0V0ZTZEUmJOMG5TMkZhc0ozRXd2b0Q2MU92VXMydWlUdFU0Z2hKcDNxQWRSVXR5Zktpa0NMLWJ2dUs0VDVReUhWanZuVmE3al9DdnprR0E5ellpcFM2Ynl2QzFNQ3dZRUN1amVZejVXcGs4bEVfMDcxcFF3MFRFb25fVW1KbnJtS240WEw4VXBLMGQ4d3RCSDE0?oc=5",
+            "published": "Sun, 26 Jul 2026 19:53:00 GMT",
+            "timestamp": 1785095580.0,
             "category": "Business",
             "city": "National"
         },
@@ -1469,6 +2099,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Delhi",
+            "title": "\u2018Planning Future Strategy\u2019: CJP Founder Abhijeet Dipke on Punjab Paper Leak Issue - LatestLY",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa2hVM05KeHQtU19HUHNtb3JSUTJIVHBlVmlYNVpIS1Jub0NSSHNaalRaWWdXMFhOVVFFSW53RjdFa2ZGZjk5ejlieHRjWXF2eXVOcFhqWXV5ckVXTUJXcDBTZ05teHNZTWZ4cjZmZHkyMVlPb0FucHNNUFliaVF2NGRfWWU5SldNOHM5S2ZLVHdqcm0zc1R1NmxOZHhFdzRiRHZhWkRrcFpaMUkwOEZQRC1LaUNHWWdacUdOWVFsYUZYLVBtR0hWTmxKRdIBywFBVV95cUxOa2hVM05KeHQtU19HUHNtb3JSUTJIVHBlVmlYNVpIS1Jub0NSSHNaalRaWWdXMFhOVVFFSW53RjdFa2ZGZjk5ejlieHRjWXF2eXVOcFhqWXV5ckVXTUJXcDBTZ05teHNZTWZ4cjZmZHkyMVlPb0FucHNNUFliaVF2NGRfWWU5SldNOHM5S2ZLVHdqcm0zc1R1NmxOZHhFdzRiRHZhWkRrcFpaMUkwOEZQRC1LaUNHWWdacUdOWVFsYUZYLVBtR0hWTmxKRQ?oc=5",
+            "published": "Sun, 26 Jul 2026 16:10:58 GMT",
+            "timestamp": 1785082258.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
             "site": "Google News Chennai",
             "title": "PM Modi unveils Nandan Nilekani-led task force on exam reforms after NEET backlash - The New Indian Express",
             "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVRnTFdpeU54eHRhTmZpc1B0em9KUFpqT3ViWDYzNnNXOGVxUlFoMmx2cm1kaC1KZTZWNFRzQTVVVGZYcFZJaFpNX1dQZTZQemZ1OEtkVWRzdWd6YWRDUFZicVh0MjZYdHZiYk9WYTlpQWZQNFJQOHRHT1NsZ1d5NThQYnVJaThzSklGaE05cTlhdGZqSktVV0wyaXRRVHo3MUFjbnBZa2VUVFJ3Vng0bWctVnI4VHM4SDB2ZWxyekRCOHItb0NEcnQ1U3RFSmNR0gHeAUFVX3lxTFA1ZWtrZ0JFSHdNSDBUVHVZSUJObHVtbnJQd0EtYS11Q3ZGNF9MaTVxOFJibGFrYl9TSG5UZE1XT1hHeExmcVFaZXVTU1hsMnhqVV9DUlptT3Z2aGpTWDcta3Azd2RHaDgwVkJ0VU9PWTY0bVdjTmRCM3htZURSemNranl0dFhuQ2tQZkRWU2pCQ0k1bTBocVRxZ0hreXBTdG96RkhCZmZHbWl3OHdHMGh2cTNXalpQd0NyUU5NRnJzYy1UQnBzRHkzTVZ5bzV2YVdsdTdIN09IRjN5RUJYdw?oc=5",
@@ -1613,6 +2252,24 @@
             "city": "National"
         },
         {
+            "site": "Google News Noida",
+            "title": "Jewar girls school near Noida airport to open in 2027 with aviation focus - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMEJxYmd1aVJDMFduQk03QlVTUDIyTEtCTzJxOFJObk9QaXhDX1V2TGxZMnJOb0lWaDdMRjR1d3lLYlV3TThOUUtxeGpidHhQZ0FkSm1wSGlfRjdYVzVHWHZiemRBQzEzZkdLVUdqV1ZWRkRXMTlscTg1OFY2NElXTTFNTWNLd0tUanMtdXMtNmlZQnBFSERzQmZJa2d5TUh6d0tzUmtPY19BcXRQWmI3LXhUdFdWZ3RsX2dWX21zZTdsWU5EaXkxX3hQcDFuNjFW0gHWAUFVX3lxTE9LUDFrUXJUQUxhWUszc1ZhT294RHdlTkcxbE53QVhXa20wbjZ5Z3ZtYnVnQlFCVzJrSFJucktWdTJyWG5DTmF6dkdXY0M2X19mbzEwZ29BdnFsaENUV2xNSXlZUE43NWhkTDdMWVdqQVV5UWxpYXZ0dmM3Sl8xYjdVbkRHU3NSal9YeXZKd3BfamdtYll0V1R2T2ZlTm5XLUNZUHRFdTFUdG9UbDlBQWNEM0p1YXA1bFNLUm9lODNLS0VTUm5ON0JlLWVDYnBwWDlTRThPMFE?oc=5",
+            "published": "Sun, 26 Jul 2026 14:41:41 GMT",
+            "timestamp": 1785076901.0,
+            "category": "Business",
+            "city": "Noida"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Who is Nandan Nilekani? PM Modi picks Infosys co-founder, IIT graduate to head exam reforms - livemint.com",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcl9jTGM5cTVyS0xPNS01UjI2c2U1ZjllMEhXWEJjU3pfMjVYY3FGS2Fqek43SjR3UnltSFprd0VQN2s0MFF1RVpuWllEWlltd2RpZF9hNjRha2pLMXVkaEhWZ0tOMHpUZTI0dkFfS1BSRWhnaTdHcjM5bDdrVWtGMGtUMVMtdFQ4d25CdjNaZUZlZTEzOGg0enc2QnNhRmJkYkJWUldDUTZ3T1BwVXFKN2tiZ3ljaFRsN3lhTVRCU0JNTVBPZ3VZUXAyTjMxbjlST3Zmajd3ck1IdWxvd2fSAeMBQVVfeXFMUHFYQ0trYV9yY3Y4OVVwejlFYkw1dHMyNGgzZVNJSE9TeWpwZ2RKS013WjJCNDB6dmpHb3NjQWUxMEVyYUxwTVFNRkZ5RDNmYV9QNlNMTkROMGR3bDdteTFWSzBKTFRmZUNvbmZabDdwSjRtVUFWQkZtX2g5YzVZSlVRQTBYYUp4dndickx4cTFHOTN3RjFua3Vuc0p3ZU9uM3VvVXZxcl9wcU85QUtkX21rMGUxQnJvY3lETGluUC1BRXNUN0sxbWwwU0VkYnBBZGFsQVJIVE1oNWtrNk05QXVHbms?oc=5",
+            "published": "Sun, 26 Jul 2026 14:39:06 GMT",
+            "timestamp": 1785076746.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
             "site": "Google News Delhi",
             "title": "CJP to unveil next strategy after Pradhan's resignation, says Abhijeet Dipke \u2013 'Will address Punjab paper leak too' - livemint.com",
             "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZUR1VmJBZFVXOTY5MnV4aTROMkh4VUZCaFU5WUxoS0RNNnEzbnVKVnJrcndqYTA3TkRiTGI0eExKLVFmTW1DWklCUmVuWXhyZEtqTHhYVFFYYzlDc19qcWRtd2hWSkNBeERzRTNtcWg3blVPRS1xejF2UGpVakpUazlJTlNHTmJYa1RzRThINm5VM2lmX3BlUFg5WWNOelFVaVBmS1cwQWN3cDdWdGw0ZXlQcmlwMjZRbUJuRktvUWp0QVFrVk45TTA5RUg1enVlcUI3Z21xWC16MndtM0ZTX3FMMlJXQm15aklodk11WnFac3RRWnlsUTBzV3NMVzAxN1NTTGR3Y1bSAYgCQVVfeXFMTWVEdVZiQWRVVzk2OTJ1eGk0TjJIeFVGQmhVOVlMaEtETTZxM251SlZya3J3amEwN05EYkxiNHhMSi1RZk1tQ1pJQlJlbll4cmRLakx4WFRRWGM5Q3NfanFkbXdoVkpDQXhEc0UzbXFoN25VT0UtcXoxdlBqVWpKVGs5SU5TR05iWGtUc0U4SDZuVTNpZl9wZVBYOVljTnpRVWlQZktXMEFjd3A3VnRsNGV5UHJpcDI2UW1CbkZLb1FqdEFRa1ZOOU0wOUVINXp1ZXFCN2dtcVgtejJ3bTNGU19xTDJSV0JteWpJaHZNdVpxWnN0UVp5bFEwc1dzTFcwMTdTU0xkd2NW?oc=5",
@@ -1654,6 +2311,15 @@
             "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNa2NnLU5jeVI2VUpYV3Q4RFU2eVlxOExiM1NGX3ZhUGV6b1c3aFlubHlNcTdRU2hhRERTU0dhNm5aUnlMS0ZQR1dMOURQSGJ1dmthODJ0M0ZzWEt2bU5fcXNOZEJWdjZYN1pDNE40TFUyMWEzbFN3YXRUS3hIWVpCN1FhY1V4Z25hX0JTaDVuWElEN3Q5UTRPRHp6ZXBlNzNjNEZQektHQks3N18zZWxIbmlWek5jQ2lJRDBvS2Y1OFRHT0szejFRZW01ZWVJM2kzdmFGVVk5bngzM2RZSmlWMmRDYXJqdWVlMWNNX1hEOThsQzdLa1Fka2xyX2M4NU9CWWstT1ZVSdIBhwJBVV95cUxNa2NnLU5jeVI2VUpYV3Q4RFU2eVlxOExiM1NGX3ZhUGV6b1c3aFlubHlNcTdRU2hhRERTU0dhNm5aUnlMS0ZQR1dMOURQSGJ1dmthODJ0M0ZzWEt2bU5fcXNOZEJWdjZYN1pDNE40TFUyMWEzbFN3YXRUS3hIWVpCN1FhY1V4Z25hX0JTaDVuWElEN3Q5UTRPRHp6ZXBlNzNjNEZQektHQks3N18zZWxIbmlWek5jQ2lJRDBvS2Y1OFRHT0szejFRZW01ZWVJM2kzdmFGVVk5bngzM2RZSmlWMmRDYXJqdWVlMWNNX1hEOThsQzdLa1Fka2xyX2M4NU9CWWstT1ZVSQ?oc=5",
             "published": "Sun, 26 Jul 2026 14:30:00 GMT",
             "timestamp": 1785076200.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "High-powered task force on exam reforms set up under Infosys co-founder Nandan Nilekani: PM Modi - Daily Excelsior",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaEtwMm52bzlOUlI3TUhNTDg4MmZMbjctSzltOG11SlRUVTFaTWNha1VkWXNBQ0t3WUt1QUZYbUJnRE1jUlNva1pSRFh4QXBKQzItR0hsTG9MUWNzMTZZY0tWRFBBdGg0bmhETWI3Q0NiaDJtcWZKNjAzMjFsVkFFUk54aXZpb3FHUmVNcVlDdnNzNmpILXl5MDdJOGJhREtFdDZ4N1BJUUc1cnUwaUhWLW03NUpOY3lueE1QRXNxaHo4eGVkTXJRbU1B0gHKAUFVX3lxTE5oS3AybnZvOU5SUjdNSE1MODgyZkxuNy1LOW04bXVKVFRVMVpNY2FrVWRZc0FDS3dZS3VBRlhtQmdETWNSU29rWlJEWHhBcEpDMi1HSGxMb0xRY3MxNlljS1ZEUEF0aDRuaERNYjdDQ2JoMm1xZko2MDMyMWxWQUVSTnhpdmlvcUdSZU1xWUN2c3M2akgteXkwN0k4YmFES0V0Nng3UElRRzVydTBpSFYtbTc1Sk5jeW54TVBFc3Foejh4ZWRNclFtTUE?oc=5",
+            "published": "Sun, 26 Jul 2026 14:26:01 GMT",
+            "timestamp": 1785075961.0,
             "category": "Startup",
             "city": "National"
         },
@@ -1782,6 +2448,15 @@
             "timestamp": 1785072376.0,
             "category": "Funding",
             "city": "Hyderabad"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "What next for India\u2019s \u2018Cockroach\u2019 movement after education minister sacked - Al Jazeera",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOci1mV3pSTW5NclF6b3hmZ1kzdHNKeGdTR0ppX2hWRDRsOUlOZUdVVmRJQTloODlRRzljQTBnd0VFeGpISUxtWkRXWWpnZVhUMHh4dmZtUGVBVXNtRDlBNFpEWTFEUnlHY3NDZnBIUFh0WC1nbzU0TkR1V0VfbjFGQzQ2dlZadlg5Mk01ekVEN0tFMUtENHZXdXlFNWI1QUJmU1ZMbEw1TVJ6dzNfQ09LbGJ30gG3AUFVX3lxTE9aV1J4bmpxZFV0N3Z3TWxORzRZU2NUN0lZMGJrTGQ0Q1NXOXctc3Z4THh2UGZoSlpWZkxNdEhVdEJKbG0xX2NQX0xsT3lJYk5SQllTUkpRWmRpRjlWU0c0WHNkMWlIVFVoYWNYd0p2SGVERktHWGgtdlVueU1fdzU4LUhqZk1QSzU1VjBWTllNYWZwTVJ0Q0YyczJsaHlqbkNCcG9NR3B5YlR5S3F0YXptekp1M1NnWQ?oc=5",
+            "published": "Sun, 26 Jul 2026 13:17:00 GMT",
+            "timestamp": 1785071820.0,
+            "category": "Layoffs",
+            "city": "National"
         },
         {
             "site": "Google News Kochi",
@@ -2153,6 +2828,15 @@
             "city": "Kolkata"
         },
         {
+            "site": "Google News Delhi",
+            "title": "\"This is beginning of accountability\": Jan Suraaj founder Prashant Kishor on Dharmendra Pradhan's resignation - indiagazette.com",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUhlRi1fdFp2N1Zxams1V2g1cWNzTUV3c3F0WlY5VDl2b3dDX2tNU1M0c2FzcEh2b2FXbldiWURTbHVmcy04WkluTnZNVVk0SlR1ZVk2emFRUjBVdDkyUDNRbVFJcGpQdUh1M2dQOVZEdmVCdlMzdTJZMUFiZXlIZzBzTUMxc1ZDWHdYbU5Tc0dpVDRtZHBmUjg4ZVpGbTZIel9oUlBsbUJjVVBzNmNvbUs4MkRpb3dyYzJObFF6MUxYVmVBYXlEQTN5T2hVRnlHdFB2ZkdfYjVEbmp4U2xLNkZR?oc=5",
+            "published": "Sun, 26 Jul 2026 09:33:00 GMT",
+            "timestamp": 1785058380.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
             "site": "Google News Bhubaneswar",
             "title": "Bhubaneswar-bound flight couldn't take off from Ranchi due to technical glitch: Official - Telegraph India",
             "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2tLX3gyZ1hDZlhrVXViNEFVSVpRWERJN09aclk5YUVyanVFR0FpZllSN2p0WndHRVlPSnBvcXo3RVlxTzNVWDlxSlFGVmNGVTBjMVFkTGpfMnV3SjZHUzh2elZKUkI3TTdobXlWVDV6SG9YRUFOa1N1eGRFR243Q0NjNkpFQ3QyYmMxZm0tVGRSR3pGZkI4OWtzempqd3gxU2gzWVYwR21DVW5iNnBHUmlVbVB3ZHItcnl0dlBhN1hhYklxSmlGblJkNzdfOU1p0gHWAUFVX3lxTE83TmY4ZW80aGdMeE1fb2NBc3JPTEZnT25wU0xIYlhPMGIxbXN1QnBVb0lCSkg4WnFkVk1rb1RWRi1kMGlpUFF4eWIyUU0wRnBzMzZ3QnV5aU5ySktFMnJCbXZTRkVaVFlPNGVfYlpHc1VFMktzSnl1YjZ6SlVodWNyZy0weXpFc1I4MlpwSTNacktITVBMRzlZWUwxRHppWFdwOGZnRDRMMDhsVmhpQXhvbF9COGtlVml6OUxkOHR6enh2NlpYcC04OGxISXlDaU9Hb1FWaVE?oc=5",
@@ -2223,6 +2907,15 @@
             "timestamp": 1785053791.0,
             "category": "Business",
             "city": "National"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "Video | Greater Noida News | 6-Year-Old Drowns In Water-Filled Pit; No Barricades Or Warning Signs - NDTV",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPblZHMnoyY3ZzZkszUVZ2WEFMWFdmcS1vaFlHR01FSVNvZkZqOGZEeVppalhtbWJsT0RzdjJlQ044MFdTSEptdFBHSmtkZk5xRG4wR1FQWFlFWXprMnhMc0VhajVYQUVMZlY3aDVSdXpGckxNVHpnNldZbm1CdGhjTkZaN1FfT1VfU0h4TUxNUHBxRHVfajFvMGF3azlZemR0UV9ON0V3?oc=5",
+            "published": "Sun, 26 Jul 2026 08:04:54 GMT",
+            "timestamp": 1785053094.0,
+            "category": "Business",
+            "city": "Noida"
         },
         {
             "site": "Google News Gurugram",
@@ -2434,6 +3127,15 @@
         {
             "site": "Google News Delhi",
             "title": "\u2018This is only the beginning\u2019: CJP founder Abhijeet Dipke issues warning after Pradhan resigns - Mathrubhumi English",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTFmWU1hdmpCNlY2NENaWG1XUWJMaE4yN2E1RGVzalRNajdFSlhrN2ZlMzVrZFZZQ1RhQWwwTFRjNnFEVFhFUkNReUl6ejdoa29PX3F4Y0s2SjlnR1V6ZnF1U3JSeUQxemxyYk0zZU5CRC1keGdvdXpXSXJUZ1ZRV1FUVU9BMVVfTVJ2VWxqTHg4X09vMGJGaTFQcURDVVp1NEpPbVhaS1hCZW9mcUt1OVFIYkjSAboBQVVfeXFMTTlsWmxrdG5Mc3U5T3d2TlVVaUwyV2ZSOFFJTTVmbHZXaUtDZzVtTE9DV1JpV1hydFN6bFRRMEd6YzdMTnZ1b1hIVG1ZTjl6Y2U5QVI1N2RNRm1hbV9PXzRsRmJaZVdTTnctdjZUTHQ4WnBkSkoyY1RoNmNpRVVaX2NnQklsYXBuN3c1bUE1dHdxN29kdUU1MGppLTFabmx5aGc3SU8zWmV5TFNGNFo1RWFzdlU2aE5DUExR?oc=5",
+            "published": "Sun, 26 Jul 2026 05:18:07 GMT",
+            "timestamp": 1785043087.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "\u2018This is only the beginning\u2019: CJP founder Abhijeet Dipke issues warning after Pradhan resigns - Mathrubhumi English",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWxabGt0bkxzdTlPd3ZOVVVpTDJXZlI4UUlNNWZsdldpS0NnNW1MT0NXUmlXWHJ0U3psVFEwR3pjN0xOdnVvWEhUbVlOOXpjZTlBUjU3ZE1GbWFtX09fNGxGYlplV1NOdy12NlRMdDhacGRKSjJjVGg2Y2lFVVpfY2dCSWxhcG43dzVtQTV0d3E3b2R1RTUwamktMVpubHloZzdJTzNaZXlMU0Y0WjVFYXN2VTZoTkNQTFHSAboBQVVfeXFMTTlsWmxrdG5Mc3U5T3d2TlVVaUwyV2ZSOFFJTTVmbHZXaUtDZzVtTE9DV1JpV1hydFN6bFRRMEd6YzdMTnZ1b1hIVG1ZTjl6Y2U5QVI1N2RNRm1hbV9PXzRsRmJaZVdTTnctdjZUTHQ4WnBkSkoyY1RoNmNpRVVaX2NnQklsYXBuN3c1bUE1dHdxN29kdUU1MGppLTFabmx5aGc3SU8zWmV5TFNGNFo1RWFzdlU2aE5DUExR?oc=5",
             "published": "Sun, 26 Jul 2026 05:18:07 GMT",
             "timestamp": 1785043087.0,
@@ -2448,6 +3150,15 @@
             "timestamp": 1785042542.0,
             "category": "Business",
             "city": "National"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "Boy, 6, drowns in water-filled pit in Greater Noida, 6 months after techie's death - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQXlMMWVmNHVucHlKVGlwbEVWQ1U1WXBkV01rMThVNUNoWkF1LWtQRTRUTmhSM1lrNkRXVzltcWJ1ZXFIMmNmSUcxakFYQjd1MjZrWkx3WHpaaGpYNG1qTEF6X3dvRjlEdHFlWDBrTF92bzczVnpsSWJPZGEyajVVTnFjalc1d29Na2RQUkNVZ3hYcHNnQ0pDRmFxYXlveUlsZXFvTEIyVjFvbXppOFN4S1RDZEs5WmFMaEtBeGdpa2c3SVgyM1BQS3ZUZWtpRVNVcVVIMHAtVjBEckR2SXlXNFE5Nm96VFpEaXhaRG9EOTbSAfYBQVVfeXFMTUg3T2x4dEh4d2hwNjEyWXNyVEhTLThOb3h2U19BaGJRbGttQUwyWGNXeEtjdmNKMmJJVmJudzRBcVFhYlIwYWhuWi1jbFlNZ3ZRYkM1VWloVVJRanZnSFZuRXZpZ284VGtsVXE5V0dRZm94bXFqN2dQNVRscFRrcVhhei11MTRjYmpseGJQV1M1WFlfOFctWjVacU1MUDVfRXNkU25ndzRQb2d6NUFQZno3MGZDQ3pQS2pNdV96WmU4UlZ0aGFQYTFEYzlueFcwOTBFQXloNHZJLVJhbUxpQ084NEE1ZjRXclZ0cnZXTE5YYzQ3aF9n?oc=5",
+            "published": "Sun, 26 Jul 2026 04:41:50 GMT",
+            "timestamp": 1785040910.0,
+            "category": "IT Industry",
+            "city": "Noida"
         },
         {
             "site": "Google News Hyderabad",
@@ -2475,6 +3186,15 @@
             "timestamp": 1785039221.0,
             "category": "Startup",
             "city": "National"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "Now, student groups across Hyderabad want National Testing Agency abolished - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkJvOFQ2b2ZfNUpEQTNnQXlWYk5jck9hbzA4dlVVbHA1bmc3d3ZmNDc4VUtNS3Q4MlVOWW9sS2hKYjMzeUh0TF9RZkpBTXdRYjdrWXptXzBYdmhNX0RyR01LempXbnlVaXpNVkdZQTVSV1hXTWZZc2FhTkFRZDFNMVpIcnVIcmkxQVBnV3RLN0RQS3R1bnpmX3BBbjlDVWROQUpjN1hSaWVjVm9KbWFZNDRFZEcwMlM5M3I3SGVIUkp1T2JyZVc4OC0xT1lzQ2N0dWfSAd8BQVVfeXFMT01KWWFlUUp5QlNONDNYTHhic1Nzbjk5Z2xVX1hzMjBKdW9RRFBueTZoclNVX1MydjhIY1B4YWJVb2pUY0RybXNVQ0l5Zll4UGRNSEZmeDhsN1VKWVpBX0FWZFFvYXRTbExWV3BTekk0TGdybFluNXUxOUZUUkNhQTZaeEx5cGpqVUxiRFBaX1J3bHJDcmlaamhJQjNJYXBJUXVVYXM3MUdVWTItam11czdRYWFkX1BwOFFTX211M1NDOVA2d2NrSDV6QWZMM0w5QXhrNnk1aFZ1dFpQeGFtaw?oc=5",
+            "published": "Sun, 26 Jul 2026 04:13:21 GMT",
+            "timestamp": 1785039201.0,
+            "category": "Business",
+            "city": "Hyderabad"
         },
         {
             "site": "Google News Hyderabad",
@@ -2653,6 +3373,15 @@
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeVZrMHlEMlRYWmd4SmxhRUZVRDVyQW12d3BiMDA4Zld5LTVQYjFoZU93VFlPMmtIYWxJVkhlOGZfbDgyNjBhMzM4ODY5dHBqUHF2R2FMa3IwR2pER3Y2cThQTkZNQU03ajlZQWlpYlNWVldWVUo0U2R6YjdKckxJRVkxeHdrcTMxRzlrMV9RSU1QRnlra056MUdvODNUcE1BREtoS2lMR0NQaTlJQTJhYVhtWExNVnNOd0VZbXZnQUtGQ19fSlNjZUpwZXZhSWlFZlHSAdIBQVVfeXFMUHlWazB5RDJUWFpneEpsYUVGVUQ1ckFtdndwYjAwOGZXeS01UGIxaGVPd1RZTzJrSGFsSVZIZThmX2w4MjYwYTMzODg2OXRwalBxdkdhTGtyMEdqREd2NnE4UE5GTUFNN2o5WUFpaWJTVlZXVlVKNFNkemI3SnJMSUVZMXh3a3EzMUc5azFfUUlNUEZ5a2tOejFHbzgzVHBNQURLaEtpTEdDUGk5SUEyYWFYbVhMTVZzTndFWW12Z0FLRkNfX0pTY2VKcGV2YUlpRWZR?oc=5",
             "published": "Sun, 26 Jul 2026 02:30:00 GMT",
             "timestamp": 1785033000.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "Caught on CCTV: Karunanidhi's granddaughter slaps SBI branch manager during argument - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWTFPNmtNd0JmWkJNRVAta0QtWnBPSWZHb296cjExTllCcEwtV0xJU2l0SkdYY1ZFUm5UV2NKNnRvYkw1aEFFYUdzcDlsTEh1R0U2WTg2bnlBY3U0N1pRMWpQX21QZVBQemU0VzNUNkVnb3ZCVmRmS2RWbVhoOWdVVDVpbGZ0cmRZTVFUdjFFeFg2MzJoMFBOckdJSmg2eVZoUkNOQmZOay1aU2dGTXJLMlBTczlqU1B2d2dYRWdGcE5xNzhuSTN5S09Gd2F1N2xiZWN5bExMN1RVd3QtZGdlbkxwQdIB6AFBVV95cUxQalZ2eTBIWjF3S244MDU1bDZYM2JQeEZGd0phMGpMSVdkQnVlbWY3Ynl0TFMycXNvLVZMUDhNeHd0YjdyY095NWJydkRTcEkxNDkzTnk2Ymh0bmwwWGVVS3dFdkpJcTdlMWcwclhWQWlpRzROLWxybEwwOHFqSHVVa3JDMEt4M3pSZGFBczJ2eXFXdmNhN1FlcVJfT1hLa0lwdlBlb2RKYzNaRjRRWmQxaEl6c3dxMXRfVHRTNGFpbDlCdGZ0TC1tMl8ydVVBQjU1eFlUa3VKdmRZQ0lMbE4tM0lZVi0wM2lf?oc=5",
+            "published": "Sun, 26 Jul 2026 02:27:41 GMT",
+            "timestamp": 1785032861.0,
             "category": "Business",
             "city": "National"
         },
@@ -2927,6 +3656,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Delhi",
+            "title": "\"Jhukti hai duniya, jhukaane vaala chahiye,\" CJP founder Abhijeet Dipke says will continue protests after Education Minister resigns - India's News.Net",
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeURhdGZ2cG81UHRZby1UbUEwYmF3MjFjRFRqbDg2bi1LUHBDeEVIcnFRaFV1OFltN2lkc0FDaG9XTlVQYnlBUDV0V2FJX2FCYlBLZHlsUTJoN0RRR09EM25NM0FWSFJBVmh2RkRoazIyR29razVvTHlaRW51MXBhbXg1U1pfdVNfNE9vWUVIMjY0SWZrZk9Xb0NEbklMNG9FZDRjbTgzeS1JXzRYejBJX0xmOUlpUENFQU45ci00bm8wWXlJb3dJUkFXYkE3NnNkNVRWSk0ycVp2Q3puOVhFRHo2M2FXQzJnN21aTnVHMVFJYndWbTlQNXBzb19YcU0?oc=5",
+            "published": "Sat, 25 Jul 2026 19:29:00 GMT",
+            "timestamp": 1785007740.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
             "site": "Google News Pune",
             "title": "Puzzling divergence: Health dept reports 452 dengue cases in Pune; PMC tallies only 22 - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVFlab1VLUzliX08tb01SSjJLVVFtLTZNM2pKM2VmUll3dm9BY0lTNkdLUXhJT1JxeDJObDhSbmR5dGswckVhQ3FyNEh6M1VadTFUalhGbklSVWJ4V0lpMGl0TXBCMUVGbU1YeEJWbkZBVFRWeDl0U3Y2R1lvem5LckZ2RGJfOVh3dUVlZ0x6YVA3VmdQY3ZOSi1jd05qWlZEM1lwc011bjdDcDh2UzROYzJINHV0S1JXY1laLU13N2RLS19sNlEwLS1qeHRPdUloeFc2d0MxQXUwZU8yRjdMLTREb3lyTDhmZDNVeNIB8gFBVV95cUxQTWxmbDBNVTJKMzdZUHd6MUFVTTY5M1BpNHpZOWtYdmdMNVliUTZnOVpGMHY5UU5qc2M3VGdxX3VvYVpySDI1SC1ZcklJR0dmV01zMEhuZXpGeGVCOENfejlHZlh2SFZkN05ZWGZraGgwdHUyR1hraXNrMFNCUE1UY2JDLXVWbm1oN2hWYkZjS3dxeDJ2ZkdaUG95bDN3N3FiaWdCUFhURWZsLW5BWW52OTNobVZWN0xub0NNcXFLamlWLWszbThhM1d2bUJBY1lEMGtTN0J4LXpZT3c3eVltZGt2S0lyWWl0OXB0MGVJaWx1Zw?oc=5",
@@ -3049,6 +3787,15 @@
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUUxR25Yc0tkVndFWjM5RmlKV3pxS3dBVFNQRVZDQ01jdjBGejg4bkpFWnFSQ1pQeXUwcVlDQjNnMkNJWlppR3RELUNIbllzdWZ3Tjd6YUhsSzR6VlotWEN3S0FwSnBudDB1M0MtRE5RS2NUSVN6NnBKSWRZQi1QS2pMRWQ4Tkx4U3pnOW9BdHVKSXNKTmZOSUlPaWtBVG9XMFNLLWlWdGJGWHJRQ1hoR3EtN1RLZEFvYjNqcTFCQ0YzRWxma1I00gHMAUFVX3lxTE81N0lCSGF6ZWh4aVN3U3pNeEhNM0tTaGlmZWp1dEl1YWpjOVJ4anRWV21rbkJUQWpvejZiVWhaZ2V1aXJ4dkh4Y1ZFV09XZllaRFBZTGNWQ01Eb1A1WnpZVGNXcGlFeFduV0dYRDVjZ0Vua3BqMHVSS2JqdGRJM0hfQ2JYLWlNNVZjSVJwbjVNeDJLdXZZUVo2QWUxb2JDd19pZ0JXaC1Nb1ltTnNReW1Lb05WWEk5eWd6WlR6YWlfb012cFRNQWhydlZ2cQ?oc=5",
             "published": "Sat, 25 Jul 2026 19:23:00 GMT",
             "timestamp": 1785007380.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Noida",
+            "title": "CJP Jantar Mantar protest: \u2018This resignation is not the end \u2014 it is only the beginning\u2019 - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMG1uYnZYLWZNR2tudnZUTHo3Tnh5dnVpdGlZenhkMDVNc3hZZ1pyeXhrUW01V01tVXZoVmd2Q0dNUkhsUUxWMVlieFB5QWFjbmdJcGhPR0JXRTBTZ0Zld1VaUWV3NGROZVNGRWR6X0pjRU9maUUtSFpxaFJFcnJBay1MdGZSMlJkcjRwUnFFVlJGSllsUkg0M1BfVHBwdkMySWMzWWZmLVFLa3ZPQVRrMGgwVU5yV2JxTGtRcXpLVFRfMEFGZmx6QlZlc2w5cGFVVk9hOEVodDE1akMwdHE4cl9nQU5JbXRSbURXeU15Z0tEUkVPYTlGTFhvdkZMeTBP0gGGAkFVX3lxTFBRY2JFYWpmSDhzOWhHVnJaOWp4RnBlVW5ONTYtWDVfa3k3Q1ZobXpYQWExMHBPdnJUV3ZMTXlNUGRvU1kyQ3BWNWI1bGNnd1dnekZtSC1UcTFZdHZlMWxhWVZhUGdtMHBDUjdCbHJSMHJMN1RwXzQ2dEZwWW9yYVc5ODYwaWcwTEdONnJUTHMtVVJYeVZER0c3ME55TTNiU3N3eDNyOU5uaV9iMXJjV090MFQ2eVBjeGp6WDBpTVNUQ3hXeG1XZTIwaGFqbXBJZ0NkbmZXQ2I1YXZ3X24tY0lNQk0zRlRyNWJhNlBLNXN0dlV0c0tWUDNqZngyd1VJbUJQVDRSMEE?oc=5",
+            "published": "Sat, 25 Jul 2026 19:22:00 GMT",
+            "timestamp": 1785007320.0,
             "category": "Business",
             "city": "National"
         },
@@ -3186,6 +3933,15 @@
             "timestamp": 1785006840.0,
             "category": "Business",
             "city": "Pune"
+        },
+        {
+            "site": "Google News Chennai",
+            "title": "PMK founder Ramadoss retires from active politics, hands over responsibility to Anbumani - Social News XYZ",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZS1wZHJGZ09La0VOQ2VzRmFIZ0twMlpmU1BZd2p5UEhyTW5OSEd5OEF2TVF4ZWFUN0ZQU0FHdERHX1k4RlUwSUV0VERyWWJFU1BnSGlhWnkzdjFBRFpOSVBUY2dsVy1NTFIwcllPMDI2QlpaeElHbEduR1hUd1lZUC12MFVOb0ZyREFHZ01ONVhjWGs4TXp6dGljRTY0aG5UTk5UclM4V0xpTUpDLTNIRURfdl91azNxVkRGSlowVWRWdk9W0gHEAUFVX3lxTE9lLXBkckZnT0trRU5DZXNGYUhnS3AyWmZTUFl3anlQSHJNbk5IR3k4QXZNUXhlYVQ3RlBTQUd0REdfWThGVTBJRXRURHJZYkVTUGdIaWFaeTN2MUFEWk5JUFRjZ2xXLU1MUjByWU8wMjZCWlp4SUdsR25HWFR3WVlQLXYwVU5vRnJEQUdnTU41WGNYazhNenp0aWNFNjRoblROTlRyUzhXTGlNSkMtM0hFRF92X3VrM3FWREZKWjBVZFZ2T1Y?oc=5",
+            "published": "Sat, 25 Jul 2026 19:11:27 GMT",
+            "timestamp": 1785006687.0,
+            "category": "Startup",
+            "city": "National"
         },
         {
             "site": "Google News Chandigarh",
@@ -3476,6 +4232,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Jaipur",
+            "title": "Two-year-old dies after falling into Pichola Lake from Udaipur lakeside hotel window - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUDBXQktFcHVPTHFKNHNRcmJfUjFFd0tKcEpSVmpISTR1emVuZVFFVFduS05rQWF4SThtbDF6OFdXal80Vk1fMkxkTFRoTnU5UlJOcWNVR0xZNndDWVYtQmRTa0xXbUplVFkxMDEtWjhoUmtLbXZuMFdrVXJzbkVqNEtxY1BaaHN6WE9fbC1PSEQwWkZsbTFGbUxrdHJFSnc4WmpkeWhQS055SkhrMXBLMHpMaEdoS29UMFdhNmVib3dERlZLa0FON1NEbnVIY093dGJUaEVVbUxOd1RHSWt6SjRaamlsblNJRjFQY3paONIB9AFBVV95cUxPWVB2WmQ0Q0dsODAwSUktMHFIdTU1VmFtWEVKa2VmaF94MHhFZFhjR2pvVDQzWUdGQWdZQ1R0bGY5UGptaUFUNVlrV1hUX1UxeTBwYWlxSFJkM1ZCdV83UWNLWU81ZmxBV1UxNXpjZ2hjeG1lYjhWcXB3T3BIUW1JSnZSUXVCbEJLVHcxN1VFUDhJdUdQUTVKNXlFYm1kaEg2QUNzcm92SW1Hb2JYRmNYNko4V2RENlM4QUpablR4dDNBMWJfZkRDR2FvbUtHYUVOM2xabG9NQ0NlMm5ZVGpEWE5yREJzWElhTjVlNGNSVDNqRGJT?oc=5",
+            "published": "Sat, 25 Jul 2026 18:18:00 GMT",
+            "timestamp": 1785003480.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
             "site": "Google News Bengaluru",
             "title": "Bengaluru Tech Summit Expands Europe Ties to Open Global Growth Path for Indian Startups - Convergence Now",
             "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTktnamJ1ZGlubmlvM2p1YV9nZ3lRYS1zdWItd0h6am8zc2pFbVlHSGtBQlBaSFN6RXhOanItVXdzT1FObDFuTFlZNzJWUnlqUFBrNm51UkRlOFNYVUh5UUFXanVFVnhmNHNOQ19KTzc0Wkg5VWN4Q25WNUJKVjBjZEFUdmZwcVdxTG5TRzhDcktLdll0X3VIR3VGZ083bm1JR3lZUkliMmFYX2FYeWUwcDRlOWU2VXREMXdnVGZYSmhSRGVHVzBScw?oc=5",
@@ -3539,6 +4304,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Kolkata",
+            "title": "11 arrested for Kolkata protest violence, police say none were students - India Today",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGlwbWJCZWtPM3gzZzdGZUtPanRRQklYNUt2ZTIzcU56UDVqX3R3b0FKS093R3ZlOUJreDU4a1REc3dVbTdrOVhvWVk3c2NrSkE5QnFyTnBIdm5YOGx4bHQyWm8xV2xvdzJ2dlk4Z2twX1M3cUVoVXM4bDlkQVFrVnVNTXUwWm5zczJyX3RaenNpWFBEZEttUUdxZVVwalp1SXp2QVYzSVNBRklTZ0V6NVdJS1J0MTdGVGtqSElmRGlEN2xLc3NUUGo4cFfSAdIBQVVfeXFMT0RQcEdEN3VtQ2s2X3pNQWpMZHFqQWJNazk0Ym1WclpfRkNDQnlTTlR1bC1zNTRZendzelJMdWxqYkx2cFJsRDJfWm9kUGVjb3JXa3BCSkJUSXBVOXRnMG01cFV2bE1GZi1GNE1pTTR0VDhPTlR4YlVtQzhjMzI3S18zc19sWlFiaU1YQkJTUHVxLVZUOEsxNlI2SFQtZVZVdTlvc29LNnlnMGxLa1BUTmIzUW9IQ2k3ZklSaXByZi0xcWNjREhxamdWSElWOHY4VmFR?oc=5",
+            "published": "Sat, 25 Jul 2026 17:49:46 GMT",
+            "timestamp": 1785001786.0,
+            "category": "Business",
+            "city": "Kolkata"
+        },
+        {
             "site": "Google News Pune",
             "title": "\u2018Were Under Immense Pressure, Received Death Threats\u2019: CJP Founder Dipke\u2019s Family - Ommcom News",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmIwaXZDWGdzUGQ1dWhOYVJmYm5JcDU0bFhsRW1FZ1hsTy1Na0ZscjdxRTVsNC1jMEpXdFhid0hJdVZCUlplS2g3a3I1aE1LbUhGRFd0dXlMdTFkRDZFNHBEeldsbjNlT3Awa3VtTFA5WXNRa3hraTlvZURmYmNENXA1eHd3U3FlY2JJTnd3WDNHcnZqZWdHM2p1c3FzLW1fOGx6V29HWnNDU0JNMER0bw?oc=5",
@@ -3586,6 +4360,15 @@
         {
             "site": "Google News Bhubaneswar",
             "title": "6 woman nabbed for thefts in Ama Bus - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU5zY2w5b25sUTRLRkQyWjhxSGI4cG5jWFFPNTFYTG5JOVJTQ3VOWDBHNWlyRmN3ZWV1OUxhbHRnajRCeHQtSEExanpyandGaGoyRUpvbXNaZkhKU1g0YzcwTm9pRFN3SmhrTVVPR05oT1hMZDBXQ1FVckswQkUxWERfcEV2TzVoRkw5NHN6aUJqQUFUa3dqRGdxcDBlSURwQXpXZ09pQTB3WHlfLXNCY0hZSWxoZ9IBuwFBVV95cUxQaDNnZ2w5OEpNX05VUXpBZWF0NWFUZGt5VFpaY2ktTXhvNFFRVktfNEd3TzJZRVVhdENmRHhET1BtcndCell0cVhlanR6XzM5dHZZT2RRWmNuTXNXYWxnOC16YXB3aE5aZ2xuRUREOVY2eUk3aFFHeU5LdlZkWHRkeFlwVUJqTXJaNzdZb2xWQlZqMWtfTTAyc2hjTUp1cW4xRHEtOUF5SG16VVd3UWFCSEI0cTQzMmhVcmpV?oc=5",
+            "published": "Sat, 25 Jul 2026 17:32:00 GMT",
+            "timestamp": 1785000720.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bhubaneswar",
+            "title": "6 woman nabbed for thefts in Ama Bus - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDNnZ2w5OEpNX05VUXpBZWF0NWFUZGt5VFpaY2ktTXhvNFFRVktfNEd3TzJZRVVhdENmRHhET1BtcndCell0cVhlanR6XzM5dHZZT2RRWmNuTXNXYWxnOC16YXB3aE5aZ2xuRUREOVY2eUk3aFFHeU5LdlZkWHRkeFlwVUJqTXJaNzdZb2xWQlZqMWtfTTAyc2hjTUp1cW4xRHEtOUF5SG16VVd3UWFCSEI0cTQzMmhVcmpV0gG7AUFVX3lxTFBoM2dnbDk4Sk1fTlVRekFlYXQ1YVRka3lUWlpjaS1NeG80UVFWS180R3dPMllFVWF0Q2ZEeERPUG1yd0J6WXRxWGVqdHpfMzl0dllPZFFaY25Nc1dhbGc4LXphcHdoTlpnbG5FREQ5VjZ5STdoUUd5Tkt2VmRYdGR4WXBVQmpNclo3N1lvbFZCVmoxa19NMDJzaGNNSnVxbjFEcS05QXlIbXpVV3dRYUJIQjRxNDMyaFVyalU?oc=5",
             "published": "Sat, 25 Jul 2026 17:32:00 GMT",
             "timestamp": 1785000720.0,
@@ -3616,6 +4399,15 @@
             "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbXU5MHUtcEYtMk1FemxpMUtHSlJNNDRnX3dhQUV5SzE2TW8xT0JTNkg3SW5DQ01LejRnSEhfLUFPUTBWS2hETnE5bjR5VTZObmZmekpBWkpnRmZQbEdqMUNldWpJNm5HRzg1Rm8wbDZWaGxrNDd2RjcyMGhyenFuNzMtcnBGTzJEV19zUURqN2hOUmZUdGc1RmpIUDlRLTh1Vkt2YmFjYlZUU3Fxd19ER2RvS2wtZHpLNzR3bGJobm5KclBaV21JVDFucEV3b0NQU1VXaWRxbzB3eUZyR2dpOHpPTVhYLUJhaVE?oc=5",
             "published": "Sat, 25 Jul 2026 17:21:01 GMT",
             "timestamp": 1785000061.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Kochi",
+            "title": "Animal task force urges ban on parading weak elephant - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGY2Tmd1MEFoOFlBa1hJaEVGR1dCUVFQVlNzVm5rNml0NzF5OU1WZ2RWcXVZajZwbzhzZU5oNjBLcHJJeGVDaVI4MERBcUVHY2VUbnFmQU5ZZUhCenh0VjRpWkdVWjN1Q28yWHFzZGlBNTBVa1FKRGhsdWN0RG5FMGc5bFJtdk4tSHR0eUNCVU00WlRVUTJDS3M0RFZiX3BXQlRHeGlvVU9UTEVSQndKdHlfd1hzdFdPTExZMHNxcWJDZUc0cUFkSHdn0gHKAUFVX3lxTE1sZjZOZ3UwQWg4WUFrWEloRUZHV0JRUVBWU3NWbms2aXQ3MXk5TVZnZFZxdVlqNnBvOHNlTmg2MEtwckl4ZUNpUjgwREFxRUdjZVRucWZBTlllSEJ6eHRWNGlaR1VaM3VDbzJYcXNkaUE1MFVrUUpEaGx1Y3REbkUwZzlsUm12Ti1IdHR5Q0JVTTRaVFVRMkNLczREVmJfcFdCVEd4aW9VT1RMRVJCd0p0eV93WHN0V09MTFkwc3FxYkNlRzRxQWRId2c?oc=5",
+            "published": "Sat, 25 Jul 2026 17:20:00 GMT",
+            "timestamp": 1785000000.0,
             "category": "Business",
             "city": "National"
         },
@@ -4277,6 +5069,15 @@
             "city": "National"
         },
         {
+            "site": "Google News Gurugram",
+            "title": "Celebrating the Language of the Heart: Poetry Day at Whistling Woods International - lokmattimes.com",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHJuel9vNFVwbGpYdmo5N3ZVeElUN2ZzZXlJUm9fVEljTllfbm10akhKd1FGWmRYQlFVZXJNbzd3bjNNR2ZrdFdfVDhrUkIxZWlJQUhkOV9heENvRkhIb1VkODEwdU9SRktTMHhFUzNjT0tjNVdwa0NvQTFOcUt3SV93c1VoamRzYWE0SGsxNTBWU1I4N1BfUE1SUmphZVNpbU55a1drX08tb052UlpBS1h3THQ0M2t0ajZVZkNR0gHDAUFVX3lxTE1Na1h4VzNMVENpV09oa01VeHVWenAtM1YyNFdvZ3V3RDB4X045bjRqbzRPN2lYOUVnWmUyS1E2cjIzQnVpUkJidkZZb0Jieml3VlVWdEV4VEl2anBmcnhMZjhxaXQzdXJySG02N3RXWWVPdjR5eFJCNjVoNE5pa1NvejFlN0lRMWJNNVFhY1pvZWttclllV1c3WWRpOTJXSnIxY3NoeHg3VmlpUUxObmFuRVhoOEp1Qzd2RTY2dDgwQ2hTYw?oc=5",
+            "published": "Sat, 25 Jul 2026 13:20:21 GMT",
+            "timestamp": 1784985621.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
             "site": "Google News Kolkata",
             "title": "Kolkata NEET protest: One held for assault on TV journalist hours after Bengal CM names accused - Telegraph India",
             "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGxJRXhMRTBBWjJLLURXa1RjTXF6YzJuVHB6VmpMN0NmVmxMSWhQQjhSdlpEZ1ZFQ2pKaG5jMzdEbXFGOUplMndRZXVvQWp5cC1fVlpjYm9yT3B0bVY2ZllBQW1BTTNxQU5TZlNHS0dkVEZGeDlRM19OT3BMWHlGMkFWT2F0el9GSE9IMGg4TEhwY0VWOVB6c19JdWRaUnVYeWVVVU1uWG1YdVQzdi1qYVNUMm1OWEY3UXViUVBpWG5pWTBLSzUwTDVUbEQ5V0h3T3k2TXhJMW9qUGhZX3BFX1dubDlUNmVRYVZmb09n0gHzAUFVX3lxTFBxTDdxZnR3ZXJrQ3hzTFJsSy05UGtZRDhPaU1ZMkc1Q3ZzZ3dYYlBycjFzZzlnWlhkaDNabUIwUnRoY2MwbTdYMlVsUnd1NDFZenpCZTRZVmJlRkZxNzdRNERKdE9KWDFneFFMb2x1SHFQLXdWWEtfamJfYUFhc2R5RThNU185a1NIQkVvX2hLNjc0RUlOUlFkT0R0NDBKbXNGSXp4MEdDUTFVTmQ2eTA0YkNzR1NGLTk4Qzc5OEpQQXBjZ3d4R0Z5TXJCRmVzcnAtVUQ4RWJUOUwxby1MeU9WM3AtTTE5Q2NwVjRVbnp0MEtsYw?oc=5",
@@ -4405,10 +5206,28 @@
         {
             "site": "Google News Bhubaneswar",
             "title": "Devotees witness Suna Besha at tallest chariot - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDloZEdJNkNpODV6TWEzcElnM1NLNDItSHZLMmZydWdxNDN3d0dvbWRTOWx2UUhvUVNPbnNqMjluM1RyMVZZOHVWNFN0VVo4VXo2RjNtdFVoempKc0NBRm5jYlhWa3RjT09ZNmhrNDU4R3RPVjgxRUtEZDFjTXN5STNNWjhic0RrVVJCU3dBWWRpdVoxdTZKSjF6VmZoQm9VczZmbXM4Q3FHRnBWT2JYRWc3QldVZEV5aUIxUHFMNGd2c0EyTTl5VWFOR1FwQdIByAFBVV95cUxQaVZFelVMM2gxR1l4cE1JVll6QV9aQjhmSURlR0gtaHowc2tuby0yRC1SeEdWSDFacVJvQ2l4bWlNbjM2N2pyYjQ2X1N4MDBfYnZySnBUQlF5VHFCZ1FTdS1zanFKZDhfQ3ZIeDZsZENHTUdjMENseWhJTkdoYUdZalRRMTd3MVRaVEE2dXdPN1pMRkllY3ZGdGFIbk9TM1JweHRzT3BlV1hqY0prTTBoMkxFWk02dFhqMDFjUWo4ZEJjNmxrTlIwTQ?oc=5",
+            "published": "Sat, 25 Jul 2026 12:37:00 GMT",
+            "timestamp": 1784983020.0,
+            "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bhubaneswar",
+            "title": "Devotees witness Suna Besha at tallest chariot - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaVZFelVMM2gxR1l4cE1JVll6QV9aQjhmSURlR0gtaHowc2tuby0yRC1SeEdWSDFacVJvQ2l4bWlNbjM2N2pyYjQ2X1N4MDBfYnZySnBUQlF5VHFCZ1FTdS1zanFKZDhfQ3ZIeDZsZENHTUdjMENseWhJTkdoYUdZalRRMTd3MVRaVEE2dXdPN1pMRkllY3ZGdGFIbk9TM1JweHRzT3BlV1hqY0prTTBoMkxFWk02dFhqMDFjUWo4ZEJjNmxrTlIwTdIByAFBVV95cUxQaVZFelVMM2gxR1l4cE1JVll6QV9aQjhmSURlR0gtaHowc2tuby0yRC1SeEdWSDFacVJvQ2l4bWlNbjM2N2pyYjQ2X1N4MDBfYnZySnBUQlF5VHFCZ1FTdS1zanFKZDhfQ3ZIeDZsZENHTUdjMENseWhJTkdoYUdZalRRMTd3MVRaVEE2dXdPN1pMRkllY3ZGdGFIbk9TM1JweHRzT3BlV1hqY0prTTBoMkxFWk02dFhqMDFjUWo4ZEJjNmxrTlIwTQ?oc=5",
             "published": "Sat, 25 Jul 2026 12:37:00 GMT",
             "timestamp": 1784983020.0,
             "category": "Funding",
+            "city": "National"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "Gen Z showed what it means for India to be Vishwaguru: Gitanjali Angmo after Dharmendra Pradhan resigns - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVUpYMElvYmJwV25uVXBRR0djSVVkd3ExOFFMT01mb2xmRHdRQVZMQ2d6aWpqVUFhWHRfMXBWdzFFclpvMUNnOFNoWUY0NnRmVThfelhoMDNGZXY3QkZQTFJ1OGF4VzkxaGg3VUZzWUh0UnJvQ3pLMFg0Nnd5VG5GdmpVelQxZ01URzBybGZaZDMycVZDdWVwRTZJWlgzVmc1clM3YUFDZFc2N1VXSzR1UXoyTWY2TTU2dVpkbkdnc0Y5cEVRVFhnS3RlXy11YlhrQThDMHYtcnNtam0wVklQZlRUT3o5UVhUa0I5WTRqdllyMUxGY2lZQVZ0U3FCaVNK0gGAAkFVX3lxTFBVSlgwSW9iYnBXbm5VcFFHR2NJVWR3cTE4UUxPTWZvbGZEd1FBVkxDZ3ppampVQWFYdF8xcFZ3MUVyWm8xQ2c4U2hZRjQ2dGZVOF96WGgwM0ZldjdCRlBMUnU4YXhXOTFoaDdVRnNZSHRScm9DekswWDQ2d3lUbkZ2alV6VDFnTVRHMHJsZlpkMzJxVkN1ZXBFNklaWDNWZzVyUzdhQUNkVzY3VVdLNHVRejJNZjZNNTZ1WmRuR2dzRjlwRVFUWGdLdGVfLXViWGtBOEMwdi1yc21qbTBWSVBmVFRPejlRWFRrQjlZNGp2WXIxTEZjaVlBVnRTcUJpU0o?oc=5",
+            "published": "Sat, 25 Jul 2026 12:26:00 GMT",
+            "timestamp": 1784982360.0,
+            "category": "Business",
             "city": "National"
         },
         {
@@ -17181,825 +18000,6 @@
             "timestamp": 1784636682.0,
             "category": "Funding",
             "city": "Bengaluru"
-        },
-        {
-            "site": "YourStory",
-            "title": "Two engineering students built a robot that zaps weeds with lasers instead of spraying them",
-            "link": "https://yourstory.com/2026/07/harvested-robotics-ai-laser-weeder",
-            "published": "Tue, 21 Jul 2026 12:24:05 GMT",
-            "timestamp": 1784636645.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "YourStory",
-            "title": "BonV Aero builds heavy-lift drones that fly cargo where vehicles can't go",
-            "link": "https://yourstory.com/2026/07/bonv-aero-heavy-lift-cargo-drones",
-            "published": "Tue, 21 Jul 2026 12:23:48 GMT",
-            "timestamp": 1784636628.0,
-            "category": "Startup",
-            "city": "Bhubaneswar"
-        },
-        {
-            "site": "Google News Chandigarh",
-            "title": "PropulsionAI Launches Fay as Enterprise AI Agents Move Beyond Chatbots to Real Business Operations - The Tribune",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUJ3MXR1SFNhSEd5RXdXa3o0Q0RrQXpuUmV0M09lNkw2ekhKNzhUSDRweWh2VmJtaUdwZkJXQzVhaG9FNlJUQXVjWXA2TE5SS3ZHRlJvdG40VXVEQ2gxN0hiaGY2QkVZMW5TbDVKVlk0UlZtX09rQWF0ZU53eDI2YTlZLUNKdzRZZ01mMG90OEYtY3RqRE5nY3QwbjUzM011ZWhUenFLck9lemVBMWIybjllY0FoQ2dheEFjWGQ0X0RRa2g1cG1CM0dIa0JZQ092S0Q1NE81SV90b2tWa0HSAd4BQVVfeXFMT3lCdzF0dUhTYUhHeUV3V2t6NENEa0F6blJldDNPZTZMNnpISjc4VEg0cHlodlZibWlHcGZCV0M1YWhvRTZSVEF1Y1lwNkxOUkt2R0ZSb3RuNFV1RENoMTdIYmhmNkJFWTFuU2w1SlZZNFJWbV9Pa0FhdGVOd3gyNmE5WS1DSnc0WWdNZjBvdDhGLWN0akROZ2N0MG41MzNNdWVoVHpxS3JPZXplQTFiMm45ZWNBaENnYXhBY1hkNF9EUWtoNXBtQjNHSGtCWUNPdktENTRPNUlfdG9rVmtB?oc=5",
-            "published": "Tue, 21 Jul 2026 12:23:24 GMT",
-            "timestamp": 1784636604.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "{Funding Alert} Suminter India Organics Secures Rs 25 Cr to Scale Organic Food Ingredient Sourcing - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRW8xMW9uemQ2ZDc5LUxlZXFHQTkwdklwR01ldkNsZXUxTlBLN3A3blVoLVVneWRFUmRLVEpCZTZwTWVIZFBGWFFHcmY0bndnNXJZNFRxanJ6QTJUbEFBbTRoZVYwTlg0OGlhWEVnMkNKdTl5bEw0SDZ2eHFzbnBQRW9SeTFvNHNSSFg1SzVKVXZxdHl0TDFmTEdvVXowTWM1allPMGNNMHZ5T2lhR3BDbmV1OE1Ta29HeTh0ZVhNUVl0WS02WXB6Ug?oc=5",
-            "published": "Tue, 21 Jul 2026 12:21:01 GMT",
-            "timestamp": 1784636461.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Noida",
-            "title": "This Startup is Building the Data Layer for India\u2019s Fuel Stations - analyticsindiamag.com",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDF5ZjdOWDhoTHNqWU0waG5xTjk0OW5XNnAyeDVSdjF6bFczX0I1U0tKRVg4M3dubzhWV29oNVlpc0ZaNnE0Y1o1WDBjREVXLXlyeUlLSUs1N0R4Zjl3cjdGY3dqUUJsdnRFRGJYUjlIakpScmV2QVFydWlBRTU2Qk81Z3NVNGw1MTVHNlZLbTNiVzJ1T0JDcGVNRm5LbW5ydWF3aXhyWGEyQQ?oc=5",
-            "published": "Tue, 21 Jul 2026 12:17:24 GMT",
-            "timestamp": 1784636244.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "Telangana Partners With Microsoft and MeitY Startup Hub for Green Pharma AI Centre - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkREMERDQWVJNi1Ub2FhMUJheTlxSHlTdDhlMXgwTG5WZWhSZmRkVmtFS3dWNl9ZSFIwZmRUcTd6elppcVlNYWI4UlpTN3ZXanJyNE9KeG0wQWI1Wk1MNUhRVVg2TnVtUzg0SGRwb25SeEZ0eXNacTJvTjJKcWJuSTFrZDBIM3UyRzNDLWlTU2JodTFYU3Y4a3FUOEd4ZDQwOFM0LXVnS0pLV1NRREJhRUtldlB3dw?oc=5",
-            "published": "Tue, 21 Jul 2026 12:17:22 GMT",
-            "timestamp": 1784636242.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Odisha gets 58 port-linked projects worth over Rs 56k-cr under Sagarmala initiative - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM3JXdTJpVEdhTEhyR3VaOHh3aDl5aF9yZ1N6bVhmbHg2aUJTYno5bHZuQURUQUtYNnpOM0plQnJSNXJodWZ5M0R6SmdMTEFtbFo3RjBJbldkSmF5MTEydWtLeFNKUWRvdWoxek1CR3k1cENLbWx3ZHpobnRFVF9JaHhsSGIyQkNkNHR4Y3VWLUEzd2R2Zzh3bXdUaFp3N013eVhKU2duZ2hBckR2WExEeUJSQ3F6LUZwa055OVRMd0FxQ3l4alAzX2k4WTloZEFOd29UMkVGMjQ3MGFqcGFtTTJVMmdyLWxabkNnYzhzME1kWjZy0gH6AUFVX3lxTE5KekM1T2Fkbi1ra1JEbkE2OThZLVNHdkpRUEdoUEZnTWdSNGtXV1VLQUJ3OU14QmdFaWh2UW9Hd0g3U2dNbjk5X1BvM21qLTE4YVRBVkRRaUFScHB5R09McUdJTzNZQmUza2hkYUpfNzdpY291Y2dhSUNaY0ZENFFJdFJGMEFjMEQ2cTdaeHNiQWlWanBkanpCNHdkLUdveFlpOWZJWVhFQkV5RXprcFlNRDNSdE1wNnc0aTFMeHhINGZ1LWlyZi00b196SklKUTNLVTFkR0I3YTZzblpJX2p3anVKSjJxTl9SUUxLdzI3MHQzVTlrZnExanc?oc=5",
-            "published": "Tue, 21 Jul 2026 12:11:00 GMT",
-            "timestamp": 1784635860.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "ED Raids Bengaluru in ISIS Money Laundering Probe - BizzBuzz",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZk53enJtdUVlUW5LVGxtcFVhWkZpZEQ1bUdGdFlSRjdLRXlFMllDTmM3THhEclZLejNudGhud052RW5qZWdWYkZ1cU5tOFZyU1BsTjhHNHJBUVozaTZZZ3RhWnlFRTdLbU1UU1B6N2habU9XN3FqSU81Vzg0d2FDZllhbzRoRl9QMUI2MVZjdlp5YzA?oc=5",
-            "published": "Tue, 21 Jul 2026 12:09:50 GMT",
-            "timestamp": 1784635790.0,
-            "category": "Business",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Kolkata",
-            "title": "Kolkatas hospitality resurgence gains pace as homegrown concepts reshape indias restaurant landscape and consumer demand - ET Hospitality",
-            "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbDZTMTNBZW9lVjRwTHNhQXEwU2ZRdEF6cG04b2luMWZ5bzR4WjhfS2QwQmZURTZpb0phMmVGX0VsbHl4bkdicDVLcjVTTF9uT3NJdkhNREVNQy10WmRLR3pVTUVfaVYtUEQzcnNKQm5GQ0VFTXJXYTFWd05UV3NKcEpyTTFwRXV5b0hTZkpjZG12T1FKMEpyZDR2Z1lZLVdScDM4RzIzdHFuREtXUjl1ZDAxZGpRMUIyQWJrRlhvSmpwTTJiYkM0QVNJYXlxdWI3YmZGM2R2Ymw5dWg2Y1FEQUNjYU03SkYzVHJuNmhsbTlXc3c1dEhfSHQzU3lNb2tvNEhXMjhtNk1Vamc3bVBtNGFVR2tjX2lqV1l5Z0FBblRTUQ?oc=5",
-            "published": "Tue, 21 Jul 2026 12:08:16 GMT",
-            "timestamp": 1784635696.0,
-            "category": "Business",
-            "city": "Kolkata"
-        },
-        {
-            "site": "Google News Chandigarh",
-            "title": "Chandigarh University Student Develops E-Commerce Platform to Promote Heritage Products of Indian Artisans - TheWire.in",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSEVERmpHY1dtWTE3WlBXRDEwQk54dHpPRWI5bDA5ZXU1RTYzZ3RPVFJCNS1aQU9fMmlDdEY1eUpIMlFkeDdhZm1MU1dSX0ZiWEpJS1RNUGNhV0MyVE5KeUFuRHRVc1pEMlBOeEU2YTZFM3RrNmhoZ3oxZE01OE9LX05MVjJlRDZQYkpjN2U5eWFCYzdsWUNFbkZqTXBkald6YnpTTkx1bUlIaGIyckxVVkphamFkbDhZMms3aE4tTS0xSEN3M1F6WVRrMjV3SXZFbURvWmY1M0NGTUtyTUHSAeMBQVVfeXFMTzBSTnJPeXlqM3o4UXBrWk55cnUtNDNodEMyY1VhaXRJRGpnTGR2cFhwQnlCNGRnbFlzZEc3a2JIc1NkRExlT1VnbmloX185UDZiY2JoWXlYYzU4YWJLZHhnSkhRNTNaRUZVeXhJZXdpaS1LMzJxbVVXZzZ3ajg2ekdsZGtQaWdfNXRpWmFDZnZUQ2ZXWFNNb2h5ODJTZEtqNWZMVWEzM2M0bGdEYUlBaXpGOTJkSXhSclE4YnB5dmlOZ1VWOUY3MUtZZ2Rud1BRN1ZRMUI0OURNaFFnRWUtYTl1ZlE?oc=5",
-            "published": "Tue, 21 Jul 2026 12:07:08 GMT",
-            "timestamp": 1784635628.0,
-            "category": "Business",
-            "city": "Chandigarh"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Air India wins FlightGlobal\u2019s Digital Leadership Award for technology transformation",
-            "link": "https://www.expresscomputer.in/news/air-india-wins-flightglobals-digital-leadership-airline-strategy-award-for-technology-transformation/136935/",
-            "published": "Tue, 21 Jul 2026 12:01:39 +0000",
-            "timestamp": 1784635299.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Air India wins FlightGlobal\u2019s Digital Leadership Award for technology transformation",
-            "link": "https://www.expresscomputer.in/news/air-india-wins-flightglobals-digital-leadership-award-for-technology-transformation/136935/",
-            "published": "Tue, 21 Jul 2026 12:01:39 +0000",
-            "timestamp": 1784635299.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "CIO India",
-            "title": "The token debate: What CIOs can learn from the laws of thermodynamics",
-            "link": "https://www.cio.com/article/4198914/the-token-debate-what-cios-can-learn-from-the-laws-of-thermodynamics.html",
-            "published": "Tue, 21 Jul 2026 12:00:00 +0000",
-            "timestamp": 1784635200.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Youthville Inaugurates Its 11th Property in Vile Parle, Mumbai. Strengthening its Vision for Premium Student Housing. - TheWire.in",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVElWV0lOV3NOQkpLMlJxT3o4XzZ2dGxfUnA5Tm5NVVlmSFQ4X0pJU0tvZHlxSGh2QmFDaFEyZHl5TlhUUVR6TUNmMzdCa2pvNWNEUzZmd2dXNWd2clA5Y3NBRXd1blZsX1BRMjk3SF8xMUQzYlNrWks2cXdJX1ZlUzNrdXpwcTNIbnJZWEVZUXp0SG1JMTNtNVNpaU1QNk8xTWc3aUJHNWQxOFVQbmpMbEtNOE5HS0tZTmNPWTBaZnZINFRVS0dzT1dfTVFvRDI5N0luYUVGSnpwSFJsT2pLMm9zUjhGZ0Z5Zy02U2FB0gHuAUFVX3lxTE5USVZXSU5Xc05CSksyUnFPejhfNnZ0bF9ScDlObk1VWWZIVDhfSklTS29keXFIaHZCYUNoUTJkeXlOWFRRVHpNQ2YzN0Jram81Y0RTNmZ3Z1c1Z3ZyUDljc0FFd3VuVmxfUFEyOTdIXzExRDNiU2taSzZxd0lfVmVTM2t1enBxM0hucllYRVlRenRIbUkxM201U2lpTVA2TzFNZzdpQkc1ZDE4VVBuakxsS004TkdLS1lOY09ZMFpmdkg0VFVLR3NPV19NUW9EMjk3SW5hRUZKenBIUmxPaksyb3NSOEZnRnlnLTZTYUE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:58:26 GMT",
-            "timestamp": 1784635106.0,
-            "category": "Business",
-            "city": "Mumbai"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Youthville Inaugurates Its 11th Property in Vile Parle, Mumbai. Strengthening its Vision for Premium Student Housing. - TheWire.in",
-            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNnVnUm5UUmlhWEdSd0lDa3pVdW1CN1ZKVktCZGZQSHhPSU5HQVN5Y2g5QkRneFRESlNEVFQtd3FVVm9oVnQ0dUN2anlDUU9YSkdxQWd1RVJRMTA4Q0pzQWowY0RiMjN5R05maXFFcS00STlqcUtRSzkyRjY3cF83a2hqSVVSY29SRVlXN3J4VHJHNG1idHowVXA4dDR4VG5vZlRNcVhveExjUEZTQ1d3bGp2endvVlEzUXF4bDVHUUJtTTlhZXBpc2xfS1NCYzAwaXdVankwVlExUGk3WlVodURjMzhLVGROcE9YU05oOVJYa3dIUnRtWWFIY3Z1WG9ERDBDS3VyQ0bSAYgCQVVfeXFMUDZ1Z1JuVFJpYVhHUndJQ2t6VXVtQjdWSlZLQmRmUEh4T0lOR0FTeWNoOUJEZ3hUREpTRFRULXdxVVZvaFZ0NHVDdmp5Q1FPWEpHcUFndUVSUTEwOENKc0FqMGNEYjIzeUdOZmlxRXEtNEk5anFLUUs5MkY2N3BfN2toaklVUmNvUkVZVzdyeFRyRzRtYnR6MFVwOHQ0eFRub2ZUTXFYb3hMY1BGU0NXd2xqdnp3b1ZRM1FxeGw1R1FCbU05YWVwaXNsX0tTQmMwMGl3VWp5MFZRMVBpN1pVaHVEYzM4S1RkTnBPWFNOaDlSWGt3SFJ0bVlhSGN2dVhvREQwQ0t1ckNG?oc=5",
-            "published": "Tue, 21 Jul 2026 11:58:26 GMT",
-            "timestamp": 1784635106.0,
-            "category": "Business",
-            "city": "Mumbai"
-        },
-        {
-            "site": "Google News Thiruvananthapuram",
-            "title": "Kris Gopalakrishnan Infosys Biography, Net Worth & Success - Business Outreach Magazine",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3FiblRzZzFLOExIMFptb1lhTTdjYkk4Nm1JczVPLWd3TldNMzN3dXFZZlZHWVhVa182QnBnOEw2dTBBd1Zhb0NGY0tSNUJCQnpmR00yV0JHM1NXVGE5eEdMX3ppbmUyb2ZyWkI4bnQtYXFNUFIxR3dyeG5mWDFZQzZDY2ZGdjg?oc=5",
-            "published": "Tue, 21 Jul 2026 11:53:34 GMT",
-            "timestamp": 1784634814.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "FireAI Raises Rs 2.5 Crore to Expand Enterprise AI Platform - Siliconindia",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZS02TmlSWTR2UjRXWUNGbHhsQlhHOUdIQTN1TnNZcmREbEsyWVdsSkZiQkd3OGZOMUxxUmR1RXJlZGszeHRHVGgtMVR2aE94aFo2Ykw1akV4bUtPMTBiM2cyb0t2N2R3TDItNUFZdjkydktXTGtHRkdJbGJfZzJONV9GX1dtVjlaRm1oNF9yX21ydnhvNGVOZVpxUC1tMzNTSUxwSFdWbHRLTHNCbXQ4dE51UTF0X0VoTEtkSklHdTB3TjlUMUE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:52:46 GMT",
-            "timestamp": 1784634766.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "30 Sundays Raises $6.7 Million Led by Bessemer Ventures - Siliconindia",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdk5vU2pFaTA3UERZbzhWM3FGSXUwMFl5TTE4UHpXWDBjZXB6M1NNRVBUaXVmd19tSDdjZkQ2NjZRak52UVE2OHpQSDlKckVmblgtT19QanYwTUtycnVvSlVjblpKb2FYUVRjazdkc29aRE0xT2lQTzA3bW9mWmc3R1kzSlNVbnM5Q1B4NTJGOXBWd256dVpOQ0FGZ3AtLVRmN1N2OVp2Rkg3MDhEdkFwUlJDZm5jUmRodjJKejZGbw?oc=5",
-            "published": "Tue, 21 Jul 2026 11:52:46 GMT",
-            "timestamp": 1784634766.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "Paninian Unveils India's First Private Turbofan Engine Programme - Siliconindia",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJPSXkxRXk5WVEtUkZpcWhxVFZfcl90Q2d4Z21uaGt4RFNnZXdPaV9Cd2Q4b0paOUNjeVpsVk01b29xR2NBQWxzblR6MFFrR1Jlb3NvUlNOWGlYNTRiQVdjRlF2b3ktcmJURWUzZkVWNEsxZUszd0RCdXFfcUM5Z0lfVXA5Q19OVENMclRfV1U0MkdwbHJSWTlLaGFhZ0pLTGQxRGFfZ1kwdXprTTR2aGFTdWoyTGgxUmZyaVhhbUxDb0xId2NpeA?oc=5",
-            "published": "Tue, 21 Jul 2026 11:52:45 GMT",
-            "timestamp": 1784634765.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "30 Sundays Raises \u20b961 Crore to Expand AI-Powered Travel Platform - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVMtOFBFUVNkdnVTQlhCbG5ram1GQW4xNFNtcktKN3d3Z2Jjb2JtWG5rc01oSTRoQ3BRbWc1TmVnbzc4aDdLVC1MLXA4SGREOGJGOFBTOEVseUFMdzFGWm12R2hFSTJfc1BQMHpKMlF6cUdsZDNKdjB5ZGdyeG1ZWUY5X1pobUY3TEpqMjM3N05FcXg3ZHZ5Vkh1ZXMxV2RGcnRUbUxsMGE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:51:52 GMT",
-            "timestamp": 1784634712.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Indore",
-            "title": "TEDx Speaker Akash Joshi to Address Entrepreneurs at The Founders Barrier Summit Organised by Communex - The Eastern Herald",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNzZCT1BaZUpqLUlBaWpMSHVycTA1LVY4cVlBcnhxcVJ6ZUE0cThKNzhYbG9UN3lUaFBYSW5SZ290eG5iQWgxMDUzcHdNYWVNdjBnQkN3dVVOaDItWkdmUmN3WUxNZXo3dmRjVVdBdm5CcVlWUFJSUkdRVGNkcy1PMXNtTmNiSG03V0Q1Z0hldWhMU3BOYjVFYjA5TzF3UFZjRUoyZjZtdzJnMThTeHBBbEVlbU5ETndxTTE3Unc2NlJ6ZWgtNHJkYmliVWs4djIzT0VUMzVaVQ?oc=5",
-            "published": "Tue, 21 Jul 2026 11:48:16 GMT",
-            "timestamp": 1784634496.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Thiruvananthapuram",
-            "title": "Cyber fraud alert: How the \u2018boss scam\u2019 targets companies and employees, and how to stay safe - DhanamOnline",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNczdGWGluWE5ZSmI1dGNrM0dvck5TdHppRk94a2xyYzRYV1FUT1hEaWV3dkxRNmV2QmlFU25tbGJISEVOb3hyV3AtZzFoT3pBMEgyLWEtNmFqM2h2cVF1c2s2akhsbVdoU003TFVqbUFWbjRPcFhfOVZEbGdva0xSeTN6eWJQa2ZTbHB1TW1uQ1o1ajJ2c1MzamdnWUsxd2drd1FnZHcxblBvWjc0d3BmTTkweEE1SHEyQVpFMGRVbFdUbFlzR1Vz0gHUAUFVX3lxTE5sQmpXSDU2RGVJWlNYaFFldnc2UVJPNTBfZnR6ZGFydjNZaGFIc1VTdEYzSllNd29pOUViMzFjVEVhMkFjTjVDaWs3czVsaF9LeHA2SjlSX3RiZUV3WUZ6QW91dWYxMjJwWml0djFhb3NZMUUtMXk3SVMyNmo0RHNCSjNaUGc2bHFQYXJIVW42TzFyeFI2c01rdmpIZnN0ZVhJTjRYekI0VnEyVFlNaXBzblhaQWZxZHdVZnBiTTMxamZaQUdna2wzaElqOTBtRHNobmow?oc=5",
-            "published": "Tue, 21 Jul 2026 11:44:56 GMT",
-            "timestamp": 1784634296.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Chandigarh",
-            "title": "Govt wasted our time: Dipke on talks between Nadda, CJP team - The Tribune",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0ZRUHc5RC1UZnpqODQyd2ZWTTNNNXZqOU4yNEJWRlhhSFFXQk15UmItOXN5SVJsc2tvVGY1X3QyaHBrNjFZcEp3QUZUUHRaUjZTTDhUMno5N19TcHdNTThJUkdPYjI5THppZXZKT2dlX1dkeG4tWjRxY01UOG12aUNNcXI2Ym5RNnpTNGU4Q0ZVNVkzOHdwUC01cFB1OXZxOVhXc9IBpAFBVV95cUxPN0ZRUHc5RC1UZnpqODQyd2ZWTTNNNXZqOU4yNEJWRlhhSFFXQk15UmItOXN5SVJsc2tvVGY1X3QyaHBrNjFZcEp3QUZUUHRaUjZTTDhUMno5N19TcHdNTThJUkdPYjI5THppZXZKT2dlX1dkeG4tWjRxY01UOG12aUNNcXI2Ym5RNnpTNGU4Q0ZVNVkzOHdwUC01cFB1OXZxOVhXcw?oc=5",
-            "published": "Tue, 21 Jul 2026 11:41:41 GMT",
-            "timestamp": 1784634101.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "UP BJP Leader Says Delhi Protest 'Foreign-Funded', Bid to Target Sanatan; Gets Slammed by Oppn - Outlook India",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXhJN3ZyOG5BLUNiWEtYSGtad0h2LXh5VWxRNE9LbWJDRWw5S0h1MFFvN25vZzFBQUpyR1VXTVhSZmYtV0N1aU9QaWw0VndOLUh2dTNlNHlQdmJkemhHT1RDRDFLYlY0UWs5eGtQZnN6TDl4VFd5QlNBdlYxcFgxN2VnM0pmUENHRi1kSS1TV1lHNS1XQWFMaVE3Yi1DcHhGa1hMdmxfSVVQQmJEMUpyN0JEREUzNGZJTkg0UGptUl9Wd21vbjlpNnlWRndjWnEtSVJDRy1nTdIB1wFBVV95cUxNTXhJN3ZyOG5BLUNiWEtYSGtad0h2LXh5VWxRNE9LbWJDRWw5S0h1MFFvN25vZzFBQUpyR1VXTVhSZmYtV0N1aU9QaWw0VndOLUh2dTNlNHlQdmJkemhHT1RDRDFLYlY0UWs5eGtQZnN6TDl4VFd5QlNBdlYxcFgxN2VnM0pmUENHRi1kSS1TV1lHNS1XQWFMaVE3Yi1DcHhGa1hMdmxfSVVQQmJEMUpyN0JEREUzNGZJTkg0UGptUl9Wd21vbjlpNnlWRndjWnEtSVJDRy1nTQ?oc=5",
-            "published": "Tue, 21 Jul 2026 11:37:57 GMT",
-            "timestamp": 1784633877.0,
-            "category": "Funding",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "Traveltech Startup 30 Sundays Raises \u20b961 Crore in Series A - Whalesbook",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdzl5NkxJVHlfREJRZ2I4VmRXVnBnZXVWZExQX0VSLUpHcHJ4VWw0ZkNwRVdtQ3pKZ2dVc3VmR0twVGlGczNaeG1ibzlpcUY2VGV0Zkc1bm1QSE9lM1Z3WnNOdFF0OHZMYUF0T3NlN0hnQko1eGNqUW9DTzJUVC13Qld6cnhGbDhzNmxJeFQyWkk4eHd5XzgwbU5tLVd3T25lYUphQmRWZnlOSWFxNUo3OUNlZ25HSzJ1M1lqR01oM2xYeEZhdFY1TDRKU2lGcTZBWmhpX1phVTR0MWtQTUE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:33:53 GMT",
-            "timestamp": 1784633633.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Noida",
-            "title": "GrowthX Debuts GO Office Workspaces with 1,200-Seat Noida Centre - 5 Dariya News",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTZZazRlWWp4YlZpNXRvU2p2aFRsSmoyR3BRdUJqSVJ2TkVtY2dfWF9UMVduTVRkR0pkV1hES2FJSnFhRmJzZXFldEJuaUJFRFB6Q0lvOEMyaU05NXgzZnFSQjhVMnJQeV9UNGpsSmZWX1BxRDBpN3QzcWtOb3I2OHA2c25qanhJZWtlT0VsLVY0NV9HeW50VGJxelliQ3U0cnVib9IBpAFBVV95cUxPTTZZazRlWWp4YlZpNXRvU2p2aFRsSmoyR3BRdUJqSVJ2TkVtY2dfWF9UMVduTVRkR0pkV1hES2FJSnFhRmJzZXFldEJuaUJFRFB6Q0lvOEMyaU05NXgzZnFSQjhVMnJQeV9UNGpsSmZWX1BxRDBpN3QzcWtOb3I2OHA2c25qanhJZWtlT0VsLVY0NV9HeW50VGJxelliQ3U0cnVibw?oc=5",
-            "published": "Tue, 21 Jul 2026 11:32:48 GMT",
-            "timestamp": 1784633568.0,
-            "category": "Business",
-            "city": "Noida"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "Music UnLtd. on staying original in the age of algorithms - Indulge Express",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWkJXTjRpZHdfejF6UHNxRTF2YlVTZnhqNEtFdzBUWVphcVBuRll6b1h3eHV6bGJMOWcxcVY2ZkpLa2VwX1M0c3lZcC1PSzZ1YWY4X3Y0RHIyRElBaUtSdHEtQm5YOUU5Ni0wSkFEbUF6TzBBemdwOFdSSUluM2MzYUx4R1g4alE0NFNzR0ItWjJYOTNQMVZrQnJBZ0JMUm84eU50VUpmTkdvRWVQRnhNOUpn0gG_AUFVX3lxTE4tUF9fU2s5MFBfQTA5b3YzOGdmcmdaa05rNEsyYllXYU5wY1gyZDhxX3lFRkNFaGtXTkw0UnlkVmljdDZ1b2dVamRWaHd5Nl9HNG1pSUR2R1VXS2VCV2Z6NWV3YXVpcjRMYkxMc0dUZkR0S01ZR2JpYlFkd05xSElncnRZbDVkanA2MmVQdzYzR0tSNnVka0NqazRRYXprS3E1YXFGZ05DXzZzbGJ4NHV6cEVpMjNkWnJVQ1pUZFA0?oc=5",
-            "published": "Tue, 21 Jul 2026 11:31:57 GMT",
-            "timestamp": 1784633517.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Retired PSU employee faces \u20b92 lakh tax demand over Form 16 omission; ITAT Pune grants relief - MSN",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckpnUzhGMmE1T1dzdkR4YloxU1NzdEMwWlpTeGx1YWRHRHRvQ0hQRGxVSGlxUVZ2MmtsaURaZDNDX3ZlWU1sM0E1cjNXUzhpTlZ0UjNzZE5tbFBzNjVrcHZjekFfMkdNSG42X3ROU1JUbk5zZWxvLTVEQWdNMHRoX2p5RlVQcDFLdEJuV0ZqemhVZ2p5cWFNZWM2N2pKNmdvdHhnZmxNSlNSX1M0RW9XS1RfWlhyUndTUW9rUlhBVWRQRlJSQ0xiUG8tUmdJdXJDeUJZTWlZNVdZQQ?oc=5",
-            "published": "Tue, 21 Jul 2026 11:30:52 GMT",
-            "timestamp": 1784633452.0,
-            "category": "Business",
-            "city": "Pune"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "Casagrand snags fresh funding from returning investor - VCCircle",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOURwVUIzTGRyczZxX3QydzRZZndXWjNEV0g5Y3huUXdlZ1JBY1lUZXZkRFlUMWRVMmV4aXJqSzA4SkF2NGR6LXhWcmxlaDNWU0kyRjg5eGJMdFFZSTZicjR5aHhPNTdvT01pR2owQTlQYVhnN0FCQldWNkQ5ZFpobWNWaw?oc=5",
-            "published": "Tue, 21 Jul 2026 11:28:13 GMT",
-            "timestamp": 1784633293.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Coimbatore",
-            "title": "Two men arrested in connection with coworker\u2019s death near Coimbatore - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWxvaE9NYVJqM0ZKR090RlNTR0xfZXhWLXdpdnJGMk8yVEtrN2VmVlNGUVJmUUR6elg4ekhtbnI4WU1GRXYxZlRkX3pIN2F0MmFyclJPakJhYUNUWmR0MTBkWDk4MzhMR0NtTXphRTdsbWoxTG1HVVVDeEtKS0N5T1pNUnB0eFo4b0RELVpVY2tmd18wZTducmZ2MFVxMTlHcEVlYmVVZkhvNmZuVmFmZ205ZDd1eDBZenpXNU9MUUJWcWM0REo2WVBISFdpeHlRMGV0WWx5N19VYmJnYjRMcVBUQdIB4wFBVV95cUxPMWxvaE9NYVJqM0ZKR090RlNTR0xfZXhWLXdpdnJGMk8yVEtrN2VmVlNGUVJmUUR6elg4ekhtbnI4WU1GRXYxZlRkX3pIN2F0MmFyclJPakJhYUNUWmR0MTBkWDk4MzhMR0NtTXphRTdsbWoxTG1HVVVDeEtKS0N5T1pNUnB0eFo4b0RELVpVY2tmd18wZTducmZ2MFVxMTlHcEVlYmVVZkhvNmZuVmFmZ205ZDd1eDBZenpXNU9MUUJWcWM0REo2WVBISFdpeHlRMGV0WWx5N19VYmJnYjRMcVBUQQ?oc=5",
-            "published": "Tue, 21 Jul 2026 11:28:00 GMT",
-            "timestamp": 1784633280.0,
-            "category": "Business",
-            "city": "Coimbatore"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Craters pose safety risks for travellers on Pottangi-Sunki road - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMGdmQ0ItUXBIV21KMm5PdkhXb0hQdG1SNHg4eE9MQ1Y0TnNMSUVuc2pyS0VFUVFUWmFySjd4eTdMUGlaNGhkbmFaMWtOMGRSVVFKbXBFcEp2SlVEYjBReFJEajZNNk96VlphX2FRN0MyWmVrSWsxWWlXNnJ0emJjUlRScE9mNjBPU1l1TWNFNGJmaXdNVEhrdHdndnlhanhEMFBHVzljVEpTeGFXQ2c5dF84MTdoNjE2TTd0eF9odHNzMlBDaGxCdDNaWmo0YWRhbVlhNzRGQVhGbzhoV0tB0gHfAUFVX3lxTE8wZ2ZDQi1RcEhXbUoybk92SFdvSFB0bVI0eDh4T0xDVjROc0xJRW5zanJLRUVRUVRaYXJKN3h5N0xQaVo0aGRuYVoxa04wZFJVUUptcEVwSnZKVURiMFF4UkRqNk02T3pWWmFfYVE3QzJaZWtJazFZaVc2cnR6YmNSVFJwT2Y2ME9TWXVNY0U0YmZpd01USGt0d2d2eWFqeEQwUEdXOWNUSlN4YVdDZzl0XzgxN2g2MTZNN3R4X2h0c3MyUENobEJ0M1paajRhZGFtWWE3NEZBWEZvOGhXS0E?oc=5",
-            "published": "Tue, 21 Jul 2026 11:28:00 GMT",
-            "timestamp": 1784633280.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Coimbatore",
-            "title": "Two men arrested in connection with coworker\u2019s death near Coimbatore - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQUNsd2x1UXEtNk15b3ZlR0tmTWdGVjExWVJvbVgwTk1YdHI4eFdUMC0wVUdQdFNrYjFGczhlWUdabWR3RWNVMEVUVDJpeHF3VkFXU0JFRVdJT21MQmNvZ3RIbTctbG00bHotVkV1MUgxNTFsSkZuMy1mendwN0pqVXUyVktlY2UzR3QwUHFBUVpEUEk2cDhKVTVkNllEZUg3TTBqYUo5d2pOXzZZTzhCb2tlNUI2MFRnWF9nZ2VaSEZsSjgzZmk3aFVaa3F0bjJDbnJ3QVZvaGdSU1htTlHSAeMBQVVfeXFMTzFsb2hPTWFSajNGSkdPdEZTU0dMX2V4Vi13aXZyRjJPMlRLazdlZlZTRlFSZlFEenpYOHpIbW5yOFlNRkV2MWZUZF96SDdhdDJhcnJST2pCYWFDVFpkdDEwZFg5ODM4TEdDbU16YUU3bG1qMUxtR1VVQ3hLSktDeU9aTVJwdHhaOG9ERC1aVWNrZndfMGU3bnJmdjBVcTE5R3BFZWJlVWZIbzZmblZhZmdtOWQ3dXgwWXp6VzVPTFFCVnFjNERKNllQSEhXaXh5UTBldFlseTdfVWJiZ2I0THFQVEE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:28:00 GMT",
-            "timestamp": 1784633280.0,
-            "category": "Business",
-            "city": "Coimbatore"
-        },
-        {
-            "site": "Google News Indore",
-            "title": "TEDx Speaker Akash Joshi Inspires Future Founders at SAGE Startup Spark 2.0 2026 - Business Upturn",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMk1MNDRJb2VXWTYzc3Rnc3J4SHJYWVpRS3dtUVhPTExmc2dnaDRscDZnb0RjQmNnLXV0ZEdzQXZMWjlqN0dRZWFueUlxdnd3VjBnN1F6eEhORzVJWDQxbTI2ODdYZHNTbldOcGtnbzBxb0xvbXFxa3gxMEUtQ2VOYm5oUVd4YTJock5TNFVBb201TW9zQzRhand5cFBWWl9CdGlzc1pBYkFxMzlGd2szdkYtM1B4VkxIdjRj?oc=5",
-            "published": "Tue, 21 Jul 2026 11:26:17 GMT",
-            "timestamp": 1784633177.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Dedicated prison intelligence units established for jail security - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeExhdlB6ell1eEFuVTdGYVF2QkFHU0lVTHhBdUhPU3E5U3pGTmFySXVQZUlBNDUwVGo1RmlHZ01CMjdQOGdIS0t0WXlPOVZYMGM5cHZoNnJFd090cHo4YmJSOWpfaDMwSHZzMk9UUlVmOHBpNWhjYUFjUGh3dVM0VlhsVWZmYjU0ckNWWUNfNk0yUTJuWHB4YklrSVhSWGJoWUJBRE11SUVHYldwV2N1WlJGVDljOUZjVU84bXk4UEZheldkS1l2LVFEUFY4OEM4SWFSd0RQamdaNFlUZDgxWGJR0gHiAUFVX3lxTE94TGF2UHp6WXV4QW5VN0ZhUXZCQUdTSVVMeEF1SE9TcTlTekZOYXJJdVBlSUE0NTBUajVGaUdnTUIyN1A4Z0hLS3RZeU85VlgwYzlwdmg2ckV3T3RwejhiYlI5al9oMzBIdnMyT1RSVWY4cGk1aGNhQWNQaHd1UzRWWGxVZmZiNTRyQ1ZZQ182TTJRMm5YcHhiSWtJWFJYYmhZQkFETXVJRUdiV3BXY3VaUkZUOWM5RmNVTzhteThQRmF6V2RLWXYtUURQVjg4QzhJYVJ3RFBqZ1o0WVRkODFYYlE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:26:00 GMT",
-            "timestamp": 1784633160.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "AI is changing how we test software. Are you keeping up?",
-            "link": "https://www.expresscomputer.in/guest-blogs/ai-is-changing-how-we-test-software-are-you-keeping-up/136931/",
-            "published": "Tue, 21 Jul 2026 11:22:54 +0000",
-            "timestamp": 1784632974.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "[15] The Unicorn Plate --- Rt 00-46 24 July 2026 - Telegraph India",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkc5NjJlb3RMN3pSQktZR1RYVk81dENWbWVtR3hPdUs1ZXhuUmYyZE9kck9za0lCcGxRTjFmQmUzV0xmTEFfMEpUR1BSa1oyWE04eFB1LThERHB5MFgtMVBxLUFEWlpScGdDak1qVUZSVk04bFk3T0JpY2ZQZXdDQnZLRXhyYnFZc2E3VVdxZnBSR1QzWjdaXzZwZEduSHk3dWhBQjJoNzRuT0dwVER2TA?oc=5",
-            "published": "Tue, 21 Jul 2026 11:22:46 GMT",
-            "timestamp": 1784632966.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "30 Sundays raises Rs 61 crore in funding to expand AI-powered holiday planning - Indian Startup News",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnh4bWo2dnpZSlFrOEV2cG5JZlN0dEtlM0YtVWtFb1pIQmN5QUh4c3ctU19yZ3h1eVdNMUtfWEVNWWNVSjc4dnI0dElzQ05adGktZjFJVHhGbVNhTDBIVjBvM2VCREd3bHJycmFVOTJ3YWtYU21scFJtNGNhSXVwQ0gyaW5WNElidS1xaWNsb0dQNW8yeGxTYkZlSDZlaTRsSEZqcC1OcjFOVWZfMGRSdVZtUW9XTGpBOENxWjY4M0M0WmvSAcMBQVVfeXFMTk54eG1qNnZ6WUpRazhFdnBuSWZTdHRLZTNGLVVrRW9aSEJjeUFIeHN3LVNfcmd4dXlXTTFLX1hFTVljVUo3OHZyNHRJc0NOWnRpLWYxSVR4Rm1TYUwwSFYwbzNlQkRHd2xycnJhVTkyd2FrWFNtbHBSbTRjYUl1cENIMmluVjRJYnUtcWljbG9HUDVvMnhsU2JGZUg2ZWk0bEhGanAtTnIxTlVmXzBkUnVWbVFvV0xqQThDcVo2ODNDNFpr?oc=5",
-            "published": "Tue, 21 Jul 2026 11:20:27 GMT",
-            "timestamp": 1784632827.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "ED conducts searches at 8 locations in Bengaluru over alleged ISIS funding case - News9live",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFsTXVDQURaam5Jc1BuWm41cExvQnR3d2NUWm94dWF1MnBQeWZMaUhqYUVWZmxNVXJIYmFsSWk2cHJUQ0xTbk55dkdmQ3N6TkJqVXpIUFZUUUlrMTBwUnBna25EbHBvYTlST0V2V1VuQUhKQzZGYy01OURpZmdsWHVDOHdKZXl1T01WemExb292QjhGZGVEUjdzMWlBRWR3Y1gxZTFjUFExRzlNZDVDcUhNZmEzdFYzVVJr0gHAAUFVX3lxTE1JbTVOVFQyS0xFTk9DWGROLVd5YjNySHBsT3J5aEJYOVlNQVhYeDZnWWdyOVR6bktwNkdCQVJvZUlRZUhuNmhoSkFFNkktUW9RTUZtRVcyeU9PVWRONnc0OUh5VUpWY3BhOGFob1NaR1FDeG5hOG54akVPZWdtOFI3bXZTTWdTc1o5dk84T05mbTk4aC1zTWJPNjRBYjBTVDhmNENyczlHY25fTjVBcXRrY3dEXzhpTWJlOWlPVS1iZA?oc=5",
-            "published": "Tue, 21 Jul 2026 11:12:19 GMT",
-            "timestamp": 1784632339.0,
-            "category": "Funding",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Thiruvananthapuram",
-            "title": "Shaping tomorrow\u2019s innovators: A conversation about the future of work and education - The Eastern Herald",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYnhKWTNhUFVRajJNZkdmZ3RHMTBiVmpnU1lUbHZqSzQ1NWVfYjVHaDY4UzRlQTI0cVVHUWpMeDJoTWNHRDdZUmpBNXozbGsyblQ3MlBCVEVNb0VmVHZzVlNBTGFwc2FCcVYzTVp2V0RaU21xUWw5VVBIRU5acWhBNnQ1cTZZd0Zla2xRZm41T1FOSE1EbVZlOEdZUFJMWnJDWnFVZEpDWFo4a19wX3UwcUoyMXBBWW5za1c5NQ?oc=5",
-            "published": "Tue, 21 Jul 2026 11:12:08 GMT",
-            "timestamp": 1784632328.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Indore",
-            "title": "TEDx Speaker Akash Joshi Inspires Future Founders at SAGE Startup Spark 2.0 2026 - The Eastern Herald",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWpMcXFMTzJReE1iNTN2RGQwSzIzcERpZ2JMb2RQb0U4cVpLUWprM3ZvUVlUMVVqM2RlZm40b3dwMGtPbXRqY0huYVRMR0ZJT293aGJkX29KR1BjMENlNjdFOGxwSWtxdG9mWGp2amNLZUtSNzR0dGNlak9YalZHcmNHTFFSWTRoZUxCeUJyR0tPQmk4Q3BvcmZSM0FLcTR0NGZ4MldTMl9sMGxVSk91U1drZHhmdXpKakE?oc=5",
-            "published": "Tue, 21 Jul 2026 11:12:07 GMT",
-            "timestamp": 1784632327.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Inc42",
-            "title": "IndiaMART Q1: Profit Rises 12% YoY To \u20b9172 Cr, Plans Lending Foray",
-            "link": "https://inc42.com/buzz/indiamart-q1-profit-rises-12-yoy-to-%e2%82%b9172-cr-plans-lending-foray/",
-            "published": "Tue, 21 Jul 2026 11:10:29 +0000",
-            "timestamp": 1784632229.0,
-            "category": "Business",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Indore",
-            "title": "TEDx Speaker Akash Joshi Inspires Future Founders at SAGE Startup Spark 2.0 2026 - businessnewsthisweek.com",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpiMVpiNXNFOWxZVFRhSHlDY3hsSzY0Q2gyTmRxY2NKQjZFbjJIdmMxUFFsMnpteVNuSk1KdkJBSUY1UmFJNmE1VEpvTGZqTjBSVk9WQll6TjNMNW1VeXpZTVpHSl80bVUtcUxvSGVPWklYdk5veWNKUFdLUXUxR213UlQzd05NUDJEZmtyZVdHNWNwZm53UFZvbExjMTR2b1JtTTZXREdzSWMzT0l1MG1fVWtITWFNXzNvbUtRRnA?oc=5",
-            "published": "Tue, 21 Jul 2026 11:08:47 GMT",
-            "timestamp": 1784632127.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Temple theft racket busted, 3 arrested - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU2pDZzhfS2w2Y3hpRnFkRTVrLThySDk4TG5lX0locF9Hb3NJR3RaZld0V3I3eVBwS0h4VjFOaHA0MTZmbWFXZmJ0VW0tSXJxWkpENWtJdmZSQlpmTlFFUVBfbUVVSUxydXBob1RwRFFfMmMyVTJqZ01SQS03U3poSkdsWkdPamRDWXJTSXNtVnQyUWRuZ1UtT1M4eHctVUYtWGdmaVh0MERWekZnb2ZHRmVfamdEb3djYXJEcNIBvAFBVV95cUxQU2pDZzhfS2w2Y3hpRnFkRTVrLThySDk4TG5lX0locF9Hb3NJR3RaZld0V3I3eVBwS0h4VjFOaHA0MTZmbWFXZmJ0VW0tSXJxWkpENWtJdmZSQlpmTlFFUVBfbUVVSUxydXBob1RwRFFfMmMyVTJqZ01SQS03U3poSkdsWkdPamRDWXJTSXNtVnQyUWRuZ1UtT1M4eHctVUYtWGdmaVh0MERWekZnb2ZHRmVfamdEb3djYXJEcA?oc=5",
-            "published": "Tue, 21 Jul 2026 11:05:00 GMT",
-            "timestamp": 1784631900.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Cops from eastern states unite against organised crime, LWE resurgence - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaTA3ZFNnWGxRWjVyQV9ZYU5vREJwWkhEcDRGUU9qZ09HRkRnRkMyQUdRREVfcjZCbXgyNXRlcGd4QzAySUlIUTlsRjZUSUcySEpOWk1EalZFZTQ0cXU4Wm5YZzZzUk1uRjhyQlFyNEh5Qllyb0RKNXV1Y0xqbmc5T3JacGlMbE0yYllndEFNSnp2V2MxNmNfNEVvSkdaeUh4dUNiS2VPV1k4cThNTnVUTEdVbXQ2ZUROMzZfLV9raUhieUdoTEU1NW8wNjJWWF84Y1J1ay11MXdqMHRVY2JGekhSRzhTTWPSAecBQVVfeXFMUGkwN2RTZ1hsUVo1ckFfWWFOb0RCcFpIRHA0RlFPamdPR0ZEZ0ZDMkFHUURFX3I2Qm14MjV0ZXBneEMwMklJSFE5bEY2VElHMkhKTlpNRGpWRWU0NHF1OFpuWGc2c1JNbkY4ckJRcjRIeUJZcm9ESjV1dWNMam5nOU9yWnBpTGxNMmJZZ3RBTUp6dldjMTZjXzRFb0pHWnlIeHVDYktlT1dZOHE4TU51VExHVW10NmVETjM2Xy1fa2lIYnlHaExFNTVvMDYyVlhfOGNSdWstdTF3ajB0VWNiRnpIUkc4U01j?oc=5",
-            "published": "Tue, 21 Jul 2026 11:04:00 GMT",
-            "timestamp": 1784631840.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "Co-Founder Eshita Kalidindi: Bringing Harvard Research on Child Development to Hyderabad Classrooms - TheWire.in",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjU0Y1BqTDBZQ3k2andyV1AzRjhJc2NVNkViZ2JqeUJlV3R2dmJ2U3hNeUE4Tk9BelBUaTFVNnpPdzhXZWVpdEdMRVpWc2ZmNU9jVTFWUDRrR0ZqWlFjNW8yQlVKTl9pUnBqYVVsY19jLVJxdmh6MGx2Z1pWTDhSUVllb2ZpbzFLVFdoV0txVmVPOUxxcS10U1VMS1RnMHBvNm5XejhHcXd6RENqbk0ya0pfMS1WRkYxbXJySGM1cnJwWDgtSXcwWnpOWlJYeXBGUjBj0gHYAUFVX3lxTE9DcHZQMWdBMnBnMGJtSmNyY21yc2REeWNpeUJWRFctMHlMdXdQSFBfeEE1V19TcHNvbVh1dUQ1TmJtTHNlQTByTUFlUDlpT0VhQ3dMdE90R0E3OUdnUjJvTFhwZEhta0FORk9qVjdjbjdxZUpmUzNfSEpDMEMyRVlaT1cwbGJtcENNSllpc3h2SHIteHl2el9SVTdsdXpJcmFqaHZuZXZ2REExT1k1ejNiYTdQQmR4WEtvSDB5RVQtUmpLaUE4cDRWOEFWU09DS1RPeUNBcThkaw?oc=5",
-            "published": "Tue, 21 Jul 2026 11:03:47 GMT",
-            "timestamp": 1784631827.0,
-            "category": "Startup",
-            "city": "Hyderabad"
-        },
-        {
-            "site": "Google News Coimbatore",
-            "title": "Choose from zucca velluto that brings together honey-roasted pumpkin sauce, ricotta, mozarella, basil and jalapenos or a hearty tartufo packed with button mushrooms, truffle oil and more as Coimbatore\u2019s Trevizo truns one - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTlh3NmEwaFNBaHJWOTJnVDRPUlhPM1lrYjM0YnZsVjRtdGRjOFUwWVhtUG9sRmJ2aUM5VDVVaUhheUVLZnZDbGNucVBpSUZpVHlYb2lDNFVTdE9XLVNVb000OGI0MF81eG9LX2JlenhlNi1MM0lTYnJUMEw3UTJEVVdPWFNRb0paSWVlWDNuTFNvSG4zQ2ZOT0VJWnBoTDBtM3NLYVhLeHpicTBoc3NyODVRYWhQa1Y0VmNFdjhFVXlTa08wSzQwc2dpdlhPM054X214cVdZZUM?oc=5",
-            "published": "Tue, 21 Jul 2026 11:01:56 GMT",
-            "timestamp": 1784631716.0,
-            "category": "Business",
-            "city": "Coimbatore"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "Music UnLtd. on staying original in the age of algorithms - Indulge Express",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLVBfX1NrOTBQX0EwOW92MzhnZnJnWmtOazRLMmJZV2FOcGNYMmQ4cV95RUZDRWhrV05MNFJ5ZFZpY3Q2dW9nVWpkVmh3eTZfRzRtaUlEdkdVV0tlQldmejVld2F1aXI0TGJMTHNHVGZEdEtNWUdiaWJRZHdOcUhJZ3J0WWw1ZGpwNjJlUHc2M0dLUjZ1ZGtDams0UWF6a0txNWFxRmdOQ182c2xieDR1enBFaTIzZFpyVUNaVGRQNNIBvwFBVV95cUxOLVBfX1NrOTBQX0EwOW92MzhnZnJnWmtOazRLMmJZV2FOcGNYMmQ4cV95RUZDRWhrV05MNFJ5ZFZpY3Q2dW9nVWpkVmh3eTZfRzRtaUlEdkdVV0tlQldmejVld2F1aXI0TGJMTHNHVGZEdEtNWUdiaWJRZHdOcUhJZ3J0WWw1ZGpwNjJlUHc2M0dLUjZ1ZGtDams0UWF6a0txNWFxRmdOQ182c2xieDR1enBFaTIzZFpyVUNaVGRQNA?oc=5",
-            "published": "Tue, 21 Jul 2026 11:01:00 GMT",
-            "timestamp": 1784631660.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "CIO India",
-            "title": "Asymmetric warfare in financial services: AI-powered fraud demands unified command",
-            "link": "https://www.cio.com/article/4198894/asymmetric-warfare-in-financial-services-ai-powered-fraud-demands-unified-command.html",
-            "published": "Tue, 21 Jul 2026 11:00:00 +0000",
-            "timestamp": 1784631600.0,
-            "category": "Funding",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "\u2018Every movement produces political leaders\u2019: Nishikant Dubey\u2019s big prediction on CJP founder Abhijeet Dip - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORzNUT0h2OThTYVFmY3pic3FOQXpwSjh6ZU5uam03N0lwVF94MjUwSFhYdHpXdXhsVlcwcjJ3d2pRMENCVkVBcUlieW9KeGJRZzlFM0JpN1lhSklnc1ViejRucXJOTmdkTEh6X3lGMjFRem1DaGxwMU5tOXVxdkF1dS16S1BYV0JMY3BJNndKallVOUYtaVBlYXIyR3lOVHlzMjFWc3hGWHBuZjRGcGh1bFlSakNqM195enlydng1MEdlSXFZV2NVRDd6VGM1MkdBWmNTckVVWHQ5ZWJLblAteUhMb3I1d2ZScng4cEFDZVd4NnJWVjBOdXdTR3ZLRXg1U2sydU5DMNIBjAJBVV95cUxPR3ZRVXMzOVVPbXZURFZnMUFUTUxXZ0xONkxMbDI3TE5QWHJCUnNwZ2hnRUh4NVF5Z3p3QXZrR01rZEh3c19waEh4eUZqbVFrYWFpU292MDlKejZQMTYyRkgxNHBtcXdkVE9od2RLNUlJWmYwUUY0ekxoYVMwenhVSDc3cGFLY01mRU5oV0dLOHkxaWxua0wzelZRN284czVBTktmY21QTXFVdlRwZFg1NEZXemg5aFFoZDRIaEhqVHBmSGZjQVZjRlZfbGFfVEFxSXF5RlhsRF9RMzE5WVdidmRlRXEtV2lkdTJURExOamVrWlJJU2Fidzl2NjdOcFhyRzR6WFczMkkyUGF2?oc=5",
-            "published": "Tue, 21 Jul 2026 10:39:00 GMT",
-            "timestamp": 1784630340.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Coimbatore",
-            "title": "Take up responsibilities with dedication -Brand Monk Group Founder & Chairperson, YI- YUVA Coimbatore to NGP students - The Covai Mail",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS2VBaEdXbk9JOTlQcHdDTGlTS0Z2YTVPUWJ4OVF6dVR4cnNwTnZWb3F5VkZCUFZ3cUNVdHM2QVVhLU9mVi1TenRrSExaYnZabk5SWHpUUWpsZTZqWl9MWWZSWENZYjBTSUhSdXhYelc5Q29UMFFyYm9kU3hONGtKOWVtZGgyRk5SRWtKVVdtcXNoUWtiY1h1N1czVjdtY25wZ3ZiTnFzMC1Mc2xaYXpjSG5vaUs2NXhoUU9EV2NYd1dvVFBnZlJFVUNfUmRiN0o4?oc=5",
-            "published": "Tue, 21 Jul 2026 10:33:35 GMT",
-            "timestamp": 1784630015.0,
-            "category": "Startup",
-            "city": "Coimbatore"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "CJP founder Dipke begins indefinite fast; outfit vows to go ahead with Parliament march - MSN",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYzJmanVUUlo2cmRnczBaOWJLUEY1SW1GbGR0SGlXUUU1S3NQaE4zZ1ByZkpmYzMwVXNLR0hkUmdqN0hzWHdkNDJKVHp5T20xU2JxVWNsdVhpWkt3OVNTeFBLcnJ1Q1ptbzJRYU1NaW4ySTFENlY2dmU2Y2cyYzNHd0R1aC1TaXBMN3MtWGRxbmFaSVRCTEJISUpZemJaMkRwcno1SUpEcUU1QWJNeEI4T2Jabl9tbVpVOXQyMXkxNTB0eU5ad2hmbng0dlBoNHJ3?oc=5",
-            "published": "Tue, 21 Jul 2026 10:32:44 GMT",
-            "timestamp": 1784629964.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "Former CRED Analyst Ansh Agrawal's Startup Hits \u20b91 Cr Revenue - Whalesbook",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkE1Wk1iNEV1Y2dmRVpJR2VLNzQ1UDVjclZnUGFtcXhFel9iU3hYdm5hYUNxS29DdTdQRzl6bFVpRVJtRTBuNlpxX2M0dzZfTFRPdGgydEFrQ05LYTdxWUpZWGJiVWFJanZpVTRlRHJmelBoaEVycnIzd29hQ1BkN0cwQ0ZFX1JXcURMdmNMMTN5NUNzYVZZMkVlV29VZlQ2eUV3RU90OEdPVnNaN3VYVnJ2UlA1T1ZLWjN3V19RU25pRnNldDhDcEp1WTh4QkpkNnZJc1p3VEhtLUFiT3I5NA?oc=5",
-            "published": "Tue, 21 Jul 2026 10:30:53 GMT",
-            "timestamp": 1784629853.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Why the real bottleneck in Indian lending isn\u2019t the model but the weeks it takes to change a rule",
-            "link": "https://www.expresscomputer.in/guest-blogs/why-the-real-bottleneck-in-indian-lending-isnt-the-model-but-the-weeks-it-takes-to-change-a-rule/136925/",
-            "published": "Tue, 21 Jul 2026 10:30:40 +0000",
-            "timestamp": 1784629840.0,
-            "category": "Startup",
-            "city": "Coimbatore"
-        },
-        {
-            "site": "Google News Indore",
-            "title": "Retail India News: Kimirica Opens Sixth Retail Store at Indore Airport - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdklITk04VmJEZ3RDdGNMU0xCcmJXZUNyT2xhSU1aNjFqQVllWmZ6MVlYdGJpX1YyQW1ESEJDQnFON01WeHd6NXBBNm5MZlg1VzNrLU52SlJZQVlRRVk5VnA3N21RWXl0VGNQVWtqOU9Id1BQeU5RR1l5c3J5NjNoTG5XRUpVSUNtUzNKZFRLWTFRcDlJREtDYVBjVFZIVk1EVzFyQw?oc=5",
-            "published": "Tue, 21 Jul 2026 10:30:37 GMT",
-            "timestamp": 1784629837.0,
-            "category": "Business",
-            "city": "Indore"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Reise Bets Big on Adventure Touring with the New Traverse All-Terrain Suit - Pune Mirror",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMENOeHRsTWhFNXZUVEsxZVRLNU8zVDZvaEQ2YVVaWEFYYkR6cWp5Z2lFaE11N1gxX3RPUDVYMDFCY3B3SEJvVkJVdVJEMFRtRGRXZXVRTnBfTGFXZ2tacDl0SzItRnVSV1pCRVlEM3FHNmFYZmdmRGxLYnJ4Y2RzSEtuSExIY3k5b1V5QTRzOWNJV1UwVDIyd3B0NzV4RDJFX2NqR0p2ZHJfcXo3RWtoNQ?oc=5",
-            "published": "Tue, 21 Jul 2026 10:30:00 GMT",
-            "timestamp": 1784629800.0,
-            "category": "Business",
-            "city": "Pune"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Why AI should be embedded in India\u2019s national cyber defence strategy",
-            "link": "https://www.expresscomputer.in/guest-blogs/why-ai-should-be-embedded-in-indias-national-cyber-defence-strategy/136923/",
-            "published": "Tue, 21 Jul 2026 10:26:08 +0000",
-            "timestamp": 1784629568.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "Delhi techie quit Rs 20 LPA CRED job in 2024 to launch startup, now earns over Rs 1 crore pa - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZDktb0tsampzNVYzWFU5UkFrWHA4UjRzMHR6LURBSmwxdGhZcmgza0Q2S3Z6SGh2NWpQWVMwZi10NTJhR2tRNmlZcXUwd2dwUE1RUG9wVmU4bXJFRlUxNm16V1NPbTlFSG9FRVF4TFBJUkVacDZrMzU1OWVFYXpKMEFUYXJfTE9OSWZIOEFVNGdpT1AxLVh2WUtzQ1NLYURRM3NCX0Rfcklod2o0RmhoeDlVTFNCZndsdDlRU01GRzY1LWdZeUoySGJUSDBzSmJNSzM1T0Y3VzZ2QU5FUmhN0gHkAUFVX3lxTFBQcEZxRjlVbS1KM3JmVzJGQUVXZGpQTS1NV2JMdUJOQk43b0M0UmpuQ3BmbDA2YVRlUC1qT3FmVXFIYkNMdmFFeVRVOTVheVlwSkh6RHRJZGQyTXk0THNQbFRNQnBGRGNQT2VPbHhndERyWGlhSDJkTkoxWWFETjRkZmpDYTN4M1o1dTQ0UjVzdmJHN3ZTUU1iNXJiMTJHaTNtaU5MaHQtYkkwTS12aXFXa2Y3RUJNR2hOdjIzenRPMi05MFZaYkxqX0lFT0ZRSE9oOU9zNEpZYXZ2T0xNOWpOVGRNaQ?oc=5",
-            "published": "Tue, 21 Jul 2026 10:23:31 GMT",
-            "timestamp": 1784629411.0,
-            "category": "Startup",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "CJP vows to protest until education minister resigns - The New Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0JYaVFjZmladWZsWFdtaDlqRktLelRkWEdOUGJTamk0U3BiWUlBbEhCVV9FN0Y5YUJoQ09ueVl3MDdBQmpFX1VGajRXdGgyNkVpVjBJMG5fUGl1bXBmTHEtLXVDYTVqYXIxSlVFbl94STZpNlFyLWRHN0RZd1g0ZXRzSXg0MDVWY2hzRTE4bHNGWWZVOHFlN25pMnJ6NE5weWtmUVVlT2JEOEc5MUxsR2tJNNIBswFBVV95cUxQQ0JYaVFjZmladWZsWFdtaDlqRktLelRkWEdOUGJTamk0U3BiWUlBbEhCVV9FN0Y5YUJoQ09ueVl3MDdBQmpFX1VGajRXdGgyNkVpVjBJMG5fUGl1bXBmTHEtLXVDYTVqYXIxSlVFbl94STZpNlFyLWRHN0RZd1g0ZXRzSXg0MDVWY2hzRTE4bHNGWWZVOHFlN25pMnJ6NE5weWtmUVVlT2JEOEc5MUxsR2tJNA?oc=5",
-            "published": "Tue, 21 Jul 2026 10:23:00 GMT",
-            "timestamp": 1784629380.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "The next phase of AI adoption: Prediction, optimisation, and decision-making",
-            "link": "https://www.expresscomputer.in/guest-blogs/the-next-phase-of-ai-adoption-prediction-optimisation-and-decision-making/136921/",
-            "published": "Tue, 21 Jul 2026 10:19:36 +0000",
-            "timestamp": 1784629176.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Ahmedabad",
-            "title": "Berry Brothers Launches Seventh Company-Owned Store, Enters Phoenix Group Mall - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGhiS05qX1BUdEIyZk5sY3NZaFE2bU1fTUp4VjQ1VGF6UWJ6MC1CNU53RURyc2JMT2Zqbzd2T1dSLTFrSTF0cUt0TmV6aVJpbjVKY3pnUV9wMVdRbGxpNU9GajUyemNBdWhVNnU1SUJpSnpoZzM2aUxfZmREazBQdDFodGdxaUJHZjBGWDgxeC00LUJsemthc3JlZUF5aXRwZnl4SmljT3hNYTZkQTV0VzMySmJHYW41cllfRWk5QzZFbngyaTF0NV9HRFJyRFE?oc=5",
-            "published": "Tue, 21 Jul 2026 10:19:09 GMT",
-            "timestamp": 1784629149.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Deloitte India launches RACE, an agentic AI-powered configuration engine for SAP S/4HANA Public Cloud",
-            "link": "https://www.expresscomputer.in/news/deloitte-india-launches-race-an-agentic-ai-powered-configuration-engine-for-sap-s-4hana-public-cloud/136918/",
-            "published": "Tue, 21 Jul 2026 10:13:13 +0000",
-            "timestamp": 1784628793.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Odisha Startup FxUAV Shaping India\u2019s Self-Reliant Drone Communication Future - OdishaPlus",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEtldDhWMm9kZVBObmNRanNoSzM5VmxCTjJVM0Fnb1hUWUtVYVZCQ09nZjlQaVVvclJSMHlIR05MN2dHTHpPakxNSW80STBBTFlQWnNDZEVwU1lwX1BwWjBVaFdaUkEzZWlWMEtTczdjUlAtWlBhZ1FFdGR4U3hnMldHM2F3YW8?oc=5",
-            "published": "Tue, 21 Jul 2026 10:11:18 GMT",
-            "timestamp": 1784628678.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Ahmedabad",
-            "title": "T. Denny Sanford, Founder of First Premier Bank, Dies at 90 - Whalesbook",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM1AtNnhLSXU0a3Z0VDRKWDhkb1h2Mjd4czQydmlFeXNheU9NQ0dVWFREemdocDZfdkxnamNpbkNVSkJVWDJOWVhlSDFqb01CcElEOVEwX1laVkdEdkZsRXJjS0k3dWxKbWpQWHdma2x2ZlRfN3Fra2N5c0RMNjVSbVRrOThMWlNRRXFFRkU1LWY5V3g2T3RSNFhpLXBNaUhYbGM2d3hya3MxM0FjeVFVX2Q3OU1halNhSFI0Tzg0RjNxS3BOU1E?oc=5",
-            "published": "Tue, 21 Jul 2026 10:10:54 GMT",
-            "timestamp": 1784628654.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "30 Sundays raises Rs 61 crore in funding to expand AI-powered holiday planning - Indian Startup News",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2VDOS00MllsN2MzMDBOcWpYOHNpZGY0NTAtZ2JKZENJWWttQUxoUDNFODBfdVlZMkJhZzZ4QzFKT3dOek1vUFRvTnc5MldIUkdBU2Y0SExsMTZfRTFIRGZ0YWJ3YmowYzAxZzVIZVA4MXVYT2hxMnA4WjVJU0JqVmdyRzhQZE1aZm9SRENuRUVaTnB5dzhBU0lyOWd4cmdFZUxYVGFfcXVqOUxTS2syeTI1WmxiY0lNWHBMeFdUMEhCZTjSAcMBQVVfeXFMTXdlQzktNDJZbDdjMzAwTnFqWDhzaWRmNDUwLWdiSmRDSVlrbUFMaFAzRTgwX3VZWTJCYWc2eEMxSk93TnpNb1BUb053OTJXSFJHQVNmNEhMbDE2X0UxSERmdGFid2JqMGMwMWc1SGVQODF1WE9ocTJwOFo1SVNCalZnckc4UGRNWmZvUkRDbkVFWk5weXc4QVNJcjlneHJnRWVMWFRhX3F1ajlMU0trMnkyNVpsYmNJTVhwTHhXVDBIQmU4?oc=5",
-            "published": "Tue, 21 Jul 2026 10:10:27 GMT",
-            "timestamp": 1784628627.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "Fairdeal.Market Raises $15 Million in Series A Round Led by BII to Accelerate Expansion - ascendants.in",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PWU9laHFRVE91VWZEb3o4Sm5wRFhGMDNHb0tfTXRfT0VIR0VaUTBER1RoRHVPVjJaTVhUSmczOFo1RmZKUkg3MXFpUEZ5RFk2Y2hpdnNpN2FwNFhkdmxJY3czaVJTdlpVVDh4Z1gwaGVEb3N6UF9yRw?oc=5",
-            "published": "Tue, 21 Jul 2026 10:09:48 GMT",
-            "timestamp": 1784628588.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "IIT Madras startup unveils India\u2019s first flying taxi. But it\u2019s not for office goers - ThePrint",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1BwZ0hNSVhFYld4UXZfVkZLYnFnZmxWSUx1ZlVXTVhKSUZ2dzlEYWZ2bV8xRmQxRDdubzlBZEF4MHdiWC1BUGVaZmIzWUFQU1ZvS2k4UVMxb3l3d19KMUliWUtVRHNXcEUxbU9jRWI2dFVJV0hLcEgtZFE3ZGRiX0NENnN2aEJ5alNVVTR1WkVFS0tINms2M1Y5Z1dOZG1OWjJsaXBGcEJoZ01sbUVINlZJYVRla1dxdWd6dGhn0gG-AUFVX3lxTE5zUHBnSE1JWEViV3hRdl9WRkticWdmbFZJTHVmVVdNWEpJRnZ3OURhZnZtXzFGZDFEN25vOUFkQXgwd2JYLUFQZVpmYjNZQVBTVm9LaThRUzFveXd3X0oxSWJZS1VEc1dwRTFtT2NFYjZ0VUlXSEtwSC1kUTdkZGJfQ0Q2c3ZoQnlqU1VVNHVaRUVLS0g2azYzVjlnV05kbU5aMmxpcEZwQmhnTWxtRUg2VklhVGVrV3F1Z3p0aGc?oc=5",
-            "published": "Tue, 21 Jul 2026 10:07:34 GMT",
-            "timestamp": 1784628454.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "IIT Madras startup unveils India\u2019s first flying taxi. But it\u2019s not for office goers - ThePrint",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1lLbmQ2UlNySmVaUkZJQ1JwYTRUc2gtMERZaUZjallSWmpDUWpab25NSkxwbnlhU04zek5kekFPN0sybThvbmR4LS1VeDBEa2pDSFVwTFFHSVNkVENwZHVDZGl2QkhWSUp6b2Y1SnQ0Ukp0V0d6MXA1REYyWHVobDFDRmxUVEg2czJZQkZKZnRwSkdUcXd0dmxmRHVrYThCejhNcXBTb244bVVtOG11NXZyWm4zd2g20gG-AUFVX3lxTE5zUHBnSE1JWEViV3hRdl9WRkticWdmbFZJTHVmVVdNWEpJRnZ3OURhZnZtXzFGZDFEN25vOUFkQXgwd2JYLUFQZVpmYjNZQVBTVm9LaThRUzFveXd3X0oxSWJZS1VEc1dwRTFtT2NFYjZ0VUlXSEtwSC1kUTdkZGJfQ0Q2c3ZoQnlqU1VVNHVaRUVLS0g2azYzVjlnV05kbU5aMmxpcEZwQmhnTWxtRUg2VklhVGVrV3F1Z3p0aGc?oc=5",
-            "published": "Tue, 21 Jul 2026 10:07:34 GMT",
-            "timestamp": 1784628454.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "CIO India",
-            "title": "IT leaders confident but cooked when it comes to rogue AI agents",
-            "link": "https://www.cio.com/article/4198035/it-leaders-confident-but-cooked-when-it-comes-to-rogue-ai-agents.html",
-            "published": "Tue, 21 Jul 2026 10:01:00 +0000",
-            "timestamp": 1784628060.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "CIO India",
-            "title": "Small models, sovereign advantage: Why Australia should build its own AI edge",
-            "link": "https://www.cio.com/article/4198883/small-models-sovereign-advantage-why-australia-should-build-its-own-ai-edge.html",
-            "published": "Tue, 21 Jul 2026 10:00:00 +0000",
-            "timestamp": 1784628000.0,
-            "category": "Funding",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Kochi",
-            "title": "GOP seeks to avoid, for once, the shutdown trap - The Hill",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdm10c3N2VnZzTHpNX0hZamNHZlNTS2RUMXIzTG9rMVBNU2ZGdFhpU1VOUDNXYUVzUmczS3M0dUw4UlBRWWV0OG1mamU3OHhER0QzSkVjV2EwTzAtY296VF9tY2tpVmZGZktyR1pmbVctekxveDZvMGF0RE5iM0NjdU1ON29xWm9SNC1VSEp30gGTAUFVX3lxTE52SXlzaDBTd0pBbnFqWlNqdi02NE92X0Rza0lpc3hZVExCVmdldXAxYkxRdGk1RUlsWGF6ZElucXRVcmcyTHM1N3RMX2NqdTM0QlVGMklBNDNDaEs3WWYxZnpuUHJHblhTRmZNdEtnOVdmaC1ndTNmWkJvOFl2YndmWWkxYThXRldjcVpCUUFJLUZFaw?oc=5",
-            "published": "Tue, 21 Jul 2026 10:00:00 GMT",
-            "timestamp": 1784628000.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "Chennai startup unveils its 1st electric plane prototype - varindia.com",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdURNRElneF9XZnBsXy16Y3otcnFpYkljUG0tSnd5T2F1a0ZRMkJBOUtYdFhVbldqQ29XZkxMNlU0c2phWEhncFc5M0xORmNySHhRSUpwNDE5ZVhaRmdTd055LU1MZFdac1RqTm0zTFlKd3JxSEZIVWdNR3RqWjBTS1VKQl9BOGVwSzlYa3pWVQ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:59:27 GMT",
-            "timestamp": 1784627967.0,
-            "category": "Startup",
-            "city": "Chennai"
-        },
-        {
-            "site": "Google News Chandigarh",
-            "title": "RJ Corp Healthcare launches Cocoon Hospital in Chandigarh for maternal and child care - expresshealthcare.in",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1h3dzdKenVzXzE5RW1xZFk1aDNWUlZwYUd4ZndDbjNrbGpCWHo4SUhuY0RlN1NKVjJFeVBZMndDMF91ZFFGbmFBOFdNMEZYNkdSTDJpdVlZdmwxdDQxVUlNSWYwT2VpYnZaR2d0QmwyX0pMS0wyQjUtZ0dpQXEwdFlGaDllVEp6cEhkZGFGQXZ3LWlUTVJEWTYyLWxzVVlmS0UyN3I2bk13WnFYU3ZGZWYydlpGdmFlVVlzd0ZjRVV4ZjB6cUtndDVId0Vvc3Rq?oc=5",
-            "published": "Tue, 21 Jul 2026 09:59:16 GMT",
-            "timestamp": 1784627956.0,
-            "category": "Business",
-            "city": "Chandigarh"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "NLC India Raises \u20b9150 Crore in Short-Term Funding Through Commercial Papers - PSU Connect",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTlsUmZRYkRLbjhiWU1FSW1ablhVWk4wSWlfRmFwWVVZV2FSTXFlV2trREs0SW53dTc2Z2hnemtKYkZaZlItd0ZUUi1zSjBsNHdRbnF3eUtYaTYtR19NejFNVjVRSzhHaUdzS3VUb0NKSWpsTG1TNjE3WHBNbW5yVmxOZkhPbF9wbkpuVk5PVmpVQXF6VWdLbEcyR01Ea1lMb2tRX0hCd2hmLURrcHc?oc=5",
-            "published": "Tue, 21 Jul 2026 09:56:00 GMT",
-            "timestamp": 1784627760.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "Retired PSU employee faces \u20b92 lakh tax demand over Form 16 omission; ITAT Pune grants relief - livemint.com",
-            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTjZjWl9HaHdhY3ctalB4cWlPbVlzSEVsbVNEcTRxZWo3MF9lNmpXT3p4QU1YRll0NHBlQ3FWY09UX3JsTndHNXlFYjRKUnR5WV9PclpjbVkwSzNkaTBiM25hU2hwZlhhVk44VWJGWnp6Ul91b0h4T21jT3A3Ylg0bzdGSm1SVTVqR2FvUzRlTHpnQkR3YU92SnZVZkFlb2lFVXNxU3ZJZEFHYzN5RnVuWS1JR1B4Q2s3ZDlHRWJnTDBxUm9QUnpJeG9CWjIyWEMxVG1WUnNydDRDWWJjQ0g0d2hTN2Y2R3ZYMXNHSXg1c9IB9AFBVV95cUxNZEhZb0UwY0ExaUpLbEZxR0xTUEVkd2JjbTY4WTFDeVE2R1kzWFhpWXpJNFZRNTJfUHEteHNnZV9ZaDFsMjFlbHQzTUNJV0xMd005dE5lRDNwbDBTckxSTXNORWU1SXVrMnc4OHprQW1RYUtrUjV6TlFvaGtFdGxYMkxZZU1BTXFGcDlYNmZUMWozbVVsMTBUVmx4eWpackJfUDRjM25SUjRSZFBKRjBMdlRkaTdIbU4tN19WMnpUT1cyU0ZjdjNNdmhKdlFTdVpmUVpCSG0tMVQ0bFpkb1lNbXcxYTRRLUVWLWZDaGF2czFIam1C?oc=5",
-            "published": "Tue, 21 Jul 2026 09:55:15 GMT",
-            "timestamp": 1784627715.0,
-            "category": "Business",
-            "city": "Pune"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "Moneyboxx Finance Raises Rs 50 Cr Via NCDs From Capri Global, Total FY27 NCD Funding Reaches Rs 70 Cr - BW Disrupt",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHlJckllZTRudW9nWXhFY2ljUnVLX3FvN1QwbE1EWlBVZUxldTB1X0VmSTl3WVJaLU5KNV9jek9JeE9FUFJjNFZETDdEUTE5OTRvR3BqVEdrYmNNNmkzYjRJRDNRcDgwbUV2RlFaTDdRMXItcmVBVjUyNkVZUTliYnBiSk1LMHVtci14cDJhcnlRTk1ucmJ6bU1iUFg5QTNKYTYwY1pWdzRLdHNhbGVyVXhaQVNZRU9FdVNYbXRZN3kyNS1qV0Nkckc5by1kNHliR0UxNTRCUHI?oc=5",
-            "published": "Tue, 21 Jul 2026 09:53:32 GMT",
-            "timestamp": 1784627612.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Hyderabad",
-            "title": "India Real Estate Deals Hit $2.3B in Q2; Commercial Assets Lead - Whalesbook",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc3RDaU5xN0cxRmNBbWpkRjRwOEVGbU5hcmotWlRDa2RPRXM5TXROSUhRUWQ4OHpUX3oxbjBZY3ZwU0pFdjZ3VkR2TU5PWWVzVzhodm85aXlscjdkRlFyZTRKNy05NGFMVnNURlJEYjd6TFBud1VZcGxyVGZYTjV3d19uMnRmOUVlT3dFRVZmR3JDNjAxbm5pMkFKWGlfLTJJV0lNUjh3Nnp4cl9fY1VIZ0w4NXJicDRGNjZnRHdsOUVYMFRkNE01bGRoaWhaYkFsR05NcUlMZEdpVVk?oc=5",
-            "published": "Tue, 21 Jul 2026 09:52:53 GMT",
-            "timestamp": 1784627573.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Noida",
-            "title": "The Revenue Room \u00d7 SuccessBrew 2026 Unites Founders, Creators and Business Leaders for a High-Impact Entrepreneurship Summit in Noida - The Eastern Herald",
-            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObHhDTWNTMDdPNHd0Z0ZtR2R3LWZBTzVoRVpOUWQyVFRvTUhYdzI1VkRhX0thWTBOVU44bFAyLVZ1X29hempuZUR4M093bXdleWJ3b1VLbnMxM1BLcTh1UWZLT05GdDF3OW5IT1pyMzVZWDFRdkFWLThJajAyZ1RsSHIwb2lWYmp5WWVCd1cxWVBwQjV2UmFGOVcwSUVySEZXNW1yU1J1dWtIN01vNEViSHNRWHh5X2ViV2ZoS0pUeU85aURQMnpLUEdIaGZDNnhhYkd1Qm5iWjRPN0VrbXJCZWZtOEk1NWQ0YWR1WFREalRZZ0tFeEtLUXg5WjN4NEE?oc=5",
-            "published": "Tue, 21 Jul 2026 09:51:51 GMT",
-            "timestamp": 1784627511.0,
-            "category": "Startup",
-            "city": "Noida"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "ED raids 8 Bengaluru locations in ISIS recruitment case - NewsFirst Prime",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEhtckM3b2pITFBuYmZucEpIWHZIbGpIWW5KM0RNbUJuTXBraWxkN0t6bDhOTUJuMWt1bkEwTW5ZLVIwTkJBSzc1d2VQSnRRVnc3azB3b3JCZnhEbWxNZ0RUZWh2bU54TVBIVDRValhsOWgxM3N1NmJmSEQzSGY0SUhfakgxMTRxNnBabnBkT1FEXzJZTzc2T1M5X1Q5UFlfU0tZ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:49:10 GMT",
-            "timestamp": 1784627350.0,
-            "category": "Recruitment",
-            "city": "Bengaluru"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "FireAI raises Rs 2.5 Cr from SucSEED Indovation Fund - Entrackr",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1hVazRla0lfZ0dlX1hLMkFMenVpRkhiWEpHbjgwS1FNb2ZReXlXelFwZDNvRFdrZnc2Z184MWhNNHNmWVd0ZDRVMjFqQTVwb3JpcXo5Y2RSb0NZYWhhd3VuendlRV9QR2tab25lZEwxQUloeUJ0OHkyXy1qRU5LRjBWV0xoSkZHX0xiNVB5dTdRS2ND0gGUAUFVX3lxTFBvWFVrNGVrSV9nR2VfWEsyQUx6dWlGSGJYSkduODBLUU1vZlF5eVd6UXBkM29EV2tmdzZnXzgxaE00c2ZZV3RkNFUyMWpBNXBvcmlxejljZFJvQ1lhaGF3dW56d2VFX1BHa1pvbmVkTDFBSWh5QnQ4eTJfLWpFTktGMFZXTGhKRkdfTGI1UHl1N1FLY0M?oc=5",
-            "published": "Tue, 21 Jul 2026 09:41:20 GMT",
-            "timestamp": 1784626880.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "India\u2019s data centre capacity expected to exceed 6.5 GW by 2030: Rubix report",
-            "link": "https://www.expresscomputer.in/news/indias-data-centre-capacity-expected-to-exceed-6-5-gw-by-2030-rubix-report/136916/",
-            "published": "Tue, 21 Jul 2026 09:36:13 +0000",
-            "timestamp": 1784626573.0,
-            "category": "IT Industry",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Pune",
-            "title": "TCS Acquires Land in Vizag, Pune for OpenAI Data Centres - analyticsindiamag.com",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamJoUEN5RlctRHpBaUJiMkh3dHc2aWF4Q3dQZlpjdDJnOWZoQ19KZGN6Rlo5ekYxRWJ0RGFGVHJkZENNT2ZfUEZPOUE2VENNV0RyVVdiQ0VLcHFQVy11Q2tDbHRyOWRhS3V2eGRaTmJRcmdzQVJLNy0yeDVPSy1wYnFjdklUSXA5MHFIdUY2bjJ0a1Z3ZkpENQ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:32:23 GMT",
-            "timestamp": 1784626343.0,
-            "category": "IT Industry",
-            "city": "Pune"
-        },
-        {
-            "site": "Google News Chennai",
-            "title": "'The death of globalism is the result of intellectual property being used to dominate global affairs': Sridhar Vembu - Startup Pedia",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1dOSHpCU2NfOEZPUU52dWtaNFZxdzdrMWNFc1pKV3FLZm1zeUNYQklKNWF1WnpLeHg2Vk1CYnJnWGwtLTNkc0xqMU1fSlhuc1Bxdm0zbGZjTW5icnRtbUdRZkJUZ1I5UmZJbkxTZVluZGQ5LWNqSWJ0bWFNRzhqODdSaGpFV3B4aWZma0RyNGJZd3F0TVhxNDRfMDRPUzk1MUJ1WXNkSzBUSHk0d0FFS3Y4V2lKWkF4emR2akdTRmtFbVAzOU5oSVNPWjhVLW91YXc?oc=5",
-            "published": "Tue, 21 Jul 2026 09:32:12 GMT",
-            "timestamp": 1784626332.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Inc42",
-            "title": "Zaggle To Acquire 20% Stake In Unobanc To Bolster Cross-Border Payments",
-            "link": "https://inc42.com/buzz/zaggle-to-acquire-20-stake-in-unobanc-to-bolster-cross-border-payments/",
-            "published": "Tue, 21 Jul 2026 09:30:34 +0000",
-            "timestamp": 1784626234.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Enlight Metals introduces multi-AI agent procurement platform to transform steel supply chains",
-            "link": "https://www.expresscomputer.in/news/enlight-metals-introduces-multi-ai-agent-procurement-platform-to-transform-steel-supply-chains/136914/",
-            "published": "Tue, 21 Jul 2026 09:28:35 +0000",
-            "timestamp": 1784626115.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Lucknow",
-            "title": "AI-infrastructure Platform InfoBay.AI Crosses Rs 100 Crores in Revenue in FY 2025-26 - malaysiasun.com",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWUFUU0N3LTVvOTRwZmtlV0JtYUN0SUk3RG5tR2l6LUpKdEtVUWxqa25jVEJJaFRRelBJbUNKdHJDeTllclJObkNjUXNhX2tCTHRGdXZhZ29USkp3TWJuOWZJSXk0c2t6UVB3X0ZhUV9kLURQaGU2Mk4zSWJWWFVEUGJjLWk1ZVNTR3pTU1ZDXzVRM0RhOHNJY3BlUkFLZ1VUT0l4OXJ6U3RYYmt1V2pmdXpYekY5bnhKU3V6ZkE2SUJyRVRG?oc=5",
-            "published": "Tue, 21 Jul 2026 09:28:00 GMT",
-            "timestamp": 1784626080.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "In Photos: Cockroach Janta Party Continues Jantar Mantar Sit-In After Yesterday's Parliament March - Outlook India",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlVBdkR5V25HTU9KMzl6NldMeC1POWdjOWt5ZFFuOWFwM2JJNVk4WEc5YVJqZjB5cmJtV3ZsS0lIbG5OeV8xZ2JCc295RkpTOG5QLThKVVNqazhic3ducEs5ZnVpMmZoQWxZcHR6aU9sQ0hHTURkekNJSWI4aWtjcktnNjhLX2lLVDdSbkphM0ZXaTNGdGtvYTNRcUtoSmZXRVp6U1dJbEMyOXZabWRXempzMTFhQjVYUDNZSUtlWllhMy1xTW5SRmZEallXc1nSAdwBQVVfeXFMUHFqc0l2UGhvRjhTM2w0UjM1QTNvMEF1TEdzMl9XZGFRZFVHdGZPZFFBR3dlRGxhRGhfbHpSV1RqR2JmU0tnU2lJTWZrcUphTDMxQTZZYjVURWJaNkQ0b1dRTlhLRlR4WEFlb2QxR0NROU12dHE1X3E4YUZzMlljSUlQQ2wya25hLUpaN0I4d1hSeVM1R0RkUTUxVHBaR2QxYk5icFJaWW51YXcteGJzdW1iSFVncUZySXVTUERQY2RyVWllbUNWVXIyS2JwalVjc21rS1VRU1h3UlBoMQ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:26:17 GMT",
-            "timestamp": 1784625977.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Gurugram",
-            "title": "Gurgaon cook earns more than a govt school teacher, yet isn't allowed to sit at his employer's table. Soci - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPZjhkbjd4OHNtM3VfS2NlSFBKTENoX2J2X2puRUVucUxLUXJjVUdyYzB5aFhScm5GbnBHbm1DOGltOTJlS0FHZlVuSVhNaU5zZ0tHTGRWNEhVd0VHMUY3cVlONFZzQ1E2VjJiZjBXMkhxOG5PUGZLT05rOVBtUzV5blZIOVNGdXdmRXR5M3ZvWGM5TTVGZFRvUmlQMkVKM2xaRlZZRzFfMWgteTFTU1hmTUJEUWlsdXh5ZzMzYnBEaDNnem42dVpRVW1aN0IzY0I5MUN2aU4yeWxzOVc3cHZZWGNWdDdMT3J0S0RoQ0NsaDVCS1pkLXFPaTBxZXFBZlN3T1cyRHQwT1ZzeFV5QW1OTzFfd1N6MVJ2LW5YU0lKZlFIWFNtNTM2S2FyU19uRWtxdGJGcThzTTlfSU5NLWlhYdIBwAJBVV95cUxPZjhkbjd4OHNtM3VfS2NlSFBKTENoX2J2X2puRUVucUxLUXJjVUdyYzB5aFhScm5GbnBHbm1DOGltOTJlS0FHZlVuSVhNaU5zZ0tHTGRWNEhVd0VHMUY3cVlONFZzQ1E2VjJiZjBXMkhxOG5PUGZLT05rOVBtUzV5blZIOVNGdXdmRXR5M3ZvWGM5TTVGZFRvUmlQMkVKM2xaRlZZRzFfMWgteTFTU1hmTUJEUWlsdXh5ZzMzYnBEaDNnem42dVpRVW1aN0IzY0I5MUN2aU4yeWxzOVc3cHZZWGNWdDdMT3J0S0RoQ0NsaDVCS1pkLXFPaTBxZXFBZlN3T1cyRHQwT1ZzeFV5QW1OTzFfd1N6MVJ2LW5YU0lKZlFIWFNtNTM2S2FyU19uRWtxdGJGcThzTTlfSU5NLWlhYQ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:23:00 GMT",
-            "timestamp": 1784625780.0,
-            "category": "Business",
-            "city": "Gurugram"
-        },
-        {
-            "site": "Inc42",
-            "title": "BlueStone Zooms 20% After Reporting Third Consecutive Profitable Quarter",
-            "link": "https://inc42.com/buzz/bluestone-touches-upper-circuit-after-reporting-third-consecutive-profitable-quarter/",
-            "published": "Tue, 21 Jul 2026 09:18:24 +0000",
-            "timestamp": 1784625504.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Delhi",
-            "title": "Delhi Police dismiss report of CJP founder\u2019s detention, call it misleading - Social News XYZ",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0V5V2MxMlgxSUlJZ3VrRklicXNyeFBWQjV1TndCSXo4N09SOS1ySFN5OG9iYUxuM3lCZ3JWLTB0YUVCTHVJcmVpV1pGSWpqUGNoU3VsaTBxcFNGS19nX2NZLUlCUFJQbFlwZlpZQWZYWXJ1TUNZekNjUlc2WUt2eWxyWmNFTTlwcUxVNEhFWFdPNzcxR2ZCZEJRVjMtNXZ4N1NRZ2FtdkZ0cV9rSzFGbdIBsAFBVV95cUxQT0V5V2MxMlgxSUlJZ3VrRklicXNyeFBWQjV1TndCSXo4N09SOS1ySFN5OG9iYUxuM3lCZ3JWLTB0YUVCTHVJcmVpV1pGSWpqUGNoU3VsaTBxcFNGS19nX2NZLUlCUFJQbFlwZlpZQWZYWXJ1TUNZekNjUlc2WUt2eWxyWmNFTTlwcUxVNEhFWFdPNzcxR2ZCZEJRVjMtNXZ4N1NRZ2FtdkZ0cV9rSzFGbQ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:17:26 GMT",
-            "timestamp": 1784625446.0,
-            "category": "Startup",
-            "city": "Delhi NCR"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Infoblox | Build Visibility, Resilience, and Control Across Hybrid and Multi-Cloud Environments | Webinar",
-            "link": "https://www.expresscomputer.in/cloud/infoblox-build-visibility-resilience-and-control-across-hybrid-and-multi-cloud-environments-webinar/136909/",
-            "published": "Tue, 21 Jul 2026 09:14:51 +0000",
-            "timestamp": 1784625291.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bhubaneswar",
-            "title": "Organelle Farms Strengthens Presence With Another Retail Store In Bhubaneswar - OdishaBytes",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzdfSjNQbTQ4MWlXazUzQ2pwdk84ZmVkRHBXOE81d0tiM0hNRGUyMWtTMkxXZnRPX0JhTDQ2WW5OMFloRG1TY1pfS1RVdG1ZZ3ZvQjRZelg0RFYwd1N4WWh0UWVnT3NCd0ljSjVULTlHNEZBZ0xpZjZUMUxWbEhwQjJPYzN6RVdJdlkzM0J6SnNFUW1TVldQLTBKbjBGTjVVMG9oTtIBqgFBVV95cUxNT3Q0T3g4b3ZuMVMyVmFCUFJ4VUI0NWViWGlpVXg4c191amJ4VVhldVJKMTdnSEZPQzdDZVJVOUdTLU1KUmpiZmFKY1F1bGxNY2JMbERyaWpfU1JMV2VibzdMVmtVR3lxa2lxczFzSG9GVkJzR3F3WE1XZEZXajBZb3FsZmUxb1BWQXctU1hoTDAzdTBTR3dvTW4taGZlRnNaVkJXV19vV0lyUQ?oc=5",
-            "published": "Tue, 21 Jul 2026 09:11:19 GMT",
-            "timestamp": 1784625079.0,
-            "category": "Business",
-            "city": "Bhubaneswar"
         }
     ]
 }
