@@ -1,6 +1,78 @@
 {
-    "last_updated": "2026-08-08 07:52:22 IST",
+    "last_updated": "2026-08-08 09:29:13 IST",
     "articles": [
+        {
+            "site": "Google News Bhubaneswar",
+            "title": "India committed to humanity-first BRICS approach, says Pralhad Joshi - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY29rQktUUE8tYVJDODE2bmpEamRQLWJDWWR4OVRCLW9UbXd5MUdySURzNGFaVFRNbVVNc0V1NVlNQkVXbGxIQk8tSFE2RkRjZjBEUjJsdUJTUEtiUTJ5Y3YzSUFyeFNyclFqZjFpeHVybGdGMk1IS29JT1UxMURkc1pUdDJRNmZuMVNMancwX1FhTXp4Rm5EV2J1MEszNkljRDBReHk3U25YRzNrU0poRERaTEtvT2hXZGhuaHQ2OFJXRzYz0gHSAUFVX3lxTE9QNFRSb0ZFeG1QSlBXeEt5T1h5NUsyWkgzSXVRaXh4dW12Q2M4VVVCTWpKT2hVc253QU9OYmduYTJSUnEyVHpCV2UyeDJPUERERUtMRHMyWDJQX3A1QTZCZEZ3b0ZFeHFNOGVZWTc4UnFEUmt3amVTVXJEM0t3dU0tNVEzcC0tOWxQUHJZaTFoellpdHRSYW5sY09lTHVtRnJsamstLUJuTkptM0ZNOVN1cDdnMDJabUJfUEg2anczSnJvbFlfWDdFdy1FSEh4WnFJUQ?oc=5",
+            "published": "Sat, 08 Aug 2026 03:22:14 GMT",
+            "timestamp": 1786159334.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Sarvam AI | All about the Bengaluru startup\u2019s plans for a trillion-parameter model - The Hindu",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzViYnF2LS1xMTdyU2VlbnY5dTRqcWtkTXVKdUptUmJLNzNldFNDamdUUGpydmw0SmZVMjJJSHlYdjR4eTQ4NUVSQkJaNHpvMXBjRFZ0cHVRQUtMUkpDdW5ESUZENzRmdUctNTFwazVYUEZHMW9FMDlsTVFTaDQ2YXZHbTNtVUQySllVWmZ3UllnVHlZWTFEanBEN2wyZDh0VUJSclVPWlFLckJEWnk0dUwxVkRMUTZYZkdjMHNkQU1fc0NucGRBS2dpNjFFcUs5ZmdtMVBOUzcxdVFL0gHjAUFVX3lxTE9YOVdXOVpIcVFmTUczWUJrRXduX2F6bmhXcmYxQ0JaZFJPVTNRckstc245SXl3VHA5aUxwMDRyZEhGNS12bmppdWItaW9TdXlNRUZHZnRDWWZ6Qm5xX0dpaDBHcmRhNTJnWGQ2VWJWNE5hNHdERm1UX3dkZjFvTWZtVlRWbjFHQUxDX1BhM1B0bm44MXVWdTY3SmVPUXpSb2dYY25tdkd4blhZd0Y0aHFMV1YwLTI3dVJWWTM5NHlNbkFlMnZJbG9sU0VobkFqZVZRQmpjZFdrVGtZT2MxQklvQkd3?oc=5",
+            "published": "Sat, 08 Aug 2026 03:14:21 GMT",
+            "timestamp": 1786158861.0,
+            "category": "Startup",
+            "city": "Bengaluru"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "\u2018Why do you behave like Delhi police?\u2019: CJP founder Dipke confronts \u2018rude\u2019 cop at home - The Federal",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXVTTnF6dk8zMlRsVXhDRGpqVEk0QUlJcV9NWGU0MWU2UWhEMGkwdy1RNUp0QUVCbXhtRFgwMllFajNsMUZFQ0pJSFVEWWNBcTBkNHpVMUljZHhSa0ptWmc5T0VNREV5Nkt5OHB6RElrOG1jZHdSalJLcUxHeFlUWkVsam5KTkdDVUQ5cktUc0hFbGt0Wjk3MTh5SE5kRnp2U1ZnbVNsTjFWSDhyYlRwLVdnN1lwcGZLVGpPZHR3VjVoT3I5d2VUU245RDFnQQ?oc=5",
+            "published": "Sat, 08 Aug 2026 03:13:52 GMT",
+            "timestamp": 1786158832.0,
+            "category": "Startup",
+            "city": "Delhi NCR"
+        },
+        {
+            "site": "Google News Chandigarh",
+            "title": "Punjab Governor encourages mothers to lead fight against drug abuse in Punjab - News On AIR",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTFMT2JLYjVFOEdKVV80UjBxa1ZrY2VoR0V0RGExSVVhREo5WXFlWE5WdG5NZ0tway1OVUVjUXNhTVFubXpQLW8xb0dQMlYxZHRCZjZZVVN3UWduUWhUTnJySzh2LVpBREFQWkFJVUJRVmQyYXdsYS1CZmlFaDdJckQ5WVM2SWdZVVQ3UUhlbl9LbmtsOHlZZUFyRXQ1SnVxRW9yTEl3?oc=5",
+            "published": "Sat, 08 Aug 2026 02:57:00 GMT",
+            "timestamp": 1786157820.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Ahmedabad",
+            "title": "JKEDI organises high-impact startup mentoring, orientation session - Greater Kashmir",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3BRNTl1enR3NXNlY2d4SHY2RThaTURKOHpBWXhhOHVvWXJiRlJxQjFYQy11VEFXZ09TRmRCV1RGcktPaG9ncnhsOUZKb0RZUklZRXFlSTJUVENGTkJQdlRYdXpSNmVFTkI2S0p1STl0cWJ2RjdkMzVvaG5LUllDNS1hY2JaMVprVjhRRzZtV3RSd1VmTHdDOTFtQk9oYnplS2hzV2NpdWlOWGV1dE9pVDR4MDPSAboBQVVfeXFMTUdfVDBIV1lDNUM2VkpCY0NYMlptTVFaWERnZm9tbDI3eDIxZld0YlB5SFhaVmk0UHhKUkJ0QUdUY0pDMktKYlRIN3RfWDZvaldrdEozdjZjcWNVb1BDQTBhR21WczVmOVVGbWpKWEdVWXRWYW10T1A3dmxBZ3U5azBmOGFhNHFrUUZZaDdSX2RQaEtrR1ltSEJQOUx1UXZOa1doQXQtTEtaVl9ZX00ySXY3MmYtQWFyQlpB?oc=5",
+            "published": "Sat, 08 Aug 2026 02:39:44 GMT",
+            "timestamp": 1786156784.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Delhi",
+            "title": "\u2018Sir, I'll need a 30-minute nap every afternoon\u2019: IITian founder reacts to Gen Z candidate\u2019s request | Trending - Hindustan Times",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN0JSb3gwX2xMdE54UWctaEdRd0FlU0doSGlxQ0Jyd2o0VU5wOFZMQkFSNDR5bzdoTFZ4cDQwWUgzUVlOOGdnMWFRS21LdEVZYzV4ZzRmVklDcjVtMFB1TnlIbGJ4YVJ2YW5ZN1h1SlZqV0o3bERTci1vOHNMWGViQmplLVhoeEF5UjQxak44Tk9VZjIyaXFLUFEzRFJRLTFTTlk5UFUteFdyUy01MW4wZVZaZ0t4OEZ4Q0ZjN2ltMmVsVXJpUFBzR3JVRERHYlFQQkxELV9OdTFoaldMTkxOS3puUUNVb3c4RUZ2edIB8gFBVV95cUxOZXAtZ004MUk5MFAtSjVMazh5b1l6cm5mWFQ4cFRrNTVucUtPZFBpSFpuWG9mZ3VTMmd1YlotZU5YSkhhVFhXeGh6d1lYcHEtOFFfLXdpYkFPMVowek1yd0ZreG80bHdlc2M3RWRJZ2lLd1RpTExLX1JfUVN3TnBHWk5ENXVYcjlqMGNiZE5ZSUJENjR3LUk2Qi1wNmlOVGlCMENyOHdUVVVNdDZXYWNiWlZhRE5lOHlic0VCS3lhaExLeG9RclppTkZ0MGlvZ3NoZ0gtY09zaFBwbGZUTm9RTlh0UUtUTGJnSThXYkgwUGYwZw?oc=5",
+            "published": "Sat, 08 Aug 2026 02:36:35 GMT",
+            "timestamp": 1786156595.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "Startup Mantra: Jupitice is building digital infra for justice | Hindustan Times - Hindustan Times",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHNYTmVxVElsWkdockgyN3ZlYS13QXdFdzN1ZThJRkYwaVJ2b19tbndydjdyWTBUNHJacDBGSWFrZjJQQjJMX0ZISkxUWnQ2X2pMTFZleGxQQm1FZ3BYaUdWWkk3SWRpVWRwUjQ2VHlveThFSFpRbElmU1VtQ3RVWDJjbkpwU2JGcXpxcG1MNG9ndm12UGtfLVVYSHJMSmFDbFZpTHgwN3JjS09WU1FMOGl3TUlabS1jSlJzWVYwSTd2dDFWWHRCekZR0gHPAUFVX3lxTE45SElfRlJZd2QwRm1mOVB2VUpfSUFsTE50MzU3cW90bkJXV1hpRFV1Qm11MHR4aWwwR1puRDdNbUpVREs0eEwzYmEtbmRfSnN4TzItMkpmR1JQYUZHRG5DVGIwcFJsem92VXNFTWFnMmlxYWtCRDN0aF80RHJvcmxFT0hRcDNYYXRRVnJRSGQ2SlItSW5zTWRHQmt4QXJoSXlJemI5UUN4VUVEWF9zX1lFQlJmVk1ydk9FQm9SMThWMWNJRzUzWm0xRDBObVMtWQ?oc=5",
+            "published": "Sat, 08 Aug 2026 02:30:30 GMT",
+            "timestamp": 1786156230.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "\u2018Class 9 Pass. No English\u2019: Hyderabad Founder Recalls Hiring Taxi Driver As First Employee - News18",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTVVOb1ZzMlJ4S2dzNWNBWVJXRkZqbUJxVWxjVWEyZlZkRnVOeF9NSERRRkJCVG1kVE5GZHFLUXJ2dk5zd1JrQnJ5SU1JMnpoUVdZUGZETFJHcEZpMDhHb2JSa2NuNWRITzNDSTJFMldvX09LcEo2dTZITWZLNTlVUUdaWFpTSnZpZVM0bHFmUTZ5MU1udW01Nk5xaUJDQjZPNUhHel9uT0tnck1jV2JLNTE2Z3liRGcySFNuM3hCM0pYQ2Nkamw4QTB5emM4dXfSAdQBQVVfeXFMUFNFbElKV05aQVhvTUROWlZkQVlnd0hsLTVodTRvcFBQa1lYWHJ1YWd4dXB6anNvM0NiNDlqWFV0UEhLMlYxZ3ViaURsTUlTMnhVeE9FWmw4amtFa2JtTm9TSmpDNDY5cDRCVW9UWFM4UHgwOEt2STJwazdsU2dtNDEyYXpva3hJWkd3TkxVVlkzUXlXZzRXRml5Z0FIRmRzcFhkcFp3U3FQZmtVMUxiTXlzTGt6UU1yVDd6X0xFWXcwNGlOb1gtUlU3MlVEbUhzc3FfeEI?oc=5",
+            "published": "Sat, 08 Aug 2026 02:30:28 GMT",
+            "timestamp": 1786156228.0,
+            "category": "Recruitment",
+            "city": "Hyderabad"
+        },
         {
             "site": "YourStory",
             "title": "AI is reimagining service companies; Ola Electric narrows loss in Q1",
@@ -27,6 +99,15 @@
             "timestamp": 1786152253.0,
             "category": "Business",
             "city": "National"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Bengaluru startup's rocket engine marks a first: Can it become India's answer to SpaceX's Raptor? - Business Today",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdTVkU1dHbGc2WVhrVmVWeno3Q240YmQ1QWFvcm5aT2lfbWs1dWNhc19MaEZCNXd4YnVBXzQzckRCeVhWc1RnbmtnVHFlVTRGc3ZGd25ZRGlEeWFUdmJXWGIydW5JeXZ1YkhkR2l5Skk3b21Oai1RbzhYVDFLWUM5UWxGckNWQzRzNlRXU1d5UHJwdFNhLXg5dVVYYU9jaUhsT2xNT21HNTNzcGtVbXRHYjgzcEowWjQyYXFnUUtoU24tYnNkSlZmcFJ4VURVVDFHY0gzckptWTdHZDh5LTQxRjkwNU1ZR200X1JsbkV1SlUwMEdQSW5PU9IB_gFBVV95cUxNWkZwWUFDSWEzVmNjV0dyZXg5VExUQW11RVdSaEJrZHVycms0Y0FJanJEcXAtMDJhTEFUc29xUkV0YlZoM1ZZeU1TclFKZTk2dlVLU09jQVVscmF3V1E1bnpkYzB0V2pLZlpuWUdRbUJWYWstQWl0QzZxaXFraXEtVlRsYkJQdHl4elhCc3hiV3EyTlZVTS1CTlA0YlppakNIU05rcVpKWFYtdFdlODd1V2hMZ05iUXJVOTM2YjExYTVMNGVoZTJ2bV92WmlnbTY0bFhFb2M2dlVKY2NnR3duQnk5c09LTnZkUTFWZGRScEtHM2VtdldzSEpMelNDQQ?oc=5",
+            "published": "Sat, 08 Aug 2026 00:30:05 GMT",
+            "timestamp": 1786149005.0,
+            "category": "Startup",
+            "city": "Bengaluru"
         },
         {
             "site": "Google News Chennai",
@@ -349,6 +430,15 @@
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmVxV3NoU016cjdJM3NQYzMwMGNNbURTTHpjbGhpLTZ1YkZubmNmcXZLSzd0d05CZjdwUGtRanJMUUdRTUdPYm1OaWFEZGhQN0hiS2RIZERUM01qd0xJd2tVcFlKdFQ2QV9sTmRXQ0dFd0NUWVhKdG5vMmtQekc0bW84T19abTd4UWRXb0VwUktsdTJHRDZPdmJwdW9scDVuM3Br?oc=5",
             "published": "Fri, 07 Aug 2026 17:40:53 GMT",
             "timestamp": 1786124453.0,
+            "category": "Business",
+            "city": "National"
+        },
+        {
+            "site": "Google News Pune",
+            "title": "NEET paper leak: 'Obligation of secrecy' breached by 3 NTA experts, says CBI chargesheet against 13... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcFJNd2tlM3l3SHd4YW9waWtLbXlRcnNFcmdMTjkzdFUtY3dTSnhSbGszYW5fd085ak0wMW02TEgxLUdwZmF6V0Faay1GXzhVTWM5anMwaUJQNWVmbDRkb2tZV3FEZlhmRWhERENKOGNIdzRReXNBY1oyLU1xdE8tdWk5NU1tZlJvNG1uNGhpQ3N5emgzSXlMczUya2lNVVN5ZW41bHF5YmRWVVBVRWVuV185Y2dNUUl1eUdNcTRjUGppdkJzZkROYmNMV3Z2V1ZWVXowTV9BZWZZYTktc0RqVm5WYlRwMnVuSWhncThR0gHzAUFVX3lxTFBTeTg1X1FpSlBFQnA1RkQzZWxWS0x0RV9SU2FiR1hFZ3hyU2J4dkJ1MndKdGNHdnpjbVo3TXgwZUI0QU9HOWFfN0hjUzExNWtiOUEwWkZwYWR0emYyN08yNWh0cjRobDZyYkRoSzg4eWE3TUJEdE9pMnBuWXhoTm9QNUhjNnZ0Y21qWVJaQ0FzTUlkWXV5ekFpQU90VGRacnkwUWFQelBTajdMYjdNNVVKdDFHYXRJcENUYkZMY2dRM0ctUEFodVkzMGRJTmRwM2VjZnh1dlpBY1RrTFJzd2pROTJnVTl2QVZOMGk2N2dfeU5sSQ?oc=5",
+            "published": "Fri, 07 Aug 2026 17:31:14 GMT",
+            "timestamp": 1786123874.0,
             "category": "Business",
             "city": "National"
         },
@@ -1269,6 +1359,15 @@
             "timestamp": 1786101339.0,
             "category": "Business",
             "city": "Delhi NCR"
+        },
+        {
+            "site": "Google News Gurugram",
+            "title": "Gurgaon rain exposes a Rs 48,000 crore lie: High taxes, zero infrastructure - The Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUxCNE8zb2lid2ZrUWVzd2NIUm5idEk4Y05sdXZ6QWJCaVRLWFpWSVFVNjg5SWpzSWtOaFFwelFwbUtmam9XSUJBdW5aeGVHX3dqNUNLR0IzTkVVRHdkSXYxM08tbFpPdkR4TTNORENfN2JDWGptUXpjeUdwMDBQLUxZZmNINHkxcE1hQkpxc0ptUjhUNkRCWHJBZnhiaF9zZFBvQlV4Sm7SAa8BQVVfeXFMTzU1Z0FTeFNrNTdlWWZIMVJqSXV3bU5mV3VnQk9vUHRIT1hOWUNqOWhUOHpRQnFCX2ZQMy11ZDRmT3ZPN251MnpEd1hxSmZvVjNEWkdybld6a1ZMYVJRekhJWXk1MGtFcVpGc21GVWJJVEJRZExRQUlMTTlVWXFfNDE0N3pMZWp5VGp6elZXSnZZSUkycTB3UFVUTEZtR1JabktaMVFFYW1qUzlleUNOWQ?oc=5",
+            "published": "Fri, 07 Aug 2026 11:14:58 GMT",
+            "timestamp": 1786101298.0,
+            "category": "Business",
+            "city": "Gurugram"
         },
         {
             "site": "CIO India",
@@ -2826,6 +2925,15 @@
             "timestamp": 1786077614.0,
             "category": "Business",
             "city": "Ahmedabad"
+        },
+        {
+            "site": "Google News Bengaluru",
+            "title": "Open-weight AI models widen startup choice: OpenAI\u2019s Manara - timesofindia.indiatimes.com",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVFSdWlfdktBamhqUm9lbl9FcGJMekxNRTgteWRDVDRUUUV1MWtTMFg4VkVOSzJkdjd3dWs4ekNsNDNmWHAxdVNaejMwbl9mQ3NENlR1RGY0WF9pUGpqUm9odVJhMVZ4eWJYQ0VabVFhUlFsUG5BTTdkSU1VSFd4YnZlM05EQ0czeTFkaHAwNHUwXy1wZVk0MGRabHVNZTYzZUFvU3hjLTIwS2M2eGdqeW5GVFNTSlNsaXhSYkctZGx4dU1MV0hnN09INFdqMUREMW9HLVg2N0tiQdIB1AFBVV95cUxONFh0MWJBNkxRWUtzeldzX0ltcTB1NWZ2cVVIbU10d1pVc2dsSHlSaXE4TFRUMXpFX2xENDNSWFhBV3lURlNweGVlek5ESlNQb3Q5QVQ5SEsxYjR3OWNkcnZ6WHl5OVRSY3lEYjBlaF9zVEI0NkoyRGFaWXF6T2pjdHQwakZ0ZHpqT182VDlwU3BYRDNrLTBoR1ZBbjRLSWF3WjQ2T18zQkF5dkJiM1R3RkN5TkdsanpTbUxIV2tjZUE1eWtrR18xUERjLTRjUGwxbmRueA?oc=5",
+            "published": "Fri, 07 Aug 2026 04:40:00 GMT",
+            "timestamp": 1786077600.0,
+            "category": "Startup",
+            "city": "National"
         },
         {
             "site": "Google News Pune",
@@ -6966,6 +7074,15 @@
             "timestamp": 1786011902.0,
             "category": "Startup",
             "city": "Noida"
+        },
+        {
+            "site": "Google News Hyderabad",
+            "title": "Muslim women and intellectuals brainstorm reforms in Hyderabad - Awaz The Voice",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzV3anp3RS1TdUQ2TURLUHduaFNCbUlzZGVsMzNxZ0hEZkdDNGpCWXJoWHNEcDRKRW8wbUhjb3BkcFVwZUF0eXVaUXBRc0Q4UUFKSG90OVdMR2pDTS1qczROcm9Td2ROZ3hnQjZOYVNTZ25fcmhUMHplRDdkTnJZdllPRngwZm9KbXJlVDNKUDR6SGUzOWJWX1RrekhjYnZvTTJ3WEpOV1lqLXdTaUFXQ0RWeVM?oc=5",
+            "published": "Thu, 06 Aug 2026 10:24:56 GMT",
+            "timestamp": 1786011896.0,
+            "category": "Business",
+            "city": "Hyderabad"
         },
         {
             "site": "Google News Kolkata",
@@ -17881,123 +17998,6 @@
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUdwX09HOGhZM2pmb2lsbms3MmgzOEl6SXN0VktXWHBaZEVvbE55ekNnQjRmZ29sUlAzTnJ1TFN3cTRINEZqZTB0N0RVdi1reEFWSmM5X2dfVF9PeHFSZ3d5ZmtITXhMRGlybm9FS3VENUxPZndaYTRTUy1PcE5MVDhMYkhHbVliMWNqYW5UdGl1eE1iUDJuRTV5MmNYcG0zdGVIS01PYVZ0cHZHV3FiUFV6cUZFb1FlV0Rr0gHAAUFVX3lxTE1tSnlsOXY0VmVYbzFwcHV2YlhkemsyMFROblh0ZTJ5TTZvbmVqT2tXTDQ5QnNURzZqbFd4dUNMQVQ2bERYam9TN0UyeWljT2RMRkdDNjBINTFadFpaTzQzZzhBeWtKVGF2bFdNZzJtUHNOYXRsdHFWUGxlc1Q0azRJMHVaX2stbTdYc1NTVTVMYVc4czByd0QwemxUMGR4OEJuMWR4UmJsQWt1TmZ6QjR3Qm5iWEZjR2o3Z21kcU9iTQ?oc=5",
             "published": "Mon, 03 Aug 2026 15:47:13 GMT",
             "timestamp": 1785772033.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Mumbai",
-            "title": "Scindia targets Rs 10,000 crore investments for Telecom Manufacturing Zone in Gwalior - lokmattimes.com",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWVFejk5TFgxVUN1ek84bmdkVXVfT3pEU2JSczdDWXJpWUFYMVlwVVFHNm1ob1B3U0NydmFFOC1QWGJNRlBSOS1saEM0UFpRMU14NUZ3Z0pFcW42d2V5VUQwSlRhODctc2VUbGF2d1dia1dkUHFPZDlQMXhwNEgtWV95LVUyZVVYclEwamlUV29hQjlSNGJHeTlOMjdkdHRaZEhJTjdvbWJEWGo0Z3hfY3c3SGFOSTZXZ3VoTmxZYjZmZ9IBxwFBVV95cUxOZy1tdExER09XWEtiNWZmQnozU3NpVHNWS3FreHIwYmZqWWU4bzlTSTFNdDg3bkd2cW04UWtWaV93cnloNHUwcC1wOWRnOWFwWjJyOFV4U05yOHNDWmVwcDFabFpvdWRLWk5QanFVd1lXcWc3Y1NKaFktRG9CRDJkZVNtaDBoYm5RanlXeGVqWHdGZ19WXzI1OTJKaFRUY2dxcHpWVXliR21CelVrUVVrbVVUTU9SbFM0RW8tQ3k4cG91cXpaN2ZF?oc=5",
-            "published": "Mon, 03 Aug 2026 15:44:35 GMT",
-            "timestamp": 1785771875.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Why India\u2019s AI ambitions are facing an execution gap",
-            "link": "https://www.expresscomputer.in/guest-blogs/why-indias-ai-ambitions-are-facing-an-execution-gap/137343/",
-            "published": "Mon, 03 Aug 2026 15:43:11 +0000",
-            "timestamp": 1785771791.0,
-            "category": "IT Industry",
-            "city": "National"
-        },
-        {
-            "site": "Google News Nashik",
-            "title": "India News - latestly.com",
-            "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxONWNEOGJGN2ZxMHB5RTI1QXF4NTRVMGx4bUgtU2lkVVpCa3lKdExZb2VDNjRJNEJtRHdrU3JDaEtqdFMyWEZYVjAycmNmVm1vQ2JPN3FqNjRkQmJMb3M0eTlTQTZuUlAzNnQ4VHp0bGttNjNjcXUwUGtzX1k0MnVEX0hkMlhzeXZTdFZtMmdSWjVWRHdseVNmbUxkV1ZWdjJzY3FFdDMteUdGczF6NHUtQmNtSXdBVHk0Z0JMVTFyOVk3dUpucHIwVERnOGY1UVlwRUFkWjNiWm5qM3Awc1hTQl9HanIyUHpxSVhFVW9ZdUpLay1hQ2s3R0lRMGYzUVNOZGVTdXdweTlOd0NDMjdfNk1BLWVmb2hzYmE0ZC1uLWF4a2NZRGFsSGVlSzltSlQzZENaWVgwR2pnTmPSAbsCQVVfeXFMTjVjRDhiRjdmcTBweUUyNUFxeDU0VTBseG1ILVNpZFVaQmt5SnRMWW9lQzY0STRCbUR3a1NyQ2hLanRTMlhGWFYwMnJjZlZtb0NiTzdxajY0ZEJiTG9zNHk5U0E2blJQMzZ0OFR6dGxrbTYzY3F1MFBrc19ZNDJ1RF9IZDJYc3l2U3RWbTJnUlo1VkR3bHlTZm1MZFdWVnYyc2NxRXQzLXlHRnMxejR1LUJjbUl3QVR5NGdCTFUxcjlZN3VKbnByMFREZzhmNVFZcEVBZFozYlpuajNwMHNYU0JfR2pyMlB6cUlYRVVvWXVKS2stYUNrN0dJUTBmM1FTTmRlU3V3cHk5TndDQzI3XzZNQS1lZm9oc2JhNGQtbi1heGtjWURhbEhlZUs5bUpUM2RDWllYMEdqZ05j?oc=5",
-            "published": "Mon, 03 Aug 2026 15:42:23 GMT",
-            "timestamp": 1785771743.0,
-            "category": "Business",
-            "city": "National"
-        },
-        {
-            "site": "Google News Jaipur",
-            "title": "\u2018Chaiwalaz\u2019 founder Rohit Sharma dies in suspected suicide months after shutting all cafe Chain - Indian Startup News",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUmRDMTNqRXd6U3VVNkluN2p4VS1YWE90NHp6Z1F6dDBYY0ItTlBPdHN4RlBySkFDdVdJSjAwQkxBdVpBd3AtV3BDV2NncGpYNDl0R2hHUkZXSDRLd3Bad090OVg2VGxGeDhDVHdMQ3JfZl9pMkJsbzFvc0doSzJmQkVxaFFzaG12WmRYQmZZWkt6ZEZoemJsZ25KaUdwdk14dVZ5cm5TLTdzVExBeVBsS3JYV3lkSUpFVGIzS3FncV9DVW9jT0stdC1kMldvRWdfVDlV0gHTAUFVX3lxTE9SZEMxM2pFd3pTdVU2SW43anhVLVhYT3Q0enpnUXp0MFhjQi1OUE90c3hGUHJKQUN1V0lKMDBCTEF1WkF3cC1XcENXY2dwalg0OXRHaEdSRldINEt3cFp3T3Q5WDZUbEZ4OENUd0xDcl9mX2kyQmxvMW9zR2hLMmZCRXFoUXNobXZaZFhCZllaS3pkRmh6YmxnbkppR3B2TXh1VnlyblMtN3NUTEF5UGxLclhXeWRJSkVUYjNLcWdxX0NVb2NPSy10LWQyV29FZ19UOVU?oc=5",
-            "published": "Mon, 03 Aug 2026 15:38:01 GMT",
-            "timestamp": 1785771481.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Bengaluru",
-            "title": "Sarvam AI set for fresh $74 million round; Nvidia to lead the extended Series B round - financialexpress.com",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLW41d0htWURLNGVjZmd5QWo3dUk3RWxvYlBZLVhIUjdtejIxQnV5cm9VWEVIZm1lN3U3dUtjQkRWQ0FGM3JGWEdDZk10cmY5Mk5uMVEzWlRwcDN2UEdfcUx4Vmhob2RYSEMzcUhkdUpDaE4tcFZ3Z19haEM5SEh5M3NzdmE5Z1ZlemhwR1B4bFNOT1F0cUh3ZFAxVFNLMHYtZWxLX2VrVkZSSGhheVpiRUR1VXNYdEpNUTlmVUh6WTJlSFNjSkdPRDdCbXNIT1hpZTFSZ3lkR3RPSXJ1c0JBVnBtdjQ2TXBlblHSAeoBQVVfeXFMUC1uNXdIbVlESzRlY2ZneUFqN3VJN0Vsb2JQWS1YSFI3bXoyMUJ1eXJvVVhFSGZtZTd1N3VLY0JEVkNBRjNyRlhHQ2ZNdHJmOTJObjFRM1pUcHAzdlBHX3FMeFZoaG9kWEhDM3FIZHVKQ2hOLXBWd2dfYWhDOUhIeTNzc3ZhOWdWZXpocEdQeGxTTk9RdHFId2RQMVRTSzB2LWVsS19la1ZGUkhoYXlaYkVEdVVzWHRKTVE5ZlVIelkyZUhTY0pHT0Q3Qm1zSE9YaWUxUmd5ZEd0T0lydXNCQVZwbXY0Nk1wZW5R?oc=5",
-            "published": "Mon, 03 Aug 2026 15:37:47 GMT",
-            "timestamp": 1785771467.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Visakhapatnam",
-            "title": "Vizag players shine at State-level carrom tournament - thehindu.com",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNTdELWJ3QnBEeHVYRWhFMDlyOV9zb3RZUUoxSElXeFVVbGRCX3gtUlNDZ1pyUEVGTHRBb1VHTDhvUTl0U1dTYlZCOFFmd096cm5pX1JJbUFBV2NTSFQ0Tm5xRFBkeFZVYTFtRWMwTS12OHFURWdCZkZ3UjRmRVRxWGhnSWFMWWZpek1tNWw2bHk4V19ielFLeWhOa3NJbmZHa090a2YyZ29TRzlYWExxdS1wd2QxODYxY1pBVkQ2eUMyQlVJ0gHLAUFVX3lxTE9OdnJsbk8zQ19KanpycGtmUGxPX0MzdkZYMUFQbFR5bHlreEpUaFdRcWtXak4zZW1hOUNmV0R1bk42T3I3LUwyOEdOcmRHSjRtU09RT01ESDlhV0FEV3Y3Smx6RlRIejR1OUV0ZGZXRWwwRWpONWx6QktXaFA3UHFreVRZQnFmSHdteHlHOUUyMXdBbVVPU3NNU1ZQaEZtWVZOc2F0dFFKYU5vaExLaGZDU21EWl9yaXZVYllTZ09Gc2dvbjFMeXN5cDVN?oc=5",
-            "published": "Mon, 03 Aug 2026 15:36:32 GMT",
-            "timestamp": 1785771392.0,
-            "category": "Business",
-            "city": "Visakhapatnam"
-        },
-        {
-            "site": "Google News Noida",
-            "title": "\u20b91,000 Crore Healthcare Investment Platform Alkemi Growth Capital to Launch Uttar Pradesh Startup Clinic at - Startup Story",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQODIxMlB1Q2djdmRQdnFmNUdMNGFmdDNKUU1MX2pIS2QwUFU2OHJZN0JOWnNrMno2bVlXSkd6LWRrTjRQZUVqU1Q3SDFoNG5KTFd5ZVhKM0U4UzlQczRiOElaV3lBaUVVZVBQY28xR1VsM2pKN0N6QUJOUE9FS05pdkhpRXRqbGtRU21GU0wwNEZGMkRMdDdhLWVlNk5HYmstWGduMERJUHMyWHlKOHozNkJzVC15bXVGQzlmUWZCUV85bXVvOHB3U2hqN09MMkItMnA4MFROVGwwQWYtNlQybllyeF_SAeQBQVVfeXFMUDgyMTJQdUNnY3ZkUHZxZjVHTDRhZnQzSlFNTF9qSEtkMFBVNjhyWTdCTlpzazJ6Nm1ZV0pHei1ka040UGVFalNUN0gxaDRuSkxXeWVYSjNFOFM5UHM0YjhJWld5QWlFVWVQUGNvMUdVbDNqSjdDekFCTlBPRUtOaXZIaUV0amxrUVNtRlNMMDRGRjJETHQ3YS1lZTZOR2JrLVhnbjBESVBzMlh5Sjh6MzZCc1QteW11RkM5ZlFmQlFfOW11bzhwd1NoajdPTDJCLTJwODBUTlRsMEFmLTZUMm5Zcnhf?oc=5",
-            "published": "Mon, 03 Aug 2026 15:35:25 GMT",
-            "timestamp": 1785771325.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Google News Noida",
-            "title": "\u20b91,000 Crore Healthcare Investment Platform Alkemi Growth Capital to Launch Uttar Pradesh Startup Clinic at - Startup Story",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOamlMWGNvWGI2ZHc2SFF4elFyRGZaUGdiV3lKM3pkZWFMSGxPOGx5ZzdsN080MWd2dWZNQmpMbF8tdVo3STIxN2w3ZmtCQUF4NUVpZGZock1TMFVGRkV5dmRRWE1LRGZIdjRDR0FXUXdWa1k4RlBwb3hJYkV5anJ6ODBndmZwYjI5aklyTm5YX0pqd2g5NzVYck9aQzRWV3NwMkpuVWZhM2t4dmR3UF9qOUpEX2stalkzVDlLaUtOaUNLNUJ0cXBiWVFYWTNXeW9nM0laaWJ5elRqWS1tTkhMNGRoMlRhcXk4X2dfcdIB7AFBVV95cUxOamlMWGNvWGI2ZHc2SFF4elFyRGZaUGdiV3lKM3pkZWFMSGxPOGx5ZzdsN080MWd2dWZNQmpMbF8tdVo3STIxN2w3ZmtCQUF4NUVpZGZock1TMFVGRkV5dmRRWE1LRGZIdjRDR0FXUXdWa1k4RlBwb3hJYkV5anJ6ODBndmZwYjI5aklyTm5YX0pqd2g5NzVYck9aQzRWV3NwMkpuVWZhM2t4dmR3UF9qOUpEX2stalkzVDlLaUtOaUNLNUJ0cXBiWVFYWTNXeW9nM0laaWJ5elRqWS1tTkhMNGRoMlRhcXk4X2dfcQ?oc=5",
-            "published": "Mon, 03 Aug 2026 15:35:25 GMT",
-            "timestamp": 1785771325.0,
-            "category": "Funding",
-            "city": "National"
-        },
-        {
-            "site": "Inc42",
-            "title": "After Verloop, Mukesh Bansal-Led NuPlay Eyes Another Acquisition In 12 Months",
-            "link": "https://inc42.com/buzz/after-verloop-mukesh-bansal-led-nuplay-eyes-another-acquisition-in-six-months/",
-            "published": "Mon, 03 Aug 2026 15:32:35 +0000",
-            "timestamp": 1785771155.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Inc42",
-            "title": "After Verloop, Muskesh Bansal-Led NuPlay Eyes Another Acquisition In 12 Months",
-            "link": "https://inc42.com/buzz/after-verloop-muskesh-bansal-led-nuplay-eyes-another-acquisition-in-six-months/",
-            "published": "Mon, 03 Aug 2026 15:32:35 +0000",
-            "timestamp": 1785771155.0,
-            "category": "Startup",
-            "city": "National"
-        },
-        {
-            "site": "Google News Lucknow",
-            "title": "Technology Senate 2026, Lucknow: Focus on how India\u2019s enterprise AI journey has entered the execution era - Express Computer",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdlYzSm5CZGFaMnZJNDdjdEZJUVh4MWptd2lSWDJyeUxTMldwVHJ2a0p5YUZjMmtBMjJ4MGV1YjBhUTFseS0wRVVUNVdZakhienVfV3dnOGpsM2ZNM0lBV1A3VFJjUU1rLVpKUGRHaldFNjdEc2tic2V0d190SW12RlV4OWszN2syYXFtdjdtd3lFREQydkdRZEg5bHZicWhaVTRTV2s3cFZqQU5nTUNocWFRbmpueDVPR2FtNHBOVmVQMjI4SHdyaFlfTXVGZmg5dWFPUFp0MEZnc3U4eG4w?oc=5",
-            "published": "Mon, 03 Aug 2026 15:30:26 GMT",
-            "timestamp": 1785771026.0,
-            "category": "IT Industry",
-            "city": "Lucknow"
-        },
-        {
-            "site": "Express Computer",
-            "title": "Technology Senate 2026, Lucknow: Focus on how India\u2019s enterprise AI journey has entered the execution era",
-            "link": "https://www.expresscomputer.in/events/technology-senate-2026-lucknow-focus-on-how-indias-enterprise-ai-journey-has-entered-the-execution-era/137350/",
-            "published": "Mon, 03 Aug 2026 15:30:26 +0000",
-            "timestamp": 1785771026.0,
-            "category": "IT Industry",
-            "city": "Lucknow"
-        },
-        {
-            "site": "Google News Kolkata",
-            "title": "Who Is Dr Jahnavi Das, Prashant Kishor's Wife? How PK Met Her and Why He Calls Her His Biggest Support - Oneindia",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR3dvWDlLS0ZTSEt1TjBQa3BGSXFOYld4dlBlemxkWks3MnU4VnB6WS03d2d4SVJGZjQ2cFlLU21yM05YQ2ROeXA3YmpaRGY1XzRrMGVFbmcyR21sU1JsdzFSdTNjVFc1M3c2aGZpRFNMRWpWSDNTVUZQNE9tLUhyUWE3UW9iUVdVYzlSWjRTRm02cW4tNXdQNUM1ZkM4Zkh6VWJYSk5hTUFtaFpCR191Snp4Q0drcU5LQWx6RWJMS1hmM21lbXV1QVZHbmxXcUtETDFWRWxJaFbSAeMBQVVfeXFMT0o0X0o3VXFXRzYxckNmdzlSTDE2QUJiU0ZZZjNhem9RTXBDNWFYVkcxSGg1QzJmWkFoTFlJUHpVcGtZVVkwcTJSTnhyVU9kV2p2LUZqVDVvRWYzTkNSdjkzT0JWOG9KT2w4RVViM3ZsYWhFWGkyeTMzUjh1MUFlMEVsWF9rWTdrWjNMVXpudFEzZnRDVjA3NmFQaGJfOHJ1LVotU3RrZnpZanN1WFl1T0FQdW1KMUxyQWV2WFVRckhETk1XM3hvQllrdllXcEtQYmtqejJzRWYzcEdSY2RNX2FueUE?oc=5",
-            "published": "Mon, 03 Aug 2026 15:20:17 GMT",
-            "timestamp": 1785770417.0,
             "category": "Business",
             "city": "National"
         }
