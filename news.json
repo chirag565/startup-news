@@ -1,6 +1,33 @@
 {
-    "last_updated": "2026-08-11 08:22:55 IST",
+    "last_updated": "2026-08-11 10:13:19 IST",
     "articles": [
+        {
+            "site": "Inc42",
+            "title": "IPO-Bound Tonbo Imaging\u2019s Net Profit Sinks 30% YoY To \u20b9362.6 Cr In FY26",
+            "link": "https://inc42.com/buzz/ipo-bound-tonbo-imagings-net-profit-sinks-30-yoy-to-%e2%82%b9362-6-cr-in-fy26/",
+            "published": "Tue, 11 Aug 2026 04:05:20 +0000",
+            "timestamp": 1786421120.0,
+            "category": "Startup",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "The AI stole the answer key, and we are still asking the wrong question!",
+            "link": "https://www.expresscomputer.in/guest-blogs/the-ai-stole-the-answer-key-and-we-are-still-asking-the-wrong-question/137595/",
+            "published": "Tue, 11 Aug 2026 03:41:14 +0000",
+            "timestamp": 1786419674.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
+        {
+            "site": "Express Computer",
+            "title": "The new technology debt: Why legacy thinking is more dangerous than legacy systems",
+            "link": "https://www.expresscomputer.in/guest-blogs/the-new-technology-debt-why-legacy-thinking-is-more-dangerous-than-legacy-systems/137593/",
+            "published": "Tue, 11 Aug 2026 03:31:06 +0000",
+            "timestamp": 1786419066.0,
+            "category": "IT Industry",
+            "city": "National"
+        },
         {
             "site": "Google News Chennai",
             "title": "\u2018There is much more to unravel about Chennai\u2019s biological diversity\u2019 - The Hindu",
@@ -17973,33 +18000,6 @@
             "timestamp": 1785974437.0,
             "category": "Funding",
             "city": "Delhi NCR"
-        },
-        {
-            "site": "Google News Visakhapatnam",
-            "title": "A.P. CM tells officials to draw micro-level development plans for Visakhapatnam Economic Region - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmFVTzFjcnFuNEc3RzY1MWhPWm43N2xRVGp6MmpHeWJIY0h4Wks4cnd2ZmJmUW9XZEhZS2NBZkgzOXpUTXhkejF5YUhkb2VqMjRfeTY0X05mVHp5VnZRdDBzVXdsZHhLYWlibUtvMWJwbTB3Y1hWLVBwT2gwbG1uYzBTT2g4Z3dQczJ5LVpFUmhhN09uMTVaeXVGZER0VWg4MkVMOWg2UVJhNzhJaFZIYlJrUEd4cDhZdWhQYll0LXE3U3k0bXB1TkJORi1mREljNUM2MzFva0Vsei1zNG53bHV0TFQ2MkdOblBrbHM0d2xsWnM4YmtpdmtCVdIBggJBVV95cUxNTEw0YjNVQWt6M2Y0bmt2aVFzMXZBOVNraTgtQXQtUUFRTjkzaE5yNVNXemRWanl0cjZoeFR6d2NhY0ppSTgzOFNMYjEwYkJDSkVEZWY5WkV6b3Q3ZHdEaGxuNS15RmVSU0t4UWhoMDJabmd0TnZjZFZSV1hXUnJCaE9lWlFqcEJQWEFZMGx1aGctX3JyeXpta1dXa3JUUlJVSTFQX1E1WkpnbVhuUWthYThaVElOcXYzMUhOWWRQUTlHOGpxTFlBVDliLTNuLXBPb3pHeFlHdjhOR1JmOHVzQ2NqdEFJaTBvbW96NVhhYVAtajBQcU9hUUZIWWpFR2ZwREE?oc=5",
-            "published": "Wed, 05 Aug 2026 23:44:01 GMT",
-            "timestamp": 1785973441.0,
-            "category": "Business",
-            "city": "Visakhapatnam"
-        },
-        {
-            "site": "Google News Visakhapatnam",
-            "title": "A.P. CM tells officials to draw micro-level development plans for Visakhapatnam Economic Region - The Hindu",
-            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTEw0YjNVQWt6M2Y0bmt2aVFzMXZBOVNraTgtQXQtUUFRTjkzaE5yNVNXemRWanl0cjZoeFR6d2NhY0ppSTgzOFNMYjEwYkJDSkVEZWY5WkV6b3Q3ZHdEaGxuNS15RmVSU0t4UWhoMDJabmd0TnZjZFZSV1hXUnJCaE9lWlFqcEJQWEFZMGx1aGctX3JyeXpta1dXa3JUUlJVSTFQX1E1WkpnbVhuUWthYThaVElOcXYzMUhOWWRQUTlHOGpxTFlBVDliLTNuLXBPb3pHeFlHdjhOR1JmOHVzQ2NqdEFJaTBvbW96NVhhYVAtajBQcU9hUUZIWWpFR2ZwREHSAYICQVVfeXFMTUxMNGIzVUFrejNmNG5rdmlRczF2QTlTa2k4LUF0LVFBUU45M2hOcjVTV3pkVmp5dHI2aHhUendjYWNKaUk4MzhTTGIxMGJCQ0pFRGVmOVpFem90N2R3RGhsbjUteUZlUlNLeFFoaDAyWm5ndE52Y2RWUldYV1JyQmhPZVpRanBCUFhBWTBsdWhnLV9ycnl6bWtXV2tyVFJSVUkxUF9RNVpKZ21YblFrYWE4WlRJTnF2MzFITllkUFE5RzhqcUxZQVQ5Yi0zbi1wT296R3hZR3Y4TkdSZjh1c0NjanRBSWkwb21vejVYYWFQLWowUHFPYVFGSFlqRUdmcERB?oc=5",
-            "published": "Wed, 05 Aug 2026 23:44:01 GMT",
-            "timestamp": 1785973441.0,
-            "category": "Business",
-            "city": "Visakhapatnam"
-        },
-        {
-            "site": "Inc42",
-            "title": "Govt Disburses \u20b9276 Cr To Set Up Four AI Centres Of Excellence",
-            "link": "https://inc42.com/buzz/govt-disburses-%e2%82%b9276-1-cr-to-set-up-four-ai-centres-of-excellence/",
-            "published": "Wed, 05 Aug 2026 23:40:51 +0000",
-            "timestamp": 1785973251.0,
-            "category": "IT Industry",
-            "city": "National"
         }
     ]
 }
